@@ -1,0 +1,1501 @@
+Trip ID,Location,Country,Category,Visitor Name,Age,Gender,Rating,Accommodation Available,Accommodation Type,Accommodation Amount,Travel Start Date,Travel End Date,Transport Mode,Destination,Transport Cost
+1,Singapore,Singapore,urban,Jennifer Zimmerman,56,Male,4.4,Yes,Hotel,203,11/01/2024,11/08/2024,Cruise,"Singapore, Singapore",798
+2,Cape Town,South Africa,nature,Megan Shaffer,18,Female,2.5,Yes,Resort,387,05/25/2024,06/04/2024,Train,"Cape Town, South Africa",497
+3,Edinburgh,UK,historical,Melissa Singh,65,Male,2.1,Yes,Hotel,172,07/13/2024,07/24/2024,Car Rental,"Edinburgh, UK",457
+4,Dubai,UAE,urban,Rachel Reynolds,56,Male,3.5,Yes,Resort,480,12/29/2024,01/06/2025,Car Rental,"Dubai, UAE",991
+5,Cape Town,South Africa,nature,Danielle Wright,38,Female,1.1,Yes,Apartment,461,03/24/2025,04/04/2025,Flight,"Cape Town, South Africa",131
+6,London,UK,urban,Marilyn Williamson,20,Female,2.4,Yes,Hostel,211,10/29/2024,11/11/2024,Flight,"London, UK",454
+7,Tokyo,Japan,urban,Sarah Warner,34,Female,4.8,Yes,Guesthouse,71,01/26/2025,02/09/2025,Cruise,"Tokyo, Japan",951
+8,Dubai,UAE,urban,Patrick Davis,29,Female,2.7,Yes,Apartment,63,05/14/2024,05/26/2024,Flight,"Dubai, UAE",487
+9,Singapore,Singapore,urban,Ashley Hicks,68,Male,1.9,Yes,Resort,412,03/17/2025,03/19/2025,Bus,"Singapore, Singapore",991
+10,New York,USA,urban,Randall Bernard,31,Female,4,Yes,Resort,393,11/05/2024,11/07/2024,Cruise,"New York, USA",399
+11,Istanbul,Turkey,historical,Tiffany Henderson,45,Male,1.2,Yes,Apartment,222,12/31/2024,01/07/2025,Cruise,"Istanbul, Turkey",476
+12,London,UK,urban,Andrew Robbins,62,Female,3.7,Yes,Hostel,372,01/31/2025,02/06/2025,Bus,"London, UK",840
+13,Amsterdam,Netherlands,urban,Christy Harrington,60,Male,2.9,Yes,Apartment,332,09/01/2024,09/14/2024,Cruise,"Amsterdam, Netherlands",964
+14,Cape Town,South Africa,nature,Jeremy Diaz,63,Male,1,Yes,Guesthouse,290,12/19/2024,12/30/2024,Flight,"Cape Town, South Africa",88
+15,Bora Bora,French Polynesia,beach,Jamie Whitehead,19,Male,1.7,Yes,Hotel,152,11/17/2024,11/22/2024,Bus,"Bora Bora, French Polynesia",1000
+16,Singapore,Singapore,urban,Melinda Graham,27,Male,4.1,Yes,Hostel,462,02/16/2025,02/17/2025,Train,"Singapore, Singapore",553
+17,Bali,Indonesia,beach,Patrick Price,70,Male,4.8,Yes,Resort,320,01/22/2025,02/04/2025,Train,"Bali, Indonesia",60
+18,Bangkok,Thailand,urban,Randy Bryant MD,59,Female,2.7,Yes,Hostel,363,08/30/2024,09/10/2024,Car Rental,"Bangkok, Thailand",917
+19,Dubai,UAE,urban,Wendy Cooper,39,Male,2.7,Yes,Resort,290,04/17/2025,04/28/2025,Cruise,"Dubai, UAE",117
+20,Barcelona,Spain,urban,Kimberly Young,33,Female,1.1,Yes,Hostel,112,05/16/2024,05/19/2024,Car Rental,"Barcelona, Spain",360
+21,Bali,Indonesia,beach,Darlene Webb,70,Male,3.3,Yes,Apartment,494,12/08/2024,12/18/2024,Flight,"Bali, Indonesia",533
+22,Bora Bora,French Polynesia,beach,Karen Bennett,57,Female,1.7,Yes,Hotel,421,04/10/2025,04/15/2025,Cruise,"Bora Bora, French Polynesia",281
+23,Tokyo,Japan,urban,Christopher Thomas,23,Female,3.1,Yes,Hotel,293,08/09/2024,08/17/2024,Bus,"Tokyo, Japan",88
+24,Paris,France,cultural,Catherine Cooke,66,Male,4.7,Yes,Hotel,471,05/27/2024,06/04/2024,Flight,"Paris, France",203
+25,Amsterdam,Netherlands,urban,Jessica Hart,32,Female,2.9,Yes,Guesthouse,157,06/16/2024,06/18/2024,Flight,"Amsterdam, Netherlands",90
+26,New York,USA,urban,Ronald Pena,64,Female,1.9,Yes,Guesthouse,259,07/28/2024,07/29/2024,Train,"New York, USA",365
+27,Sydney,Australia,beach,Connor Wilson,58,Male,4.1,Yes,Resort,185,07/20/2024,07/31/2024,Cruise,"Sydney, Australia",259
+28,Bali,Indonesia,beach,Jason Phillips,32,Male,1.3,Yes,Apartment,206,01/15/2025,01/25/2025,Bus,"Bali, Indonesia",376
+29,Edinburgh,UK,historical,Dustin Henson,58,Male,3.5,Yes,Hotel,77,03/23/2025,03/29/2025,Bus,"Edinburgh, UK",947
+30,Bali,Indonesia,beach,Corey Miller,29,Female,1.5,Yes,Resort,136,01/15/2025,01/27/2025,Cruise,"Bali, Indonesia",374
+31,Bali,Indonesia,beach,Tina Cruz,40,Female,1.3,Yes,Apartment,224,01/31/2025,02/04/2025,Cruise,"Bali, Indonesia",422
+32,Tokyo,Japan,urban,Jason Myers,30,Male,1.9,Yes,Apartment,487,12/27/2024,12/28/2024,Flight,"Tokyo, Japan",891
+33,Bangkok,Thailand,urban,Karen Jones,44,Female,4.2,Yes,Hotel,442,08/11/2024,08/14/2024,Flight,"Bangkok, Thailand",620
+34,Dubai,UAE,urban,Pamela Singleton,47,Female,4.2,Yes,Apartment,175,04/26/2025,04/29/2025,Train,"Dubai, UAE",192
+35,New York,USA,urban,Dylan Edwards,54,Male,4.1,Yes,Hostel,484,08/10/2024,08/23/2024,Cruise,"New York, USA",387
+36,Dubai,UAE,urban,Ryan Maldonado,60,Male,1.6,Yes,Hotel,96,10/11/2024,10/13/2024,Bus,"Dubai, UAE",447
+37,Cancun,Mexico,beach,Andrew Rodriguez,30,Female,3.9,Yes,Resort,226,07/27/2024,07/29/2024,Cruise,"Cancun, Mexico",967
+38,Edinburgh,UK,historical,Tracy Gomez,25,Female,3.7,Yes,Apartment,310,08/24/2024,09/06/2024,Bus,"Edinburgh, UK",602
+39,Cape Town,South Africa,nature,Cheryl Wilson,18,Female,1.1,Yes,Guesthouse,417,03/27/2025,03/29/2025,Bus,"Cape Town, South Africa",214
+40,Rome,Italy,historical,Courtney Thompson,40,Male,2,Yes,Apartment,69,01/28/2025,02/05/2025,Cruise,"Rome, Italy",470
+41,Sydney,Australia,beach,Mark Miller,67,Male,2.2,Yes,Guesthouse,116,04/01/2025,04/04/2025,Flight,"Sydney, Australia",986
+42,London,UK,urban,Rebekah Blake,45,Female,2.3,Yes,Resort,404,03/20/2025,03/30/2025,Cruise,"London, UK",635
+43,Bali,Indonesia,beach,Calvin Austin,19,Male,1.6,Yes,Hotel,261,11/12/2024,11/15/2024,Flight,"Bali, Indonesia",378
+44,Amsterdam,Netherlands,urban,Michael Lester,64,Female,2.9,Yes,Hotel,276,05/02/2024,05/14/2024,Bus,"Amsterdam, Netherlands",582
+45,Paris,France,cultural,Samantha Holloway,67,Female,4.8,Yes,Hotel,72,08/21/2024,08/28/2024,Flight,"Paris, France",353
+46,Bangkok,Thailand,urban,Gary Evans,46,Male,2.1,Yes,Apartment,86,05/28/2024,06/06/2024,Cruise,"Bangkok, Thailand",842
+47,Edinburgh,UK,historical,Jennifer Davidson,34,Male,4.9,Yes,Apartment,497,03/01/2025,03/04/2025,Train,"Edinburgh, UK",608
+48,Bangkok,Thailand,urban,Ashley Lewis,23,Female,3.7,Yes,Guesthouse,456,11/29/2024,11/30/2024,Car Rental,"Bangkok, Thailand",919
+49,Bali,Indonesia,beach,Kevin Dixon,42,Female,1.1,Yes,Resort,488,05/19/2024,05/26/2024,Bus,"Bali, Indonesia",477
+50,Sydney,Australia,beach,Megan Warren,50,Male,1.1,Yes,Hostel,103,09/17/2024,09/26/2024,Car Rental,"Sydney, Australia",871
+51,Barcelona,Spain,urban,Andrew White,27,Male,2,Yes,Guesthouse,328,01/19/2025,01/27/2025,Bus,"Barcelona, Spain",579
+52,Dubai,UAE,urban,Justin Blevins,52,Male,4.4,Yes,Hotel,59,01/03/2025,01/11/2025,Bus,"Dubai, UAE",512
+53,New York,USA,urban,Lisa Walker,22,Female,3.8,Yes,Hotel,479,12/26/2024,12/27/2024,Train,"New York, USA",496
+54,Phuket,Thailand,beach,David Smith,70,Female,3.7,Yes,Hotel,308,07/12/2024,07/20/2024,Train,"Phuket, Thailand",229
+55,Dubai,UAE,urban,Todd Torres,32,Female,1.9,Yes,Resort,122,11/25/2024,12/01/2024,Train,"Dubai, UAE",305
+56,Rome,Italy,historical,Misty Martin,59,Male,2.9,Yes,Guesthouse,69,01/01/2025,01/11/2025,Train,"Rome, Italy",801
+57,Edinburgh,UK,historical,Ronald Davis,23,Female,2.5,Yes,Resort,451,11/29/2024,11/30/2024,Train,"Edinburgh, UK",281
+58,Sydney,Australia,beach,Zachary Garza,27,Female,2.4,Yes,Hotel,242,03/18/2025,03/26/2025,Cruise,"Sydney, Australia",178
+59,Edinburgh,UK,historical,Austin Brown,68,Male,1.4,Yes,Guesthouse,119,01/09/2025,01/17/2025,Cruise,"Edinburgh, UK",412
+60,London,UK,urban,Nicole Banks,64,Male,2.3,Yes,Resort,91,01/18/2025,01/24/2025,Bus,"London, UK",223
+61,Istanbul,Turkey,historical,Reginald Donaldson,37,Female,4,Yes,Hotel,258,10/20/2024,10/30/2024,Train,"Istanbul, Turkey",495
+62,Cape Town,South Africa,nature,Carl Thomas,29,Female,2.2,Yes,Resort,331,10/30/2024,11/12/2024,Train,"Cape Town, South Africa",591
+63,Venice,Italy,historical,Michael Williams,25,Male,1.7,Yes,Resort,485,06/28/2024,07/11/2024,Cruise,"Venice, Italy",485
+64,Venice,Italy,historical,Matthew Mcdonald,67,Male,1.2,Yes,Apartment,255,04/11/2025,04/23/2025,Car Rental,"Venice, Italy",907
+65,Cancun,Mexico,beach,Jennifer Moore,24,Female,2.3,Yes,Hostel,169,05/03/2024,05/15/2024,Flight,"Cancun, Mexico",822
+66,Tokyo,Japan,urban,Summer Williams,34,Male,4.2,Yes,Hostel,158,07/31/2024,08/10/2024,Flight,"Tokyo, Japan",139
+67,Sydney,Australia,beach,Alyssa Becker,50,Male,2.1,Yes,Hotel,449,10/11/2024,10/15/2024,Car Rental,"Sydney, Australia",273
+68,Cancun,Mexico,beach,John Jones,29,Male,4.6,Yes,Apartment,344,06/10/2024,06/23/2024,Flight,"Cancun, Mexico",448
+69,Istanbul,Turkey,historical,Jessica Owens,23,Male,4.3,Yes,Resort,336,07/15/2024,07/22/2024,Bus,"Istanbul, Turkey",487
+70,Venice,Italy,historical,Richard Wheeler,31,Female,3.1,Yes,Apartment,317,01/28/2025,01/31/2025,Car Rental,"Venice, Italy",375
+71,London,UK,urban,Stephanie Hicks,46,Male,4.3,Yes,Resort,436,02/13/2025,02/22/2025,Cruise,"London, UK",768
+72,Barcelona,Spain,urban,Carrie Gutierrez,54,Male,4.1,Yes,Resort,107,12/11/2024,12/22/2024,Cruise,"Barcelona, Spain",354
+73,Dubai,UAE,urban,Brenda Hester,23,Female,4,Yes,Guesthouse,386,10/18/2024,10/27/2024,Cruise,"Dubai, UAE",853
+74,Dubai,UAE,urban,Joel Richardson,22,Female,3.5,Yes,Resort,209,02/10/2025,02/11/2025,Bus,"Dubai, UAE",280
+75,Marrakech,Morocco,cultural,Jesse Fitzgerald,49,Female,4.3,Yes,Hotel,277,01/16/2025,01/20/2025,Bus,"Marrakech, Morocco",316
+76,Bali,Indonesia,beach,Timothy Mitchell,65,Female,4,Yes,Hostel,315,08/09/2024,08/19/2024,Car Rental,"Bali, Indonesia",517
+77,London,UK,urban,Lisa Saunders,44,Female,2,Yes,Hotel,447,01/21/2025,01/26/2025,Car Rental,"London, UK",114
+78,New York,USA,urban,Zachary Bright,68,Male,2,Yes,Hotel,81,02/07/2025,02/17/2025,Train,"New York, USA",605
+79,Paris,France,cultural,Amy Walker,69,Male,2.6,Yes,Resort,117,09/10/2024,09/13/2024,Train,"Paris, France",101
+80,Marrakech,Morocco,cultural,Michael Johnson,48,Male,4.1,Yes,Hostel,60,11/01/2024,11/03/2024,Car Rental,"Marrakech, Morocco",557
+81,Bangkok,Thailand,urban,Justin Williams,60,Female,2.6,Yes,Guesthouse,490,01/22/2025,01/25/2025,Car Rental,"Bangkok, Thailand",548
+82,Bangkok,Thailand,urban,Robert Villegas,56,Female,4.5,Yes,Resort,376,04/10/2025,04/23/2025,Bus,"Bangkok, Thailand",645
+83,Sydney,Australia,beach,Jose Matthews,37,Female,2.3,Yes,Hostel,226,08/16/2024,08/23/2024,Bus,"Sydney, Australia",277
+84,Rome,Italy,historical,Jesse Lee,58,Male,1.1,Yes,Resort,249,11/24/2024,11/26/2024,Bus,"Rome, Italy",238
+85,Bangkok,Thailand,urban,Kathleen Goodman,33,Male,2,Yes,Resort,288,01/16/2025,01/20/2025,Car Rental,"Bangkok, Thailand",254
+86,New York,USA,urban,Michael Gaines,23,Female,3.1,Yes,Hotel,209,08/19/2024,08/28/2024,Bus,"New York, USA",276
+87,Rome,Italy,historical,Michelle Collier,62,Female,4,Yes,Apartment,332,06/05/2024,06/10/2024,Flight,"Rome, Italy",122
+88,Rome,Italy,historical,Colleen Austin,42,Male,2.2,Yes,Apartment,333,01/23/2025,02/01/2025,Train,"Rome, Italy",170
+89,Marrakech,Morocco,cultural,Mr. Adam Carter,68,Male,3,Yes,Apartment,475,07/17/2024,07/19/2024,Train,"Marrakech, Morocco",168
+90,Bangkok,Thailand,urban,Mrs. Angela Hughes DDS,62,Male,2.3,Yes,Hotel,273,04/28/2024,05/06/2024,Car Rental,"Bangkok, Thailand",222
+91,Amsterdam,Netherlands,urban,Amber Carroll,52,Male,4.6,Yes,Hotel,395,06/30/2024,07/04/2024,Bus,"Amsterdam, Netherlands",762
+92,Venice,Italy,historical,Derek Coleman,64,Male,5,Yes,Guesthouse,234,10/16/2024,10/30/2024,Cruise,"Venice, Italy",335
+93,Bora Bora,French Polynesia,beach,Tyler Howell,70,Male,3.4,Yes,Hostel,124,04/24/2025,04/27/2025,Flight,"Bora Bora, French Polynesia",353
+94,Bora Bora,French Polynesia,beach,Gerald Allen,64,Female,1.7,Yes,Apartment,184,05/12/2024,05/19/2024,Bus,"Bora Bora, French Polynesia",776
+95,Bali,Indonesia,beach,Harold Meyer,65,Male,3.8,Yes,Guesthouse,51,08/25/2024,09/07/2024,Bus,"Bali, Indonesia",664
+96,Marrakech,Morocco,cultural,Michele Good,47,Female,1,Yes,Resort,431,11/13/2024,11/15/2024,Bus,"Marrakech, Morocco",355
+97,New York,USA,urban,Chelsea Jones,45,Male,1.6,Yes,Apartment,52,01/16/2025,01/26/2025,Train,"New York, USA",303
+98,Bangkok,Thailand,urban,Jay Davis,31,Female,1.5,Yes,Hostel,96,02/17/2025,03/02/2025,Cruise,"Bangkok, Thailand",422
+99,New York,USA,urban,Justin Weber,27,Male,1.3,Yes,Guesthouse,263,12/17/2024,12/26/2024,Car Rental,"New York, USA",461
+100,Amsterdam,Netherlands,urban,Christina Wolf,22,Female,1.8,Yes,Hostel,90,10/30/2024,11/04/2024,Train,"Amsterdam, Netherlands",403
+101,Marrakech,Morocco,cultural,Daniel Edwards,41,Female,4.7,Yes,Resort,233,03/27/2025,04/10/2025,Flight,"Marrakech, Morocco",187
+102,Edinburgh,UK,historical,Chris Johnson,23,Female,4.1,Yes,Hostel,233,04/24/2025,04/28/2025,Cruise,"Edinburgh, UK",170
+103,Paris,France,cultural,Mary Jenkins,65,Male,4.4,Yes,Hostel,145,12/03/2024,12/15/2024,Cruise,"Paris, France",747
+104,Phuket,Thailand,beach,Rodney Johnson,33,Male,3.1,Yes,Hostel,143,06/02/2024,06/10/2024,Car Rental,"Phuket, Thailand",73
+105,Bora Bora,French Polynesia,beach,Catherine Harris,57,Male,2.5,Yes,Hostel,430,04/06/2025,04/17/2025,Flight,"Bora Bora, French Polynesia",276
+106,Barcelona,Spain,urban,Megan King,26,Female,2.9,Yes,Resort,145,10/16/2024,10/23/2024,Car Rental,"Barcelona, Spain",532
+107,Barcelona,Spain,urban,Kathy Marshall,24,Male,2.8,Yes,Guesthouse,170,05/27/2024,06/03/2024,Flight,"Barcelona, Spain",885
+108,Venice,Italy,historical,Michael Maynard,51,Female,2.3,Yes,Resort,129,11/04/2024,11/08/2024,Train,"Venice, Italy",617
+109,Singapore,Singapore,urban,Jeffrey Kramer,36,Male,3.6,Yes,Apartment,399,01/28/2025,02/10/2025,Flight,"Singapore, Singapore",808
+110,New York,USA,urban,Daniel Rocha,57,Male,5,Yes,Apartment,246,02/11/2025,02/24/2025,Flight,"New York, USA",430
+111,Sydney,Australia,beach,Brian Dickson,37,Male,4.6,Yes,Hotel,273,11/07/2024,11/18/2024,Train,"Sydney, Australia",100
+112,Bora Bora,French Polynesia,beach,Mr. Jonathan Garrett,46,Male,3.5,Yes,Resort,309,06/03/2024,06/04/2024,Flight,"Bora Bora, French Polynesia",766
+113,Bora Bora,French Polynesia,beach,Jason Kennedy,56,Female,3.6,Yes,Apartment,345,05/27/2024,06/08/2024,Train,"Bora Bora, French Polynesia",533
+114,Sydney,Australia,beach,Angela Butler,48,Female,2.4,Yes,Guesthouse,361,09/10/2024,09/18/2024,Bus,"Sydney, Australia",192
+115,Istanbul,Turkey,historical,Michelle Kelley,33,Male,3.8,Yes,Hostel,104,04/10/2025,04/17/2025,Bus,"Istanbul, Turkey",622
+116,New York,USA,urban,Bianca Williams,52,Male,3.2,Yes,Hostel,176,09/20/2024,09/23/2024,Cruise,"New York, USA",58
+117,Venice,Italy,historical,Samantha Snyder,42,Female,2.6,Yes,Guesthouse,415,04/10/2025,04/15/2025,Car Rental,"Venice, Italy",825
+118,Bali,Indonesia,beach,Larry Ryan Jr.,47,Male,2.8,Yes,Hotel,360,06/02/2024,06/03/2024,Cruise,"Bali, Indonesia",439
+119,Tokyo,Japan,urban,Troy Turner,24,Male,2.1,Yes,Hostel,148,03/15/2025,03/25/2025,Train,"Tokyo, Japan",648
+120,Singapore,Singapore,urban,John Brown,53,Male,4.8,Yes,Hostel,360,10/01/2024,10/06/2024,Bus,"Singapore, Singapore",891
+121,Cancun,Mexico,beach,Jessica Wade,22,Female,4.5,Yes,Guesthouse,182,01/16/2025,01/26/2025,Car Rental,"Cancun, Mexico",303
+122,New York,USA,urban,Diane Simmons,49,Female,4.4,Yes,Hostel,78,06/12/2024,06/22/2024,Flight,"New York, USA",648
+123,New York,USA,urban,Mr. Edward Rodriguez,40,Male,2,Yes,Resort,159,03/10/2025,03/13/2025,Flight,"New York, USA",755
+124,Phuket,Thailand,beach,Heather Bowman,65,Male,4.5,Yes,Apartment,145,04/11/2025,04/20/2025,Cruise,"Phuket, Thailand",116
+125,Singapore,Singapore,urban,Ronnie Manning,61,Male,2.8,Yes,Apartment,440,08/24/2024,09/03/2024,Flight,"Singapore, Singapore",230
+126,Barcelona,Spain,urban,Allen Smith,40,Male,4.9,Yes,Apartment,77,10/18/2024,10/31/2024,Bus,"Barcelona, Spain",378
+127,Cancun,Mexico,beach,Jillian Collins,65,Female,3.9,Yes,Hostel,354,02/20/2025,02/21/2025,Flight,"Cancun, Mexico",994
+128,Marrakech,Morocco,cultural,Gary Campbell,55,Male,2.7,Yes,Hostel,159,04/25/2025,04/30/2025,Flight,"Marrakech, Morocco",210
+129,Barcelona,Spain,urban,Madeline Hernandez,67,Male,3.1,Yes,Hostel,146,05/04/2024,05/07/2024,Flight,"Barcelona, Spain",564
+130,Sydney,Australia,beach,Dr. Michelle Herrera,21,Male,3.1,Yes,Apartment,321,08/02/2024,08/16/2024,Car Rental,"Sydney, Australia",954
+131,Cancun,Mexico,beach,Jennifer Brown,44,Male,3.5,Yes,Hotel,154,09/12/2024,09/13/2024,Train,"Cancun, Mexico",824
+132,Venice,Italy,historical,Matthew Guzman,47,Female,2.3,Yes,Hotel,90,02/11/2025,02/20/2025,Cruise,"Venice, Italy",845
+133,Cancun,Mexico,beach,Michael Stuart,39,Female,4.1,Yes,Resort,465,12/03/2024,12/14/2024,Cruise,"Cancun, Mexico",830
+134,Bali,Indonesia,beach,Connie Cross,66,Male,1.8,Yes,Hotel,201,07/12/2024,07/26/2024,Flight,"Bali, Indonesia",733
+135,Amsterdam,Netherlands,urban,Timothy Cochran,57,Female,2.1,Yes,Hostel,133,05/18/2024,05/20/2024,Cruise,"Amsterdam, Netherlands",992
+136,Dubai,UAE,urban,Miranda Adams,26,Female,3.4,Yes,Guesthouse,62,10/14/2024,10/22/2024,Car Rental,"Dubai, UAE",608
+137,Phuket,Thailand,beach,Benjamin Terry,55,Male,3.1,Yes,Resort,386,08/03/2024,08/13/2024,Bus,"Phuket, Thailand",897
+138,Phuket,Thailand,beach,Tony Russo,63,Female,3.9,Yes,Resort,70,12/08/2024,12/15/2024,Train,"Phuket, Thailand",651
+139,Bora Bora,French Polynesia,beach,Dr. Veronica Harrison,63,Male,1.9,Yes,Hostel,412,05/05/2024,05/14/2024,Flight,"Bora Bora, French Polynesia",821
+140,Rome,Italy,historical,Timothy Riddle,28,Male,2.8,Yes,Resort,403,08/05/2024,08/14/2024,Bus,"Rome, Italy",848
+141,Rome,Italy,historical,Dennis Goodman,20,Male,4.2,Yes,Guesthouse,305,06/30/2024,07/11/2024,Flight,"Rome, Italy",182
+142,Marrakech,Morocco,cultural,David Mclean,39,Female,3.2,Yes,Hotel,485,09/09/2024,09/17/2024,Train,"Marrakech, Morocco",187
+143,London,UK,urban,Alexander Cruz,62,Female,1.4,Yes,Hostel,316,07/03/2024,07/09/2024,Car Rental,"London, UK",203
+144,New York,USA,urban,Matthew Dean,23,Female,2.4,Yes,Hostel,240,06/07/2024,06/10/2024,Cruise,"New York, USA",872
+145,Cancun,Mexico,beach,Jon Carlson,49,Male,4.4,Yes,Hostel,359,02/02/2025,02/12/2025,Bus,"Cancun, Mexico",517
+146,Paris,France,cultural,Briana Barnes,45,Female,3.9,Yes,Apartment,80,11/17/2024,11/29/2024,Train,"Paris, France",686
+147,London,UK,urban,Samuel Burns,28,Female,3.6,Yes,Hostel,293,02/12/2025,02/23/2025,Cruise,"London, UK",698
+148,Rome,Italy,historical,Bobby Schultz,50,Male,1.5,Yes,Guesthouse,112,01/04/2025,01/11/2025,Bus,"Rome, Italy",552
+149,Phuket,Thailand,beach,Alexis Powell,64,Female,2.5,Yes,Hostel,404,01/24/2025,02/02/2025,Car Rental,"Phuket, Thailand",597
+150,Marrakech,Morocco,cultural,Stephanie Lester,28,Female,1.2,Yes,Hostel,391,01/01/2025,01/10/2025,Car Rental,"Marrakech, Morocco",852
+151,Cape Town,South Africa,nature,Jennifer Krause,38,Female,1.7,Yes,Hostel,69,04/24/2025,05/02/2025,Cruise,"Cape Town, South Africa",921
+152,Marrakech,Morocco,cultural,Robert Russell,37,Male,2.9,Yes,Hotel,54,03/05/2025,03/11/2025,Bus,"Marrakech, Morocco",287
+153,Paris,France,cultural,Gregory Flores,32,Male,4.8,Yes,Hotel,487,07/24/2024,08/02/2024,Bus,"Paris, France",253
+154,London,UK,urban,Dawn Gray,60,Male,1.1,Yes,Apartment,77,08/30/2024,09/07/2024,Flight,"London, UK",829
+155,Barcelona,Spain,urban,Megan Richards,55,Female,4.4,Yes,Apartment,401,09/18/2024,09/20/2024,Car Rental,"Barcelona, Spain",819
+156,Tokyo,Japan,urban,Diana Flores,30,Male,1.3,Yes,Apartment,425,06/14/2024,06/22/2024,Train,"Tokyo, Japan",258
+157,Cancun,Mexico,beach,Derek Meyer,18,Female,4.3,Yes,Hostel,467,01/01/2025,01/04/2025,Cruise,"Cancun, Mexico",56
+158,Istanbul,Turkey,historical,William Walsh,39,Female,3.7,Yes,Guesthouse,430,06/22/2024,07/02/2024,Car Rental,"Istanbul, Turkey",843
+159,Singapore,Singapore,urban,Jessica Taylor DVM,47,Female,2.7,Yes,Guesthouse,476,05/15/2024,05/29/2024,Cruise,"Singapore, Singapore",652
+160,Dubai,UAE,urban,Timothy Brown,46,Male,3.3,Yes,Hostel,337,06/26/2024,06/29/2024,Flight,"Dubai, UAE",496
+161,Singapore,Singapore,urban,Ronald Kline,25,Female,1.6,Yes,Resort,342,04/21/2025,05/01/2025,Bus,"Singapore, Singapore",717
+162,Dubai,UAE,urban,Lucas Weaver,32,Female,1.2,Yes,Guesthouse,56,12/08/2024,12/14/2024,Bus,"Dubai, UAE",284
+163,Amsterdam,Netherlands,urban,Tammy Walker,18,Female,2.8,Yes,Resort,181,11/21/2024,11/30/2024,Flight,"Amsterdam, Netherlands",908
+164,Paris,France,cultural,John Smith,57,Male,1.3,Yes,Guesthouse,98,06/29/2024,06/30/2024,Train,"Paris, France",454
+165,Phuket,Thailand,beach,Kevin Dougherty,28,Female,4.6,Yes,Apartment,158,07/28/2024,08/03/2024,Car Rental,"Phuket, Thailand",939
+166,Bora Bora,French Polynesia,beach,Steven Arroyo,60,Male,3.3,Yes,Apartment,461,12/23/2024,01/03/2025,Cruise,"Bora Bora, French Polynesia",621
+167,Barcelona,Spain,urban,David Underwood,54,Female,1.3,Yes,Apartment,339,02/13/2025,02/26/2025,Cruise,"Barcelona, Spain",193
+168,Bali,Indonesia,beach,Mr. Brian Gonzalez MD,50,Female,3.1,Yes,Resort,168,01/08/2025,01/13/2025,Train,"Bali, Indonesia",434
+169,Paris,France,cultural,Hannah Harris,41,Female,1.4,Yes,Guesthouse,382,06/11/2024,06/20/2024,Train,"Paris, France",108
+170,Singapore,Singapore,urban,Michael Freeman,68,Male,3.1,Yes,Guesthouse,277,02/04/2025,02/15/2025,Train,"Singapore, Singapore",352
+171,Amsterdam,Netherlands,urban,Gary Velasquez,45,Male,4.3,Yes,Hostel,297,07/12/2024,07/14/2024,Flight,"Amsterdam, Netherlands",950
+172,New York,USA,urban,John Campbell,67,Male,4.7,Yes,Guesthouse,52,03/29/2025,04/09/2025,Cruise,"New York, USA",665
+173,Amsterdam,Netherlands,urban,Savannah Levine,53,Male,4.2,Yes,Apartment,386,04/01/2025,04/09/2025,Car Rental,"Amsterdam, Netherlands",658
+174,Rome,Italy,historical,Tiffany Mccarty,61,Male,1.5,Yes,Apartment,467,02/17/2025,03/01/2025,Flight,"Rome, Italy",813
+175,Bora Bora,French Polynesia,beach,Tiffany Moore,45,Female,3,Yes,Resort,292,03/29/2025,04/03/2025,Cruise,"Bora Bora, French Polynesia",399
+176,Bali,Indonesia,beach,Shane Baxter,31,Male,2,Yes,Hostel,365,08/04/2024,08/14/2024,Train,"Bali, Indonesia",717
+177,Istanbul,Turkey,historical,Jamie Ramirez,69,Male,2.4,Yes,Apartment,472,10/14/2024,10/19/2024,Flight,"Istanbul, Turkey",224
+178,Edinburgh,UK,historical,Robert Strong,27,Male,2.2,Yes,Apartment,293,12/04/2024,12/16/2024,Flight,"Edinburgh, UK",450
+179,Singapore,Singapore,urban,Stephen Guzman,64,Male,3.1,Yes,Resort,206,11/30/2024,12/09/2024,Bus,"Singapore, Singapore",779
+180,London,UK,urban,Stephanie Diaz,35,Female,1.2,Yes,Apartment,225,10/03/2024,10/09/2024,Flight,"London, UK",196
+181,Phuket,Thailand,beach,Ms. Michele Lewis,59,Male,4.3,Yes,Resort,199,01/21/2025,01/28/2025,Cruise,"Phuket, Thailand",674
+182,Bali,Indonesia,beach,Alicia Vazquez,62,Male,4.7,Yes,Apartment,162,04/30/2024,05/07/2024,Car Rental,"Bali, Indonesia",139
+183,Cancun,Mexico,beach,Ariana Spencer,59,Female,4.4,Yes,Hostel,225,07/23/2024,08/06/2024,Flight,"Cancun, Mexico",983
+184,Paris,France,cultural,Nancy Lee,43,Male,1.8,Yes,Guesthouse,65,08/31/2024,09/05/2024,Bus,"Paris, France",379
+185,Sydney,Australia,beach,Jennifer Roach,28,Female,2.1,Yes,Hostel,416,07/15/2024,07/29/2024,Bus,"Sydney, Australia",399
+186,Edinburgh,UK,historical,Chris Mora,48,Female,4.2,Yes,Resort,470,09/06/2024,09/14/2024,Flight,"Edinburgh, UK",587
+187,Dubai,UAE,urban,Richard Smith,56,Male,2.7,Yes,Hostel,55,01/03/2025,01/13/2025,Train,"Dubai, UAE",931
+188,London,UK,urban,Samuel Gardner,64,Female,3.4,Yes,Guesthouse,412,12/19/2024,12/23/2024,Car Rental,"London, UK",102
+189,Rome,Italy,historical,William Espinoza,28,Male,3.5,Yes,Apartment,341,04/08/2025,04/09/2025,Cruise,"Rome, Italy",271
+190,Barcelona,Spain,urban,Edward Gomez,49,Female,1.7,Yes,Hostel,249,03/07/2025,03/10/2025,Car Rental,"Barcelona, Spain",963
+191,Rome,Italy,historical,Kristin Melton,68,Female,1.1,Yes,Resort,87,06/01/2024,06/08/2024,Train,"Rome, Italy",62
+192,Bora Bora,French Polynesia,beach,Melissa Lloyd,36,Male,3.2,Yes,Hostel,286,06/20/2024,06/30/2024,Train,"Bora Bora, French Polynesia",108
+193,Bali,Indonesia,beach,Lynn Tucker,67,Male,4.3,Yes,Apartment,351,12/10/2024,12/22/2024,Car Rental,"Bali, Indonesia",180
+194,Barcelona,Spain,urban,William Vazquez,35,Female,2.8,Yes,Hostel,322,01/22/2025,01/31/2025,Car Rental,"Barcelona, Spain",315
+195,Phuket,Thailand,beach,Amy Dixon,45,Male,4.9,Yes,Hotel,276,02/28/2025,03/11/2025,Bus,"Phuket, Thailand",880
+196,Bangkok,Thailand,urban,Kimberly Gray,51,Female,3.5,Yes,Resort,394,10/29/2024,11/07/2024,Flight,"Bangkok, Thailand",805
+197,Amsterdam,Netherlands,urban,Katherine Davis,30,Male,1.6,Yes,Hotel,356,10/18/2024,10/24/2024,Train,"Amsterdam, Netherlands",465
+198,Cancun,Mexico,beach,Jonathan Clark,63,Female,4.1,Yes,Hostel,406,11/24/2024,12/05/2024,Train,"Cancun, Mexico",633
+199,Sydney,Australia,beach,Lisa Huff,18,Female,2.5,Yes,Resort,464,07/31/2024,08/10/2024,Train,"Sydney, Australia",934
+200,Cancun,Mexico,beach,Jennifer Carter,42,Female,3.3,Yes,Guesthouse,404,12/12/2024,12/24/2024,Cruise,"Cancun, Mexico",828
+201,Phuket,Thailand,beach,Christopher Owens,28,Female,1.3,Yes,Guesthouse,249,10/29/2024,11/12/2024,Bus,"Phuket, Thailand",223
+202,Rome,Italy,historical,Megan Delgado,61,Male,4.3,Yes,Guesthouse,243,12/22/2024,12/23/2024,Bus,"Rome, Italy",772
+203,Istanbul,Turkey,historical,Shane Evans,30,Male,3.2,Yes,Hotel,494,04/06/2025,04/14/2025,Bus,"Istanbul, Turkey",207
+204,Tokyo,Japan,urban,Bruce Dominguez,37,Male,2.9,Yes,Hotel,193,07/08/2024,07/15/2024,Bus,"Tokyo, Japan",378
+205,Cape Town,South Africa,nature,Rachel Brown,44,Female,4.7,Yes,Resort,383,11/22/2024,12/01/2024,Car Rental,"Cape Town, South Africa",262
+206,Dubai,UAE,urban,Steven Williams,67,Male,4.1,Yes,Guesthouse,220,02/25/2025,02/27/2025,Train,"Dubai, UAE",151
+207,Barcelona,Spain,urban,Amanda Massey,68,Male,2.6,Yes,Hostel,349,09/18/2024,09/25/2024,Train,"Barcelona, Spain",315
+208,Sydney,Australia,beach,Christopher Thornton,25,Male,2.4,Yes,Apartment,117,11/20/2024,11/30/2024,Train,"Sydney, Australia",427
+209,Dubai,UAE,urban,Mackenzie Brown,70,Male,2.6,Yes,Guesthouse,476,11/28/2024,11/30/2024,Car Rental,"Dubai, UAE",513
+210,Barcelona,Spain,urban,Patricia Alvarez,18,Female,2.4,Yes,Guesthouse,124,11/25/2024,12/01/2024,Flight,"Barcelona, Spain",541
+211,Cancun,Mexico,beach,Kendra Ross,40,Male,4.7,Yes,Apartment,199,09/30/2024,10/03/2024,Cruise,"Cancun, Mexico",987
+212,Paris,France,cultural,Cynthia Franklin,20,Female,2.2,Yes,Resort,345,02/18/2025,03/03/2025,Cruise,"Paris, France",516
+213,Barcelona,Spain,urban,Jason Little,68,Male,1.3,Yes,Resort,100,05/07/2024,05/15/2024,Bus,"Barcelona, Spain",862
+214,Amsterdam,Netherlands,urban,David Watkins,34,Female,2.6,Yes,Hostel,403,09/29/2024,10/01/2024,Flight,"Amsterdam, Netherlands",793
+215,Marrakech,Morocco,cultural,Jessica Watson,40,Male,2.1,Yes,Hostel,388,11/21/2024,11/22/2024,Flight,"Marrakech, Morocco",450
+216,Tokyo,Japan,urban,Gina Roman,29,Female,1.8,Yes,Hostel,490,01/29/2025,02/02/2025,Train,"Tokyo, Japan",406
+217,Dubai,UAE,urban,Matthew Smith,27,Female,1.6,Yes,Hotel,341,04/17/2025,04/27/2025,Cruise,"Dubai, UAE",93
+218,Barcelona,Spain,urban,Thomas Patton,32,Male,1.2,Yes,Apartment,237,12/11/2024,12/23/2024,Flight,"Barcelona, Spain",599
+219,Cancun,Mexico,beach,John Walton,46,Female,4.3,Yes,Guesthouse,112,01/17/2025,01/23/2025,Train,"Cancun, Mexico",470
+220,Rome,Italy,historical,Jennifer Johnson,52,Female,4.5,Yes,Guesthouse,188,09/19/2024,09/23/2024,Train,"Rome, Italy",801
+221,Tokyo,Japan,urban,Albert Gomez,53,Female,4.4,Yes,Guesthouse,297,01/29/2025,02/08/2025,Cruise,"Tokyo, Japan",695
+222,Amsterdam,Netherlands,urban,Christopher Long,53,Male,4.3,Yes,Hostel,135,11/22/2024,11/23/2024,Train,"Amsterdam, Netherlands",993
+223,London,UK,urban,Sabrina Foley,34,Female,2,Yes,Guesthouse,399,12/16/2024,12/26/2024,Train,"London, UK",199
+224,New York,USA,urban,Jesus Davis,58,Male,3.9,Yes,Hostel,273,08/15/2024,08/26/2024,Cruise,"New York, USA",725
+225,Singapore,Singapore,urban,Amanda Lewis,62,Female,4.3,Yes,Hostel,295,01/21/2025,01/26/2025,Bus,"Singapore, Singapore",661
+226,Barcelona,Spain,urban,Pamela Davidson,29,Female,3.7,Yes,Hostel,307,08/20/2024,08/24/2024,Bus,"Barcelona, Spain",597
+227,Cape Town,South Africa,nature,Michelle Johnson,56,Female,1.1,Yes,Apartment,148,01/07/2025,01/13/2025,Car Rental,"Cape Town, South Africa",328
+228,Tokyo,Japan,urban,Tina Taylor,28,Female,1.9,Yes,Hostel,298,12/18/2024,12/22/2024,Car Rental,"Tokyo, Japan",623
+229,Singapore,Singapore,urban,Matthew Mack,70,Male,4.3,Yes,Guesthouse,235,10/29/2024,11/10/2024,Bus,"Singapore, Singapore",423
+230,Phuket,Thailand,beach,Sheila Johnson,40,Male,4.4,Yes,Guesthouse,147,10/01/2024,10/05/2024,Flight,"Phuket, Thailand",599
+231,Barcelona,Spain,urban,Stephen Olson,36,Female,4,Yes,Resort,396,12/09/2024,12/22/2024,Flight,"Barcelona, Spain",488
+232,Venice,Italy,historical,Samantha Wong,52,Male,3.9,Yes,Guesthouse,496,11/28/2024,12/02/2024,Train,"Venice, Italy",233
+233,Barcelona,Spain,urban,Ernest Aguirre,37,Male,1.1,Yes,Guesthouse,427,03/19/2025,04/02/2025,Flight,"Barcelona, Spain",889
+234,Edinburgh,UK,historical,Jose Dickson,18,Male,4.4,Yes,Hostel,289,09/28/2024,10/08/2024,Car Rental,"Edinburgh, UK",511
+235,Sydney,Australia,beach,Robert Munoz,53,Male,1.7,Yes,Apartment,104,09/13/2024,09/24/2024,Train,"Sydney, Australia",297
+236,Paris,France,cultural,Amanda Ortiz,34,Male,4.7,Yes,Hotel,394,12/20/2024,01/01/2025,Bus,"Paris, France",759
+237,Cancun,Mexico,beach,Amanda Flowers,39,Female,1.5,Yes,Apartment,119,05/27/2024,06/04/2024,Bus,"Cancun, Mexico",624
+238,Sydney,Australia,beach,Jordan Wilson,35,Male,4.8,Yes,Hostel,322,05/13/2024,05/17/2024,Bus,"Sydney, Australia",625
+239,London,UK,urban,Robert Bender,32,Female,4,Yes,Hotel,356,06/02/2024,06/03/2024,Car Rental,"London, UK",326
+240,Phuket,Thailand,beach,Gary Miller,34,Female,3.4,Yes,Resort,162,07/09/2024,07/11/2024,Cruise,"Phuket, Thailand",717
+241,Venice,Italy,historical,Michael Holmes,25,Male,3.3,Yes,Guesthouse,196,06/07/2024,06/19/2024,Train,"Venice, Italy",150
+242,Marrakech,Morocco,cultural,Kathleen Daniels,49,Female,3.7,Yes,Apartment,56,07/11/2024,07/24/2024,Train,"Marrakech, Morocco",393
+243,Bora Bora,French Polynesia,beach,Eric Holt,34,Male,3.7,Yes,Hostel,337,09/23/2024,09/30/2024,Bus,"Bora Bora, French Polynesia",919
+244,Paris,France,cultural,Sandra Moore,23,Female,3.3,Yes,Guesthouse,126,04/19/2025,04/24/2025,Car Rental,"Paris, France",403
+245,Cancun,Mexico,beach,Jason Price,59,Male,3.9,Yes,Guesthouse,344,02/19/2025,02/21/2025,Bus,"Cancun, Mexico",555
+246,Phuket,Thailand,beach,William Conrad,48,Male,2.9,Yes,Hotel,478,02/10/2025,02/22/2025,Flight,"Phuket, Thailand",383
+247,Marrakech,Morocco,cultural,Erica Curtis,56,Female,4.2,Yes,Hostel,117,10/29/2024,11/09/2024,Cruise,"Marrakech, Morocco",572
+248,Sydney,Australia,beach,Erin Myers,47,Male,1.7,Yes,Guesthouse,76,12/13/2024,12/16/2024,Flight,"Sydney, Australia",166
+249,Marrakech,Morocco,cultural,Bobby Meyer,54,Female,2.9,Yes,Guesthouse,353,04/17/2025,04/29/2025,Cruise,"Marrakech, Morocco",987
+250,London,UK,urban,Derrick Hunter,45,Male,3.3,Yes,Resort,202,02/07/2025,02/18/2025,Car Rental,"London, UK",365
+251,Dubai,UAE,urban,John Phillips,45,Male,2.9,Yes,Hostel,72,02/04/2025,02/11/2025,Flight,"Dubai, UAE",542
+252,Singapore,Singapore,urban,Brian Hart,64,Female,4.9,Yes,Apartment,298,04/14/2025,04/23/2025,Cruise,"Singapore, Singapore",190
+253,Barcelona,Spain,urban,Tonya Williams,59,Male,2,Yes,Resort,347,08/22/2024,09/04/2024,Car Rental,"Barcelona, Spain",579
+254,Singapore,Singapore,urban,Caitlin Delacruz,70,Male,4,Yes,Hostel,215,01/18/2025,01/30/2025,Car Rental,"Singapore, Singapore",680
+255,Bangkok,Thailand,urban,Taylor Murray,39,Male,1.5,Yes,Guesthouse,352,01/06/2025,01/07/2025,Cruise,"Bangkok, Thailand",525
+256,Cancun,Mexico,beach,Tammy Herrera,27,Male,2.8,Yes,Guesthouse,395,11/11/2024,11/13/2024,Train,"Cancun, Mexico",130
+257,Paris,France,cultural,Anna Owen,38,Female,4.4,Yes,Hostel,441,02/02/2025,02/04/2025,Train,"Paris, France",304
+258,Rome,Italy,historical,Tammy Andrade,53,Male,3.7,Yes,Resort,372,10/20/2024,10/23/2024,Flight,"Rome, Italy",567
+259,Marrakech,Morocco,cultural,James Wall,24,Male,4.2,Yes,Guesthouse,385,01/17/2025,01/29/2025,Car Rental,"Marrakech, Morocco",507
+260,Amsterdam,Netherlands,urban,Alison Carroll,57,Male,3.2,Yes,Hostel,420,03/10/2025,03/17/2025,Flight,"Amsterdam, Netherlands",407
+261,Edinburgh,UK,historical,Kathryn Hopkins,61,Male,4.1,Yes,Apartment,418,04/17/2025,04/21/2025,Flight,"Edinburgh, UK",998
+262,Tokyo,Japan,urban,Marcus Barr,32,Male,4.7,Yes,Hostel,300,06/13/2024,06/26/2024,Cruise,"Tokyo, Japan",492
+263,Bangkok,Thailand,urban,Melissa Black,56,Male,3.2,Yes,Hotel,313,06/18/2024,06/20/2024,Train,"Bangkok, Thailand",202
+264,Tokyo,Japan,urban,Jordan Sanders,18,Male,4.4,Yes,Apartment,177,01/28/2025,02/02/2025,Bus,"Tokyo, Japan",738
+265,Amsterdam,Netherlands,urban,Laura Mcdonald,41,Male,1.2,Yes,Resort,338,09/20/2024,09/22/2024,Bus,"Amsterdam, Netherlands",889
+266,Phuket,Thailand,beach,Mark Price,67,Female,3.4,Yes,Apartment,427,10/23/2024,11/02/2024,Car Rental,"Phuket, Thailand",930
+267,Rome,Italy,historical,Christopher Christensen,38,Female,1.7,Yes,Resort,253,11/21/2024,12/01/2024,Flight,"Rome, Italy",479
+268,Paris,France,cultural,Amy Curtis,56,Male,1.2,Yes,Resort,234,10/06/2024,10/10/2024,Cruise,"Paris, France",762
+269,Tokyo,Japan,urban,Ariana Shannon,65,Female,1,Yes,Apartment,277,12/25/2024,01/06/2025,Flight,"Tokyo, Japan",67
+270,Sydney,Australia,beach,Isabel Logan,57,Male,2,Yes,Resort,468,03/18/2025,04/01/2025,Car Rental,"Sydney, Australia",146
+271,New York,USA,urban,Kathy Navarro,40,Female,1.4,Yes,Resort,119,04/17/2025,04/24/2025,Cruise,"New York, USA",777
+272,Venice,Italy,historical,Elizabeth Olson,45,Male,2.6,Yes,Resort,235,10/05/2024,10/14/2024,Train,"Venice, Italy",389
+273,Bora Bora,French Polynesia,beach,Joshua Payne,29,Male,3.6,Yes,Resort,174,03/10/2025,03/21/2025,Bus,"Bora Bora, French Polynesia",190
+274,Rome,Italy,historical,Brittany Johnson,52,Female,1.6,Yes,Guesthouse,436,01/25/2025,02/07/2025,Car Rental,"Rome, Italy",767
+275,Barcelona,Spain,urban,Dennis Graham,60,Female,3,Yes,Resort,195,06/23/2024,06/26/2024,Car Rental,"Barcelona, Spain",709
+276,Singapore,Singapore,urban,Jillian Stephens,25,Male,4.3,Yes,Apartment,448,06/29/2024,07/07/2024,Cruise,"Singapore, Singapore",659
+277,Cancun,Mexico,beach,Steven Tucker,43,Female,2,Yes,Resort,448,11/20/2024,11/25/2024,Flight,"Cancun, Mexico",446
+278,Barcelona,Spain,urban,Kristin Deleon,30,Female,4.1,Yes,Resort,328,04/22/2025,04/25/2025,Train,"Barcelona, Spain",95
+279,Amsterdam,Netherlands,urban,Sarah Kim,35,Male,1.6,Yes,Guesthouse,158,08/13/2024,08/23/2024,Car Rental,"Amsterdam, Netherlands",83
+280,New York,USA,urban,Darlene Delgado,29,Female,1,Yes,Guesthouse,92,02/22/2025,02/24/2025,Cruise,"New York, USA",393
+281,Phuket,Thailand,beach,Michael Williams,25,Female,4.3,Yes,Resort,100,11/13/2024,11/16/2024,Train,"Phuket, Thailand",147
+282,Edinburgh,UK,historical,Emily Perez,56,Female,3.1,Yes,Hotel,101,07/31/2024,08/04/2024,Car Rental,"Edinburgh, UK",383
+283,Tokyo,Japan,urban,Aaron Jackson,65,Female,3,Yes,Resort,265,06/29/2024,07/11/2024,Train,"Tokyo, Japan",474
+284,Paris,France,cultural,John Johnson,49,Male,1.6,Yes,Hotel,60,12/28/2024,01/04/2025,Car Rental,"Paris, France",767
+285,London,UK,urban,Christy Perez,62,Male,2.6,Yes,Guesthouse,396,08/14/2024,08/22/2024,Train,"London, UK",386
+286,Bali,Indonesia,beach,Bobby Miranda,49,Male,2.2,Yes,Hotel,480,06/11/2024,06/15/2024,Bus,"Bali, Indonesia",472
+287,Bali,Indonesia,beach,Krista Smith,50,Female,4.7,Yes,Apartment,265,02/21/2025,02/24/2025,Train,"Bali, Indonesia",844
+288,Rome,Italy,historical,John Mullins,30,Male,3.4,Yes,Hotel,355,04/26/2025,05/01/2025,Car Rental,"Rome, Italy",641
+289,Venice,Italy,historical,Lori Morrow,24,Female,4.7,Yes,Hostel,72,08/05/2024,08/11/2024,Cruise,"Venice, Italy",748
+290,Venice,Italy,historical,Michael Oliver,47,Female,2.5,Yes,Guesthouse,235,11/21/2024,11/28/2024,Cruise,"Venice, Italy",314
+291,New York,USA,urban,Sheila Benson,55,Male,2.6,Yes,Resort,298,06/22/2024,07/03/2024,Cruise,"New York, USA",246
+292,Edinburgh,UK,historical,Joshua Spencer,67,Female,2.7,Yes,Resort,453,11/05/2024,11/09/2024,Flight,"Edinburgh, UK",514
+293,Phuket,Thailand,beach,Scott Walker,43,Female,4.3,Yes,Guesthouse,370,03/27/2025,04/02/2025,Bus,"Phuket, Thailand",825
+294,New York,USA,urban,Lindsey Perkins,28,Female,3,Yes,Hostel,292,04/08/2025,04/12/2025,Train,"New York, USA",572
+295,Cape Town,South Africa,nature,Andrew Smith,35,Male,4.6,Yes,Guesthouse,355,12/09/2024,12/15/2024,Train,"Cape Town, South Africa",573
+296,Paris,France,cultural,Michael Hahn,58,Male,4.1,Yes,Guesthouse,191,12/02/2024,12/12/2024,Car Rental,"Paris, France",304
+297,Sydney,Australia,beach,Tammy Long,54,Female,4.7,Yes,Guesthouse,495,09/09/2024,09/11/2024,Car Rental,"Sydney, Australia",481
+298,Tokyo,Japan,urban,Brandon Horn,19,Female,1.8,Yes,Hotel,103,02/20/2025,02/28/2025,Bus,"Tokyo, Japan",271
+299,Bali,Indonesia,beach,Joshua Thomas,70,Female,4.6,Yes,Hotel,385,04/01/2025,04/02/2025,Car Rental,"Bali, Indonesia",634
+300,London,UK,urban,Anthony Mendez,47,Male,2.1,Yes,Resort,183,03/22/2025,03/27/2025,Cruise,"London, UK",1000
+301,Amsterdam,Netherlands,urban,Samantha Tucker,48,Male,1,Yes,Resort,339,12/10/2024,12/17/2024,Bus,"Amsterdam, Netherlands",545
+302,Bangkok,Thailand,urban,Heather Bell,24,Male,1,Yes,Hotel,345,11/04/2024,11/16/2024,Car Rental,"Bangkok, Thailand",407
+303,Tokyo,Japan,urban,Michelle Williams,63,Female,3.4,Yes,Resort,329,11/15/2024,11/24/2024,Cruise,"Tokyo, Japan",80
+304,Bangkok,Thailand,urban,Gary Taylor,54,Male,1.6,Yes,Guesthouse,354,05/02/2024,05/07/2024,Flight,"Bangkok, Thailand",352
+305,Venice,Italy,historical,Julie Fuller,58,Male,3,Yes,Apartment,448,10/27/2024,11/08/2024,Car Rental,"Venice, Italy",977
+306,New York,USA,urban,Karen Morse,47,Female,3.9,Yes,Hotel,415,08/16/2024,08/22/2024,Car Rental,"New York, USA",448
+307,Amsterdam,Netherlands,urban,Mr. Michael Calderon V,26,Female,2.5,Yes,Resort,418,03/21/2025,03/24/2025,Car Rental,"Amsterdam, Netherlands",961
+308,Bangkok,Thailand,urban,Nicholas Alexander,50,Male,4.3,Yes,Hotel,281,11/21/2024,11/27/2024,Flight,"Bangkok, Thailand",992
+309,Rome,Italy,historical,Nicholas James,50,Female,3.2,Yes,Hotel,428,01/05/2025,01/13/2025,Train,"Rome, Italy",121
+310,Cape Town,South Africa,nature,Todd Contreras,26,Male,4.9,Yes,Hostel,394,03/16/2025,03/18/2025,Bus,"Cape Town, South Africa",736
+311,Dubai,UAE,urban,Cheryl Welch,65,Female,2.9,Yes,Hotel,359,03/23/2025,03/26/2025,Train,"Dubai, UAE",578
+312,Istanbul,Turkey,historical,Barbara Page,30,Male,5,Yes,Resort,381,12/22/2024,12/23/2024,Train,"Istanbul, Turkey",821
+313,Cape Town,South Africa,nature,Shelly Hays,33,Male,2.9,Yes,Apartment,373,04/16/2025,04/18/2025,Flight,"Cape Town, South Africa",165
+314,Phuket,Thailand,beach,Kimberly Brown,20,Male,2.1,Yes,Hostel,248,12/24/2024,12/29/2024,Train,"Phuket, Thailand",563
+315,London,UK,urban,Jo Brady,70,Male,1.3,Yes,Apartment,359,10/16/2024,10/28/2024,Cruise,"London, UK",244
+316,London,UK,urban,Diana Davis,43,Female,3.9,Yes,Hotel,74,09/03/2024,09/11/2024,Flight,"London, UK",470
+317,Venice,Italy,historical,Brittany Harris,68,Male,3.8,Yes,Apartment,394,01/22/2025,02/03/2025,Flight,"Venice, Italy",415
+318,London,UK,urban,Gina Casey,64,Female,4.3,Yes,Resort,98,08/23/2024,09/06/2024,Flight,"London, UK",736
+319,Cape Town,South Africa,nature,Karina Warner,24,Female,2.3,Yes,Guesthouse,346,11/20/2024,11/24/2024,Cruise,"Cape Town, South Africa",806
+320,London,UK,urban,Nicole Patterson,25,Male,1,Yes,Guesthouse,375,08/29/2024,09/08/2024,Bus,"London, UK",258
+321,Paris,France,cultural,Victoria Smith,40,Female,1.8,Yes,Apartment,275,10/22/2024,10/25/2024,Bus,"Paris, France",427
+322,Bali,Indonesia,beach,Casey Sullivan,47,Female,3.9,Yes,Apartment,69,12/27/2024,01/09/2025,Train,"Bali, Indonesia",692
+323,Sydney,Australia,beach,Jennifer Kelley,40,Male,2.7,Yes,Resort,260,02/11/2025,02/25/2025,Train,"Sydney, Australia",478
+324,Barcelona,Spain,urban,William Martinez,48,Female,1.2,Yes,Guesthouse,123,08/18/2024,08/21/2024,Cruise,"Barcelona, Spain",193
+325,Cancun,Mexico,beach,William Mcpherson,46,Male,2.1,Yes,Hostel,90,02/01/2025,02/09/2025,Train,"Cancun, Mexico",228
+326,Bangkok,Thailand,urban,Ashley Johnson,54,Male,4.2,Yes,Guesthouse,486,09/28/2024,10/09/2024,Train,"Bangkok, Thailand",848
+327,Bora Bora,French Polynesia,beach,Katie Carter,36,Male,1.1,Yes,Resort,456,02/08/2025,02/16/2025,Bus,"Bora Bora, French Polynesia",124
+328,Venice,Italy,historical,Natalie Anderson,21,Male,4.5,Yes,Apartment,215,07/28/2024,08/06/2024,Flight,"Venice, Italy",579
+329,Tokyo,Japan,urban,Isabella Miller,46,Male,1.5,Yes,Guesthouse,209,03/15/2025,03/20/2025,Bus,"Tokyo, Japan",483
+330,Venice,Italy,historical,Carrie Yang,31,Female,1.4,Yes,Guesthouse,271,02/08/2025,02/20/2025,Train,"Venice, Italy",607
+331,Paris,France,cultural,Jessica Long,57,Female,4.4,Yes,Apartment,432,08/25/2024,08/30/2024,Train,"Paris, France",224
+332,Rome,Italy,historical,Adrian Henry,41,Male,2.2,Yes,Hotel,296,11/17/2024,11/26/2024,Bus,"Rome, Italy",613
+333,Cancun,Mexico,beach,Alicia Cook,33,Female,2.3,Yes,Guesthouse,249,03/10/2025,03/22/2025,Flight,"Cancun, Mexico",671
+334,Bali,Indonesia,beach,Anthony Jackson,44,Female,3.5,Yes,Resort,221,05/07/2024,05/21/2024,Cruise,"Bali, Indonesia",415
+335,Sydney,Australia,beach,Marvin Jones,25,Male,4.3,Yes,Hotel,404,01/30/2025,02/13/2025,Train,"Sydney, Australia",863
+336,Bora Bora,French Polynesia,beach,Jamie Edwards,69,Female,2.3,Yes,Guesthouse,270,07/27/2024,07/31/2024,Flight,"Bora Bora, French Polynesia",499
+337,Amsterdam,Netherlands,urban,Crystal Morris,20,Female,1.4,Yes,Resort,357,07/07/2024,07/12/2024,Bus,"Amsterdam, Netherlands",614
+338,Bora Bora,French Polynesia,beach,Kevin Flores,58,Female,3.6,Yes,Apartment,470,01/05/2025,01/12/2025,Train,"Bora Bora, French Polynesia",676
+339,Bora Bora,French Polynesia,beach,Jenna Cruz,43,Male,2.9,Yes,Resort,246,05/18/2024,05/20/2024,Cruise,"Bora Bora, French Polynesia",746
+340,Edinburgh,UK,historical,Michelle Lane,67,Male,4.8,Yes,Hotel,299,10/08/2024,10/15/2024,Car Rental,"Edinburgh, UK",816
+341,Rome,Italy,historical,Jessica Alvarez,63,Female,3.5,Yes,Hotel,108,05/15/2024,05/23/2024,Bus,"Rome, Italy",379
+342,Venice,Italy,historical,Brooke York,45,Male,3,Yes,Guesthouse,457,02/22/2025,02/27/2025,Bus,"Venice, Italy",361
+343,Marrakech,Morocco,cultural,Samantha Anderson,34,Male,2.1,Yes,Hotel,362,08/19/2024,09/02/2024,Cruise,"Marrakech, Morocco",448
+344,Bora Bora,French Polynesia,beach,Melissa Horne,26,Female,2,Yes,Apartment,308,02/21/2025,02/23/2025,Flight,"Bora Bora, French Polynesia",680
+345,Tokyo,Japan,urban,Andrew Davis,25,Female,1.7,Yes,Guesthouse,387,07/30/2024,08/07/2024,Flight,"Tokyo, Japan",669
+346,Phuket,Thailand,beach,Dawn Griffin,49,Female,2.1,Yes,Guesthouse,360,05/04/2024,05/07/2024,Car Rental,"Phuket, Thailand",773
+347,Phuket,Thailand,beach,Michael Pacheco,24,Male,1.8,Yes,Resort,182,09/11/2024,09/19/2024,Car Rental,"Phuket, Thailand",989
+348,Amsterdam,Netherlands,urban,Richard Shepherd,54,Female,3.2,Yes,Hotel,378,10/19/2024,10/24/2024,Bus,"Amsterdam, Netherlands",303
+349,Istanbul,Turkey,historical,Steven Gould,25,Male,1.3,Yes,Hostel,314,01/15/2025,01/27/2025,Train,"Istanbul, Turkey",919
+350,Bali,Indonesia,beach,Robert Carpenter,67,Male,2.9,Yes,Resort,238,06/09/2024,06/17/2024,Bus,"Bali, Indonesia",629
+351,Bali,Indonesia,beach,Kenneth Rodriguez,68,Male,1.9,Yes,Resort,295,04/21/2025,05/02/2025,Car Rental,"Bali, Indonesia",325
+352,London,UK,urban,Maria Horton,28,Female,3.5,Yes,Resort,102,07/27/2024,08/09/2024,Car Rental,"London, UK",827
+353,Cancun,Mexico,beach,Jessica Herrera,68,Male,2.4,Yes,Apartment,430,11/21/2024,11/23/2024,Train,"Cancun, Mexico",181
+354,Phuket,Thailand,beach,Tanya Murphy,21,Female,4.4,Yes,Guesthouse,427,08/27/2024,09/10/2024,Cruise,"Phuket, Thailand",464
+355,Dubai,UAE,urban,Stephen Calderon,70,Male,3.2,Yes,Hotel,223,09/27/2024,10/08/2024,Train,"Dubai, UAE",986
+356,Rome,Italy,historical,Kathryn Valdez,21,Male,3.3,Yes,Resort,402,09/10/2024,09/23/2024,Cruise,"Rome, Italy",534
+357,Istanbul,Turkey,historical,Jim Foster,21,Female,4.2,Yes,Guesthouse,489,12/09/2024,12/14/2024,Flight,"Istanbul, Turkey",748
+358,Singapore,Singapore,urban,Gregory Dalton,24,Male,3.7,Yes,Hostel,427,09/04/2024,09/05/2024,Train,"Singapore, Singapore",433
+359,London,UK,urban,Blake Lee,20,Female,4,Yes,Guesthouse,260,04/22/2025,05/06/2025,Car Rental,"London, UK",420
+360,New York,USA,urban,Natalie Smith,34,Female,4.9,Yes,Hostel,493,01/21/2025,01/27/2025,Flight,"New York, USA",365
+361,Venice,Italy,historical,Jennifer Lucas,64,Female,4.7,Yes,Guesthouse,145,01/21/2025,01/27/2025,Train,"Venice, Italy",642
+362,Singapore,Singapore,urban,Lisa Anderson,26,Female,1.6,Yes,Hostel,324,07/27/2024,08/02/2024,Flight,"Singapore, Singapore",577
+363,Cancun,Mexico,beach,Mrs. Kylie Johnson,61,Male,2,Yes,Hostel,253,03/21/2025,04/01/2025,Car Rental,"Cancun, Mexico",332
+364,Edinburgh,UK,historical,Dr. Kim Pugh,32,Male,3.3,Yes,Guesthouse,474,01/07/2025,01/15/2025,Train,"Edinburgh, UK",367
+365,Bangkok,Thailand,urban,Alan Johnson,67,Female,4.1,Yes,Guesthouse,316,11/17/2024,11/24/2024,Car Rental,"Bangkok, Thailand",101
+366,Amsterdam,Netherlands,urban,Lauren Hawkins,66,Male,4.1,Yes,Hostel,153,05/12/2024,05/21/2024,Train,"Amsterdam, Netherlands",249
+367,Venice,Italy,historical,Alyssa Smith,58,Male,2.4,Yes,Guesthouse,118,02/15/2025,02/17/2025,Bus,"Venice, Italy",830
+368,Cancun,Mexico,beach,Kurt Randall,29,Female,3.9,Yes,Hostel,63,02/23/2025,03/04/2025,Cruise,"Cancun, Mexico",735
+369,Edinburgh,UK,historical,Joshua White,45,Male,2.1,Yes,Apartment,306,06/27/2024,07/01/2024,Cruise,"Edinburgh, UK",319
+370,Rome,Italy,historical,Christina Morales,62,Male,1.4,Yes,Hotel,455,07/20/2024,08/02/2024,Flight,"Rome, Italy",423
+371,Dubai,UAE,urban,Mrs. Destiny Glenn,46,Female,1.2,Yes,Hotel,316,07/20/2024,08/01/2024,Train,"Dubai, UAE",950
+372,Cape Town,South Africa,nature,Robin Richardson,34,Female,2.1,Yes,Guesthouse,185,08/13/2024,08/26/2024,Train,"Cape Town, South Africa",59
+373,Sydney,Australia,beach,Hannah Adams,32,Female,4.1,Yes,Guesthouse,138,03/15/2025,03/21/2025,Train,"Sydney, Australia",370
+374,Barcelona,Spain,urban,Gilbert Owens,69,Female,3.1,Yes,Apartment,238,06/04/2024,06/09/2024,Flight,"Barcelona, Spain",719
+375,Istanbul,Turkey,historical,Shannon Glover,55,Male,2.7,Yes,Hostel,317,03/22/2025,04/01/2025,Car Rental,"Istanbul, Turkey",857
+376,Bali,Indonesia,beach,Ashley Mcdonald,30,Female,2.5,Yes,Hotel,145,06/30/2024,07/10/2024,Train,"Bali, Indonesia",338
+377,Cape Town,South Africa,nature,Marcus Tate,46,Male,1.5,Yes,Resort,132,12/09/2024,12/11/2024,Flight,"Cape Town, South Africa",485
+378,New York,USA,urban,Shelia Mcdonald,57,Male,4.6,Yes,Hostel,135,03/07/2025,03/18/2025,Flight,"New York, USA",900
+379,Cancun,Mexico,beach,Jose Phillips,64,Female,1.6,Yes,Hostel,463,03/13/2025,03/22/2025,Bus,"Cancun, Mexico",347
+380,Singapore,Singapore,urban,Bonnie Bailey,60,Male,2.9,Yes,Apartment,312,06/09/2024,06/18/2024,Cruise,"Singapore, Singapore",481
+381,Barcelona,Spain,urban,Beth Hardy,50,Male,1.3,Yes,Apartment,198,09/04/2024,09/13/2024,Car Rental,"Barcelona, Spain",566
+382,Venice,Italy,historical,Derrick Carroll,49,Female,4.4,Yes,Guesthouse,387,02/22/2025,03/01/2025,Car Rental,"Venice, Italy",449
+383,Marrakech,Morocco,cultural,Alicia Hayes,18,Male,2.7,Yes,Hotel,65,09/01/2024,09/05/2024,Train,"Marrakech, Morocco",752
+384,Tokyo,Japan,urban,Cynthia Contreras,34,Female,4.4,Yes,Guesthouse,211,07/01/2024,07/08/2024,Flight,"Tokyo, Japan",643
+385,Bali,Indonesia,beach,Lindsey Mccullough,63,Male,4,Yes,Resort,451,11/14/2024,11/17/2024,Flight,"Bali, Indonesia",445
+386,Bangkok,Thailand,urban,Angela Hines,42,Female,1.3,Yes,Guesthouse,443,05/22/2024,05/30/2024,Flight,"Bangkok, Thailand",902
+387,Tokyo,Japan,urban,Justin Gray,56,Male,2.7,Yes,Guesthouse,205,07/24/2024,07/29/2024,Bus,"Tokyo, Japan",927
+388,Phuket,Thailand,beach,Richard Figueroa,65,Female,2.3,Yes,Hotel,136,02/27/2025,03/10/2025,Cruise,"Phuket, Thailand",265
+389,London,UK,urban,Corey Steele,69,Female,3.8,Yes,Apartment,348,10/26/2024,10/31/2024,Flight,"London, UK",169
+390,Venice,Italy,historical,Dominique Barker,41,Female,1.1,Yes,Guesthouse,446,08/22/2024,08/24/2024,Train,"Venice, Italy",468
+391,Cape Town,South Africa,nature,Patricia Martin,69,Female,2.9,Yes,Hotel,406,10/16/2024,10/25/2024,Flight,"Cape Town, South Africa",112
+392,Venice,Italy,historical,Heather Scott,59,Female,4.4,Yes,Guesthouse,271,07/11/2024,07/24/2024,Car Rental,"Venice, Italy",878
+393,Barcelona,Spain,urban,Julie Graham,23,Male,1.3,Yes,Hostel,481,10/22/2024,10/29/2024,Bus,"Barcelona, Spain",156
+394,Dubai,UAE,urban,Sarah Whitney,48,Male,2.4,Yes,Hotel,148,06/23/2024,07/04/2024,Car Rental,"Dubai, UAE",863
+395,Istanbul,Turkey,historical,Annette Robinson,55,Male,3.3,Yes,Guesthouse,74,01/28/2025,02/02/2025,Cruise,"Istanbul, Turkey",324
+396,Bali,Indonesia,beach,Mark Walker,53,Female,1.7,Yes,Hostel,250,12/27/2024,12/28/2024,Bus,"Bali, Indonesia",310
+397,Venice,Italy,historical,Matthew King,48,Female,3.1,Yes,Apartment,332,10/26/2024,10/30/2024,Cruise,"Venice, Italy",515
+398,Bali,Indonesia,beach,Damon Williamson,48,Male,4.9,Yes,Apartment,163,08/15/2024,08/25/2024,Train,"Bali, Indonesia",660
+399,New York,USA,urban,Steve Rodriguez,24,Female,1.5,Yes,Hostel,155,12/06/2024,12/08/2024,Car Rental,"New York, USA",626
+400,Phuket,Thailand,beach,Christopher Schmidt,41,Female,3.5,Yes,Apartment,194,09/22/2024,10/03/2024,Bus,"Phuket, Thailand",707
+401,Bangkok,Thailand,urban,Mr. Sean Allen,25,Female,2.8,Yes,Hostel,284,01/05/2025,01/07/2025,Car Rental,"Bangkok, Thailand",136
+402,Edinburgh,UK,historical,Gloria May,52,Male,1.7,Yes,Guesthouse,108,02/15/2025,02/16/2025,Cruise,"Edinburgh, UK",621
+403,Dubai,UAE,urban,Shawn Phillips,28,Female,4.6,Yes,Resort,365,12/09/2024,12/10/2024,Cruise,"Dubai, UAE",487
+404,Dubai,UAE,urban,Jacob Hayes,26,Female,4.6,Yes,Hostel,64,01/19/2025,01/23/2025,Bus,"Dubai, UAE",713
+405,Istanbul,Turkey,historical,Amy Phillips,67,Male,2.2,Yes,Apartment,276,05/24/2024,05/31/2024,Bus,"Istanbul, Turkey",111
+406,Venice,Italy,historical,Kimberly Crawford,27,Male,1.4,Yes,Apartment,154,03/09/2025,03/21/2025,Car Rental,"Venice, Italy",362
+407,Venice,Italy,historical,Michael Massey,43,Male,4,Yes,Hotel,455,04/12/2025,04/25/2025,Flight,"Venice, Italy",400
+408,Venice,Italy,historical,Leah Allen,36,Female,3,Yes,Resort,122,03/06/2025,03/20/2025,Flight,"Venice, Italy",802
+409,Bora Bora,French Polynesia,beach,Daniel Jones,61,Male,3.5,Yes,Guesthouse,234,09/26/2024,10/07/2024,Cruise,"Bora Bora, French Polynesia",263
+410,Bali,Indonesia,beach,Jason Harris,22,Female,4.8,Yes,Apartment,444,09/03/2024,09/15/2024,Flight,"Bali, Indonesia",347
+411,Marrakech,Morocco,cultural,Cynthia Lopez,43,Female,2.6,Yes,Resort,351,05/05/2024,05/09/2024,Cruise,"Marrakech, Morocco",885
+412,Singapore,Singapore,urban,Phillip Johnson DDS,62,Female,2.1,Yes,Apartment,215,05/12/2024,05/16/2024,Train,"Singapore, Singapore",983
+413,Edinburgh,UK,historical,Mr. James Aguirre,20,Female,4.7,Yes,Hostel,394,01/20/2025,01/21/2025,Bus,"Edinburgh, UK",740
+414,Tokyo,Japan,urban,Shelby Hernandez,56,Female,2.9,Yes,Guesthouse,157,01/06/2025,01/18/2025,Bus,"Tokyo, Japan",838
+415,Marrakech,Morocco,cultural,Lee Gonzalez,52,Female,1.8,Yes,Hostel,162,09/22/2024,09/28/2024,Cruise,"Marrakech, Morocco",294
+416,London,UK,urban,Frank Fuentes,54,Male,4.5,Yes,Resort,344,01/26/2025,02/04/2025,Cruise,"London, UK",947
+417,Venice,Italy,historical,Daniel Williams,32,Male,2.6,Yes,Hotel,500,06/13/2024,06/22/2024,Cruise,"Venice, Italy",264
+418,Bangkok,Thailand,urban,Michelle Williams,29,Female,1.7,Yes,Resort,125,04/06/2025,04/18/2025,Train,"Bangkok, Thailand",895
+419,Phuket,Thailand,beach,Debra Wood,47,Female,3.3,Yes,Hotel,302,01/21/2025,02/04/2025,Bus,"Phuket, Thailand",558
+420,Paris,France,cultural,Michelle Wade,41,Female,4.6,Yes,Guesthouse,416,06/24/2024,07/01/2024,Train,"Paris, France",946
+421,Cape Town,South Africa,nature,Bryan Copeland PhD,69,Female,1.6,Yes,Guesthouse,356,09/26/2024,10/01/2024,Cruise,"Cape Town, South Africa",139
+422,Istanbul,Turkey,historical,Mr. David Campos,50,Female,5,Yes,Guesthouse,500,05/26/2024,06/03/2024,Bus,"Istanbul, Turkey",697
+423,Marrakech,Morocco,cultural,Diane Baker,63,Male,4.6,Yes,Hotel,178,08/20/2024,08/26/2024,Flight,"Marrakech, Morocco",568
+424,Edinburgh,UK,historical,Walter Dennis,34,Male,1.5,Yes,Apartment,293,01/21/2025,02/01/2025,Car Rental,"Edinburgh, UK",613
+425,Sydney,Australia,beach,Sarah Bowen,33,Male,2.1,Yes,Apartment,293,03/23/2025,03/28/2025,Bus,"Sydney, Australia",957
+426,Amsterdam,Netherlands,urban,George Wilson,35,Female,2.9,Yes,Guesthouse,193,03/27/2025,04/06/2025,Bus,"Amsterdam, Netherlands",52
+427,Marrakech,Morocco,cultural,Jordan Hester,41,Male,4.1,Yes,Guesthouse,283,10/07/2024,10/09/2024,Cruise,"Marrakech, Morocco",400
+428,London,UK,urban,Stanley Armstrong,22,Female,2.2,Yes,Resort,266,11/19/2024,11/29/2024,Bus,"London, UK",370
+429,Tokyo,Japan,urban,Jacob Murray,25,Female,2.6,Yes,Resort,336,11/09/2024,11/15/2024,Flight,"Tokyo, Japan",650
+430,Bora Bora,French Polynesia,beach,Anthony Bishop,69,Female,2.7,Yes,Hotel,403,06/24/2024,06/28/2024,Car Rental,"Bora Bora, French Polynesia",88
+431,London,UK,urban,Lee Young,30,Female,3.9,Yes,Apartment,276,01/22/2025,01/24/2025,Cruise,"London, UK",535
+432,New York,USA,urban,Dave Dougherty,51,Female,1,Yes,Hostel,207,01/29/2025,02/07/2025,Train,"New York, USA",880
+433,Rome,Italy,historical,Gerald Williams,64,Male,3.1,Yes,Apartment,473,04/26/2025,05/07/2025,Flight,"Rome, Italy",498
+434,Venice,Italy,historical,Angela Harris,23,Female,3.3,Yes,Hotel,106,10/21/2024,10/24/2024,Flight,"Venice, Italy",589
+435,Cancun,Mexico,beach,Lauren Conley,18,Female,1.9,Yes,Guesthouse,418,12/21/2024,01/03/2025,Bus,"Cancun, Mexico",320
+436,Rome,Italy,historical,Jacob Perry,34,Male,2.5,Yes,Hotel,449,09/12/2024,09/15/2024,Cruise,"Rome, Italy",387
+437,London,UK,urban,Curtis Turner,19,Female,4,Yes,Hostel,258,12/01/2024,12/07/2024,Train,"London, UK",670
+438,Edinburgh,UK,historical,Kristi Johnson,65,Male,2.5,Yes,Hostel,366,11/28/2024,12/10/2024,Train,"Edinburgh, UK",667
+439,Bora Bora,French Polynesia,beach,Tanya Scott,48,Male,3.2,Yes,Hostel,313,09/25/2024,10/09/2024,Flight,"Bora Bora, French Polynesia",843
+440,Marrakech,Morocco,cultural,Ariana Bennett,44,Male,1.7,Yes,Hostel,61,12/24/2024,12/29/2024,Bus,"Marrakech, Morocco",833
+441,Edinburgh,UK,historical,Amanda Bradshaw,43,Female,1.4,Yes,Guesthouse,390,10/12/2024,10/23/2024,Cruise,"Edinburgh, UK",508
+442,Barcelona,Spain,urban,Heather Warren,60,Male,3.5,Yes,Hostel,352,03/30/2025,04/08/2025,Cruise,"Barcelona, Spain",249
+443,Istanbul,Turkey,historical,Nancy Garcia,23,Female,4.9,Yes,Hostel,332,06/11/2024,06/15/2024,Bus,"Istanbul, Turkey",603
+444,Venice,Italy,historical,Mrs. Linda Austin,23,Female,4.2,Yes,Hostel,125,05/31/2024,06/09/2024,Cruise,"Venice, Italy",115
+445,Phuket,Thailand,beach,Crystal Foley,38,Male,1.8,Yes,Apartment,248,04/20/2025,04/29/2025,Car Rental,"Phuket, Thailand",160
+446,Paris,France,cultural,Allen Nelson,35,Female,4,Yes,Apartment,203,08/17/2024,08/18/2024,Cruise,"Paris, France",334
+447,London,UK,urban,Mario Turner,18,Male,2.3,Yes,Apartment,90,09/06/2024,09/13/2024,Car Rental,"London, UK",776
+448,Istanbul,Turkey,historical,Lucas Gibson,36,Male,2.4,Yes,Resort,56,08/14/2024,08/16/2024,Bus,"Istanbul, Turkey",500
+449,Istanbul,Turkey,historical,Sarah Cortez,28,Male,2.1,Yes,Apartment,422,12/01/2024,12/07/2024,Train,"Istanbul, Turkey",466
+450,Singapore,Singapore,urban,Rachel Nicholson,50,Male,1.1,Yes,Hostel,288,10/21/2024,10/27/2024,Bus,"Singapore, Singapore",752
+451,Cape Town,South Africa,nature,Kyle Weeks,61,Female,3.5,Yes,Hostel,451,03/01/2025,03/15/2025,Train,"Cape Town, South Africa",957
+452,Istanbul,Turkey,historical,Bobby Miller,30,Male,2.5,Yes,Guesthouse,382,09/26/2024,10/09/2024,Cruise,"Istanbul, Turkey",305
+453,Istanbul,Turkey,historical,Julia Wallace,56,Male,4.8,Yes,Apartment,290,07/21/2024,08/02/2024,Bus,"Istanbul, Turkey",199
+454,Sydney,Australia,beach,Anthony Underwood,66,Male,1.5,Yes,Hotel,360,09/28/2024,10/03/2024,Bus,"Sydney, Australia",332
+455,Singapore,Singapore,urban,Paul Perry,57,Female,3.5,Yes,Apartment,120,01/20/2025,01/21/2025,Train,"Singapore, Singapore",204
+456,London,UK,urban,Elizabeth Mcguire,59,Male,3.7,Yes,Hostel,308,03/06/2025,03/10/2025,Train,"London, UK",276
+457,Rome,Italy,historical,Ruben White,33,Female,1.7,Yes,Hotel,99,06/08/2024,06/13/2024,Bus,"Rome, Italy",924
+458,New York,USA,urban,Pamela Kelley,55,Male,2.7,Yes,Hotel,314,11/08/2024,11/14/2024,Train,"New York, USA",126
+459,Sydney,Australia,beach,Stephanie House,58,Female,3.8,Yes,Guesthouse,153,08/24/2024,09/07/2024,Flight,"Sydney, Australia",447
+460,Dubai,UAE,urban,Christopher Hubbard,29,Male,3.6,Yes,Resort,337,01/07/2025,01/16/2025,Bus,"Dubai, UAE",482
+461,Tokyo,Japan,urban,Stephen Jones,28,Female,3.2,Yes,Hostel,476,06/27/2024,06/28/2024,Train,"Tokyo, Japan",152
+462,Sydney,Australia,beach,Paul Rasmussen,39,Male,3.7,Yes,Resort,134,11/21/2024,11/26/2024,Bus,"Sydney, Australia",874
+463,Bora Bora,French Polynesia,beach,Emma Martin,26,Male,4,Yes,Hotel,444,12/24/2024,12/26/2024,Flight,"Bora Bora, French Polynesia",636
+464,Sydney,Australia,beach,Russell Campbell,44,Male,1.5,Yes,Guesthouse,492,02/20/2025,02/21/2025,Train,"Sydney, Australia",535
+465,Edinburgh,UK,historical,Erin Black,34,Female,1.9,Yes,Resort,355,07/22/2024,07/30/2024,Bus,"Edinburgh, UK",655
+466,Bali,Indonesia,beach,Dr. Brandon Henson,18,Male,1.8,Yes,Apartment,145,12/26/2024,01/09/2025,Bus,"Bali, Indonesia",186
+467,Rome,Italy,historical,Rebecca Allen,18,Female,3.2,Yes,Resort,282,05/11/2024,05/15/2024,Flight,"Rome, Italy",957
+468,London,UK,urban,Kenneth Anderson,56,Female,3.1,Yes,Guesthouse,175,06/06/2024,06/14/2024,Bus,"London, UK",755
+469,Cape Town,South Africa,nature,William Stone,40,Female,1.5,Yes,Hotel,252,10/19/2024,10/31/2024,Bus,"Cape Town, South Africa",361
+470,Phuket,Thailand,beach,Ronald Beck,45,Female,2.7,Yes,Apartment,412,02/18/2025,03/02/2025,Car Rental,"Phuket, Thailand",801
+471,Marrakech,Morocco,cultural,Kimberly Kelley,59,Male,3.1,Yes,Hotel,152,07/28/2024,08/04/2024,Cruise,"Marrakech, Morocco",707
+472,Marrakech,Morocco,cultural,Dr. Terri Perez,25,Female,2.5,Yes,Resort,169,07/29/2024,08/10/2024,Train,"Marrakech, Morocco",777
+473,Singapore,Singapore,urban,Matthew Stephens MD,34,Male,1.1,Yes,Hostel,216,08/13/2024,08/21/2024,Bus,"Singapore, Singapore",868
+474,Sydney,Australia,beach,Stephanie Hernandez,56,Male,4.4,Yes,Hotel,108,06/04/2024,06/07/2024,Cruise,"Sydney, Australia",713
+475,Cancun,Mexico,beach,Stacey Murphy,54,Male,4.3,Yes,Resort,148,10/09/2024,10/23/2024,Bus,"Cancun, Mexico",126
+476,Marrakech,Morocco,cultural,Terri Barnett,47,Male,3.9,Yes,Hostel,254,11/12/2024,11/25/2024,Car Rental,"Marrakech, Morocco",612
+477,Venice,Italy,historical,Logan Henson,54,Female,1.2,Yes,Hotel,86,11/29/2024,12/12/2024,Car Rental,"Venice, Italy",402
+478,Bangkok,Thailand,urban,Yvonne Adams,50,Female,4.1,Yes,Resort,489,12/10/2024,12/16/2024,Car Rental,"Bangkok, Thailand",113
+479,Singapore,Singapore,urban,Kenneth Smith,56,Female,2.1,Yes,Guesthouse,371,12/12/2024,12/17/2024,Bus,"Singapore, Singapore",333
+480,Marrakech,Morocco,cultural,Anna Campbell,20,Male,4.3,Yes,Hostel,206,12/14/2024,12/23/2024,Cruise,"Marrakech, Morocco",317
+481,Istanbul,Turkey,historical,Lisa Jones,32,Male,4.1,Yes,Apartment,66,09/25/2024,09/27/2024,Bus,"Istanbul, Turkey",745
+482,Barcelona,Spain,urban,Mary Glover,20,Female,3.2,Yes,Guesthouse,398,01/18/2025,01/30/2025,Train,"Barcelona, Spain",460
+483,London,UK,urban,Christopher Morris,45,Male,4.7,Yes,Resort,378,06/14/2024,06/16/2024,Train,"London, UK",786
+484,Tokyo,Japan,urban,David Petersen,69,Male,4.4,Yes,Hotel,81,02/01/2025,02/11/2025,Car Rental,"Tokyo, Japan",629
+485,Bali,Indonesia,beach,Jason Potter Jr.,68,Male,3.9,Yes,Hostel,99,06/18/2024,06/23/2024,Flight,"Bali, Indonesia",753
+486,London,UK,urban,Brandon Middleton,53,Female,4.3,Yes,Resort,141,11/06/2024,11/13/2024,Bus,"London, UK",89
+487,Paris,France,cultural,Sarah Robinson,54,Male,1.4,Yes,Hotel,157,03/15/2025,03/25/2025,Flight,"Paris, France",159
+488,Cape Town,South Africa,nature,Carl Cabrera,40,Male,3.1,Yes,Hostel,86,06/03/2024,06/15/2024,Cruise,"Cape Town, South Africa",164
+489,Bali,Indonesia,beach,Laurie Riddle,33,Female,3.6,Yes,Apartment,394,08/12/2024,08/26/2024,Cruise,"Bali, Indonesia",827
+490,New York,USA,urban,Julie Smith,67,Female,2.9,Yes,Apartment,146,02/17/2025,02/27/2025,Cruise,"New York, USA",77
+491,Dubai,UAE,urban,Haley Williams,70,Male,1.7,Yes,Hotel,249,11/16/2024,11/17/2024,Cruise,"Dubai, UAE",268
+492,Sydney,Australia,beach,Noah Simpson,28,Female,3.9,Yes,Resort,367,10/02/2024,10/03/2024,Bus,"Sydney, Australia",920
+493,Bangkok,Thailand,urban,Sarah Tran,65,Male,2.3,Yes,Guesthouse,91,04/11/2025,04/13/2025,Bus,"Bangkok, Thailand",569
+494,Marrakech,Morocco,cultural,Toni Becker,42,Male,2.1,Yes,Hotel,54,03/02/2025,03/04/2025,Bus,"Marrakech, Morocco",508
+495,Cape Town,South Africa,nature,Jasmin Beck,61,Male,3.1,Yes,Apartment,177,03/01/2025,03/02/2025,Bus,"Cape Town, South Africa",88
+496,Edinburgh,UK,historical,Walter Ramos,21,Female,3.8,Yes,Guesthouse,190,12/28/2024,12/30/2024,Car Rental,"Edinburgh, UK",366
+497,Dubai,UAE,urban,Amber Castillo,48,Female,3,Yes,Resort,246,11/30/2024,12/03/2024,Train,"Dubai, UAE",940
+498,Venice,Italy,historical,Jennifer Zimmerman,69,Male,4.8,Yes,Hostel,433,07/13/2024,07/18/2024,Train,"Venice, Italy",111
+499,Tokyo,Japan,urban,Jessica Phillips,36,Female,1.7,Yes,Hostel,371,06/29/2024,07/08/2024,Cruise,"Tokyo, Japan",868
+500,Barcelona,Spain,urban,Stephanie Davis,45,Male,4.7,Yes,Hostel,466,08/25/2024,09/03/2024,Cruise,"Barcelona, Spain",553
+501,Singapore,Singapore,urban,Brooke Young,65,Male,3.1,Yes,Hostel,463,04/26/2025,05/02/2025,Car Rental,"Singapore, Singapore",396
+502,Marrakech,Morocco,cultural,Melissa Vasquez,59,Male,2.6,Yes,Hotel,239,07/01/2024,07/04/2024,Car Rental,"Marrakech, Morocco",291
+503,Istanbul,Turkey,historical,Justin Reed,20,Male,3.9,Yes,Hotel,318,10/16/2024,10/21/2024,Cruise,"Istanbul, Turkey",815
+504,Venice,Italy,historical,Brian Kaiser,32,Female,4.3,Yes,Apartment,451,10/03/2024,10/07/2024,Bus,"Venice, Italy",362
+505,Venice,Italy,historical,James Garcia,53,Female,3.6,Yes,Hotel,433,07/03/2024,07/10/2024,Car Rental,"Venice, Italy",915
+506,Paris,France,cultural,Sherry Paul,54,Female,4.6,Yes,Guesthouse,431,09/16/2024,09/28/2024,Flight,"Paris, France",94
+507,Phuket,Thailand,beach,Patricia Salinas,65,Male,2.7,Yes,Guesthouse,414,06/07/2024,06/21/2024,Flight,"Phuket, Thailand",222
+508,Cancun,Mexico,beach,Melvin Roy,25,Female,2.5,Yes,Apartment,168,05/21/2024,05/31/2024,Car Rental,"Cancun, Mexico",565
+509,New York,USA,urban,Mrs. Mary Jefferson,69,Female,4.9,Yes,Apartment,97,09/19/2024,09/20/2024,Car Rental,"New York, USA",291
+510,Phuket,Thailand,beach,Robert Lewis,61,Female,1.6,Yes,Hostel,380,03/30/2025,04/06/2025,Car Rental,"Phuket, Thailand",323
+511,Cape Town,South Africa,nature,Dr. Matthew Bauer,18,Female,4.1,Yes,Hotel,197,04/06/2025,04/12/2025,Flight,"Cape Town, South Africa",228
+512,Bali,Indonesia,beach,Robert Anderson,45,Female,1.5,Yes,Hostel,106,03/02/2025,03/10/2025,Train,"Bali, Indonesia",919
+513,Istanbul,Turkey,historical,Catherine Sandoval,51,Female,3.6,Yes,Apartment,406,09/24/2024,10/02/2024,Flight,"Istanbul, Turkey",814
+514,New York,USA,urban,Steven Robinson,21,Male,3.1,Yes,Resort,371,07/30/2024,07/31/2024,Cruise,"New York, USA",234
+515,Marrakech,Morocco,cultural,Ashley Kennedy,43,Male,1.4,Yes,Guesthouse,356,08/20/2024,08/29/2024,Car Rental,"Marrakech, Morocco",116
+516,Edinburgh,UK,historical,Jessica Thomas,44,Female,2.6,Yes,Hotel,172,03/26/2025,03/29/2025,Car Rental,"Edinburgh, UK",948
+517,Phuket,Thailand,beach,Thomas Johnson,28,Male,4.7,Yes,Apartment,326,06/04/2024,06/10/2024,Flight,"Phuket, Thailand",787
+518,Marrakech,Morocco,cultural,Jennifer Burke,65,Male,2.6,Yes,Guesthouse,342,02/06/2025,02/18/2025,Cruise,"Marrakech, Morocco",862
+519,Bora Bora,French Polynesia,beach,Edward Gonzalez,40,Female,2.6,Yes,Resort,347,09/23/2024,09/27/2024,Flight,"Bora Bora, French Polynesia",960
+520,Amsterdam,Netherlands,urban,Anne Rose,64,Male,4.8,Yes,Apartment,161,07/07/2024,07/15/2024,Train,"Amsterdam, Netherlands",806
+521,Dubai,UAE,urban,Joel Knight,22,Female,1.7,Yes,Guesthouse,344,11/30/2024,12/07/2024,Cruise,"Dubai, UAE",389
+522,Istanbul,Turkey,historical,Caroline Baker,48,Male,4.1,Yes,Guesthouse,295,02/06/2025,02/14/2025,Train,"Istanbul, Turkey",805
+523,Dubai,UAE,urban,Joshua Ashley,67,Female,3.4,Yes,Resort,390,06/19/2024,06/25/2024,Flight,"Dubai, UAE",143
+524,Cape Town,South Africa,nature,George Simpson,25,Male,4.8,Yes,Apartment,458,04/22/2025,04/28/2025,Flight,"Cape Town, South Africa",570
+525,Bali,Indonesia,beach,Phillip Wilson,66,Male,1,Yes,Apartment,435,10/24/2024,10/28/2024,Cruise,"Bali, Indonesia",100
+526,Cancun,Mexico,beach,Emily Black,68,Male,3.9,Yes,Hotel,387,11/09/2024,11/12/2024,Flight,"Cancun, Mexico",914
+527,Phuket,Thailand,beach,Holly Morgan,54,Male,4.3,Yes,Hotel,212,12/01/2024,12/04/2024,Bus,"Phuket, Thailand",982
+528,London,UK,urban,Stephanie Ramos,51,Female,3.6,Yes,Guesthouse,264,03/02/2025,03/14/2025,Flight,"London, UK",636
+529,Bali,Indonesia,beach,Jessica Phelps,58,Female,2.3,Yes,Apartment,238,02/18/2025,02/20/2025,Train,"Bali, Indonesia",112
+530,Phuket,Thailand,beach,Anthony Marshall,42,Male,1.9,Yes,Hotel,62,03/31/2025,04/05/2025,Train,"Phuket, Thailand",652
+531,Cape Town,South Africa,nature,Nicole Torres,25,Male,4.5,Yes,Resort,414,02/10/2025,02/16/2025,Car Rental,"Cape Town, South Africa",725
+532,Bali,Indonesia,beach,Stephanie Gonzalez,62,Female,1.8,Yes,Hostel,100,05/21/2024,05/27/2024,Car Rental,"Bali, Indonesia",955
+533,Cape Town,South Africa,nature,Brent Olson,65,Male,1.4,Yes,Hotel,147,04/26/2025,05/07/2025,Flight,"Cape Town, South Africa",251
+534,Bangkok,Thailand,urban,Teresa White,27,Male,2,Yes,Hotel,493,10/07/2024,10/21/2024,Train,"Bangkok, Thailand",499
+535,Edinburgh,UK,historical,Bryan Dyer,43,Female,3.9,Yes,Hotel,102,02/28/2025,03/03/2025,Car Rental,"Edinburgh, UK",815
+536,Cape Town,South Africa,nature,Matthew Willis,28,Male,4.7,Yes,Resort,306,03/09/2025,03/21/2025,Cruise,"Cape Town, South Africa",800
+537,Istanbul,Turkey,historical,Anthony Reeves,26,Male,3.9,Yes,Hotel,232,12/05/2024,12/10/2024,Cruise,"Istanbul, Turkey",681
+538,Tokyo,Japan,urban,Christina Rojas,37,Female,2.9,Yes,Apartment,208,07/13/2024,07/24/2024,Flight,"Tokyo, Japan",847
+539,Cancun,Mexico,beach,Ann Thomas,45,Female,4.1,Yes,Apartment,268,11/20/2024,12/02/2024,Cruise,"Cancun, Mexico",600
+540,Cancun,Mexico,beach,Andres Burton,70,Male,1.1,Yes,Guesthouse,282,03/16/2025,03/20/2025,Train,"Cancun, Mexico",662
+541,New York,USA,urban,Jenny Jimenez,70,Male,3.5,Yes,Guesthouse,110,10/28/2024,11/06/2024,Car Rental,"New York, USA",889
+542,Bora Bora,French Polynesia,beach,Arthur Gomez,70,Female,3.4,Yes,Apartment,334,02/18/2025,03/02/2025,Flight,"Bora Bora, French Polynesia",627
+543,New York,USA,urban,Gabriella Shaw,31,Female,1.4,Yes,Apartment,131,12/05/2024,12/07/2024,Car Rental,"New York, USA",973
+544,Edinburgh,UK,historical,Tara Conrad,18,Female,3.2,Yes,Resort,59,02/21/2025,02/23/2025,Cruise,"Edinburgh, UK",425
+545,London,UK,urban,Benjamin Calderon,67,Male,3.3,Yes,Hostel,64,07/02/2024,07/16/2024,Car Rental,"London, UK",82
+546,Bangkok,Thailand,urban,Mark Aguirre,53,Male,3.3,Yes,Hostel,336,08/29/2024,09/04/2024,Train,"Bangkok, Thailand",864
+547,Amsterdam,Netherlands,urban,Tammy Navarro,18,Male,4.9,Yes,Resort,264,04/20/2025,04/27/2025,Cruise,"Amsterdam, Netherlands",145
+548,Bangkok,Thailand,urban,Mr. Matthew Wang,61,Male,2.3,Yes,Hostel,307,08/05/2024,08/15/2024,Train,"Bangkok, Thailand",861
+549,Phuket,Thailand,beach,Katherine Everett,51,Female,1.3,Yes,Hostel,188,06/09/2024,06/15/2024,Flight,"Phuket, Thailand",643
+550,Bora Bora,French Polynesia,beach,Drew Greene,22,Female,3.1,Yes,Guesthouse,448,07/01/2024,07/07/2024,Car Rental,"Bora Bora, French Polynesia",160
+551,Rome,Italy,historical,Nicole Duarte,66,Male,1.4,Yes,Resort,433,06/10/2024,06/14/2024,Bus,"Rome, Italy",440
+552,Cape Town,South Africa,nature,Cynthia Myers,43,Male,3.2,Yes,Hotel,218,08/28/2024,09/11/2024,Car Rental,"Cape Town, South Africa",321
+553,Phuket,Thailand,beach,Tasha Vaughn,21,Male,1.8,Yes,Apartment,424,07/06/2024,07/17/2024,Flight,"Phuket, Thailand",145
+554,Sydney,Australia,beach,Timothy Collins,24,Female,3,Yes,Resort,191,08/14/2024,08/27/2024,Cruise,"Sydney, Australia",249
+555,Edinburgh,UK,historical,Christopher Ballard,60,Female,3.1,Yes,Hostel,415,09/26/2024,10/07/2024,Cruise,"Edinburgh, UK",231
+556,Venice,Italy,historical,Carrie Miller,65,Female,3.2,Yes,Guesthouse,353,03/26/2025,04/04/2025,Cruise,"Venice, Italy",826
+557,New York,USA,urban,Valerie West,60,Male,5,Yes,Hostel,420,04/23/2025,05/07/2025,Flight,"New York, USA",300
+558,Bora Bora,French Polynesia,beach,Megan Graves,68,Male,1.9,Yes,Resort,120,01/30/2025,02/11/2025,Flight,"Bora Bora, French Polynesia",156
+559,London,UK,urban,Laura Martin,20,Female,3.6,Yes,Resort,274,07/16/2024,07/19/2024,Car Rental,"London, UK",378
+560,Barcelona,Spain,urban,Peggy Wilson,58,Female,4.7,Yes,Resort,312,01/31/2025,02/10/2025,Flight,"Barcelona, Spain",631
+561,Edinburgh,UK,historical,Amy Johnson,57,Male,4.2,Yes,Hotel,363,01/24/2025,02/07/2025,Bus,"Edinburgh, UK",709
+562,Edinburgh,UK,historical,Shawn Day,70,Male,4.2,Yes,Guesthouse,114,07/07/2024,07/12/2024,Train,"Edinburgh, UK",913
+563,Paris,France,cultural,Melissa Diaz,45,Female,4.4,Yes,Hotel,101,02/16/2025,02/27/2025,Train,"Paris, France",125
+564,Singapore,Singapore,urban,Carolyn Schroeder,54,Male,1.8,Yes,Hotel,215,02/21/2025,02/24/2025,Bus,"Singapore, Singapore",510
+565,Tokyo,Japan,urban,Shawn Edwards,42,Male,3.9,Yes,Resort,84,04/12/2025,04/17/2025,Flight,"Tokyo, Japan",107
+566,Dubai,UAE,urban,Tyler Sims,52,Male,2.2,Yes,Apartment,426,07/09/2024,07/13/2024,Car Rental,"Dubai, UAE",795
+567,Amsterdam,Netherlands,urban,Jamie Hall,22,Female,4.4,Yes,Guesthouse,465,05/09/2024,05/18/2024,Flight,"Amsterdam, Netherlands",965
+568,Sydney,Australia,beach,Mary Miller,51,Male,3.7,Yes,Guesthouse,71,12/07/2024,12/12/2024,Car Rental,"Sydney, Australia",358
+569,Venice,Italy,historical,Joan Adams,65,Female,1.1,Yes,Hotel,331,12/15/2024,12/23/2024,Bus,"Venice, Italy",879
+570,Cancun,Mexico,beach,Terri Moore,29,Male,4.8,Yes,Resort,164,11/09/2024,11/13/2024,Bus,"Cancun, Mexico",114
+571,Bali,Indonesia,beach,Diana Miller,29,Male,3.7,Yes,Apartment,251,02/13/2025,02/19/2025,Car Rental,"Bali, Indonesia",931
+572,Phuket,Thailand,beach,Lindsay Clark,52,Male,1.3,Yes,Hostel,167,09/28/2024,10/01/2024,Car Rental,"Phuket, Thailand",973
+573,Dubai,UAE,urban,Mario Smith,33,Male,4.1,Yes,Apartment,407,11/27/2024,11/28/2024,Bus,"Dubai, UAE",903
+574,Marrakech,Morocco,cultural,Jessica Stevens,30,Female,1.1,Yes,Apartment,385,12/18/2024,12/29/2024,Train,"Marrakech, Morocco",971
+575,Cancun,Mexico,beach,Michael Proctor,32,Female,3.4,Yes,Hotel,192,01/12/2025,01/17/2025,Bus,"Cancun, Mexico",201
+576,Bali,Indonesia,beach,Crystal Black,58,Male,4.6,Yes,Resort,206,04/01/2025,04/11/2025,Cruise,"Bali, Indonesia",470
+577,Paris,France,cultural,Lisa Santiago,27,Female,2,Yes,Guesthouse,299,10/07/2024,10/18/2024,Cruise,"Paris, France",364
+578,Bali,Indonesia,beach,Lori Chaney,21,Female,3.9,Yes,Hostel,334,05/12/2024,05/17/2024,Train,"Bali, Indonesia",380
+579,Singapore,Singapore,urban,Ryan Proctor,49,Female,1.6,Yes,Resort,455,03/11/2025,03/17/2025,Bus,"Singapore, Singapore",957
+580,Singapore,Singapore,urban,Danielle Khan,32,Female,1.2,Yes,Apartment,84,07/24/2024,07/29/2024,Car Rental,"Singapore, Singapore",933
+581,Cape Town,South Africa,nature,Jeffrey Mason,57,Female,3.8,Yes,Resort,99,06/21/2024,06/29/2024,Flight,"Cape Town, South Africa",811
+582,Phuket,Thailand,beach,Keith Aguirre,22,Male,1,Yes,Apartment,163,04/07/2025,04/14/2025,Bus,"Phuket, Thailand",772
+583,Rome,Italy,historical,Patricia Thomas,58,Female,2.2,Yes,Hotel,437,11/14/2024,11/24/2024,Train,"Rome, Italy",346
+584,Dubai,UAE,urban,Karina Pratt,27,Male,2.3,Yes,Resort,224,11/11/2024,11/14/2024,Cruise,"Dubai, UAE",844
+585,Bora Bora,French Polynesia,beach,Michelle Hutchinson,62,Male,3.4,Yes,Resort,187,11/21/2024,11/27/2024,Bus,"Bora Bora, French Polynesia",652
+586,Singapore,Singapore,urban,Michelle Clark,58,Female,1.3,Yes,Hotel,244,04/24/2025,04/26/2025,Bus,"Singapore, Singapore",966
+587,Amsterdam,Netherlands,urban,John Johnson,54,Male,4.7,Yes,Resort,163,03/17/2025,03/22/2025,Train,"Amsterdam, Netherlands",926
+588,Venice,Italy,historical,John Johnson,21,Male,3.2,Yes,Hotel,243,03/10/2025,03/20/2025,Cruise,"Venice, Italy",176
+589,Cancun,Mexico,beach,Virginia Alexander,51,Female,3.2,Yes,Apartment,441,12/06/2024,12/12/2024,Train,"Cancun, Mexico",528
+590,Barcelona,Spain,urban,Joseph Mullins,49,Female,2.8,Yes,Hotel,281,12/04/2024,12/11/2024,Cruise,"Barcelona, Spain",825
+591,Venice,Italy,historical,Holly Smith,48,Female,2.7,Yes,Hotel,126,01/11/2025,01/23/2025,Train,"Venice, Italy",479
+592,Dubai,UAE,urban,Jill Le,56,Male,2.6,Yes,Apartment,197,07/08/2024,07/15/2024,Cruise,"Dubai, UAE",930
+593,Edinburgh,UK,historical,Jessica Keith,35,Male,2.4,Yes,Hostel,463,03/23/2025,03/24/2025,Cruise,"Edinburgh, UK",91
+594,London,UK,urban,Debra Wright,63,Male,2.9,Yes,Apartment,174,02/16/2025,02/27/2025,Train,"London, UK",396
+595,Venice,Italy,historical,Brett Nelson,40,Male,2.7,Yes,Resort,75,02/23/2025,03/01/2025,Flight,"Venice, Italy",562
+596,Barcelona,Spain,urban,Jeremy Jones,39,Female,1.8,Yes,Resort,208,10/13/2024,10/25/2024,Flight,"Barcelona, Spain",539
+597,Dubai,UAE,urban,Brian Allen,63,Female,4.5,Yes,Apartment,80,11/01/2024,11/10/2024,Flight,"Dubai, UAE",68
+598,Phuket,Thailand,beach,Monique Marsh,27,Male,4.9,Yes,Apartment,248,09/23/2024,09/24/2024,Car Rental,"Phuket, Thailand",426
+599,Paris,France,cultural,Mark Novak,49,Female,2.1,Yes,Resort,95,04/28/2024,05/04/2024,Bus,"Paris, France",267
+600,Bali,Indonesia,beach,Lee Anderson,27,Female,2,Yes,Resort,330,07/03/2024,07/12/2024,Car Rental,"Bali, Indonesia",748
+601,Bangkok,Thailand,urban,Matthew Tyler,18,Male,2.7,Yes,Resort,155,09/28/2024,10/10/2024,Bus,"Bangkok, Thailand",705
+602,Bali,Indonesia,beach,Robert Travis,69,Female,1.1,Yes,Guesthouse,335,01/18/2025,01/23/2025,Car Rental,"Bali, Indonesia",594
+603,Cape Town,South Africa,nature,Meghan Lee,29,Male,2.9,Yes,Apartment,130,08/10/2024,08/23/2024,Car Rental,"Cape Town, South Africa",88
+604,Bali,Indonesia,beach,Patrick Gibson,25,Male,2.2,Yes,Hotel,461,08/15/2024,08/22/2024,Train,"Bali, Indonesia",124
+605,Bangkok,Thailand,urban,Lauren Campos,69,Male,1.7,Yes,Apartment,119,10/28/2024,11/04/2024,Bus,"Bangkok, Thailand",651
+606,Rome,Italy,historical,Samantha Myers,39,Male,3.6,Yes,Resort,303,11/09/2024,11/12/2024,Train,"Rome, Italy",773
+607,Dubai,UAE,urban,Aaron Everett,49,Female,3.9,Yes,Apartment,383,06/03/2024,06/15/2024,Flight,"Dubai, UAE",501
+608,Istanbul,Turkey,historical,Mallory Barber,54,Female,3.4,Yes,Guesthouse,358,04/23/2025,05/06/2025,Flight,"Istanbul, Turkey",738
+609,Tokyo,Japan,urban,Doris Lewis,65,Female,2,Yes,Resort,229,10/17/2024,10/22/2024,Cruise,"Tokyo, Japan",88
+610,Bangkok,Thailand,urban,Alexandra Mccarthy,33,Male,3.3,Yes,Apartment,329,11/18/2024,11/22/2024,Cruise,"Bangkok, Thailand",954
+611,Sydney,Australia,beach,Edward Harris,28,Male,3.3,Yes,Guesthouse,491,08/28/2024,09/02/2024,Flight,"Sydney, Australia",350
+612,Tokyo,Japan,urban,Stacy Adkins,60,Female,3.8,Yes,Hotel,416,10/31/2024,11/14/2024,Car Rental,"Tokyo, Japan",235
+613,Sydney,Australia,beach,Michelle Kelly,31,Female,1.1,Yes,Resort,61,05/04/2024,05/07/2024,Train,"Sydney, Australia",278
+614,Bangkok,Thailand,urban,Thomas Anderson,50,Male,3.2,Yes,Hotel,85,02/19/2025,02/26/2025,Cruise,"Bangkok, Thailand",387
+615,Cancun,Mexico,beach,Julie Rogers,45,Female,1.6,Yes,Hotel,93,02/03/2025,02/15/2025,Train,"Cancun, Mexico",658
+616,London,UK,urban,Natalie Collins,40,Male,2,Yes,Resort,315,01/24/2025,01/30/2025,Car Rental,"London, UK",78
+617,Cancun,Mexico,beach,Andrea Berry,40,Female,1.1,Yes,Hotel,456,10/25/2024,11/01/2024,Flight,"Cancun, Mexico",285
+618,Paris,France,cultural,Sarah Parks,41,Male,3.7,Yes,Apartment,231,07/06/2024,07/16/2024,Flight,"Paris, France",900
+619,Bora Bora,French Polynesia,beach,Calvin Hill,33,Female,2,Yes,Guesthouse,339,04/17/2025,04/28/2025,Bus,"Bora Bora, French Polynesia",750
+620,Edinburgh,UK,historical,Brian Robles,18,Male,3,Yes,Hotel,346,04/14/2025,04/19/2025,Bus,"Edinburgh, UK",784
+621,London,UK,urban,Sheila Wolf,25,Male,2.4,Yes,Resort,176,09/04/2024,09/13/2024,Flight,"London, UK",153
+622,London,UK,urban,Jonathan Mercado,58,Male,3,Yes,Apartment,254,03/26/2025,03/28/2025,Train,"London, UK",824
+623,Amsterdam,Netherlands,urban,Joshua Acosta,22,Male,4.2,Yes,Hostel,126,07/04/2024,07/15/2024,Flight,"Amsterdam, Netherlands",691
+624,Paris,France,cultural,Melissa Baker,54,Male,2,Yes,Hotel,154,07/23/2024,08/02/2024,Cruise,"Paris, France",645
+625,Istanbul,Turkey,historical,Michael Cunningham,49,Female,4.9,Yes,Apartment,413,03/17/2025,03/28/2025,Flight,"Istanbul, Turkey",691
+626,Barcelona,Spain,urban,Juan Lawrence,47,Male,1.3,Yes,Apartment,300,07/26/2024,08/01/2024,Car Rental,"Barcelona, Spain",669
+627,Cape Town,South Africa,nature,Kenneth Moore,66,Male,4.8,Yes,Apartment,481,03/30/2025,04/06/2025,Cruise,"Cape Town, South Africa",611
+628,Amsterdam,Netherlands,urban,Larry Leblanc,52,Female,1.9,Yes,Hostel,258,11/29/2024,12/12/2024,Car Rental,"Amsterdam, Netherlands",169
+629,Cape Town,South Africa,nature,Alexander Cook,35,Male,4.4,Yes,Resort,241,12/07/2024,12/15/2024,Bus,"Cape Town, South Africa",696
+630,Phuket,Thailand,beach,Kathleen Garcia,41,Male,1.6,Yes,Guesthouse,197,10/12/2024,10/14/2024,Flight,"Phuket, Thailand",548
+631,Dubai,UAE,urban,Sean Bell,27,Male,3.7,Yes,Guesthouse,364,03/27/2025,04/06/2025,Cruise,"Dubai, UAE",241
+632,Singapore,Singapore,urban,Anthony Grimes,67,Female,2.3,Yes,Hostel,207,02/27/2025,03/11/2025,Cruise,"Singapore, Singapore",468
+633,Dubai,UAE,urban,Brandy Newman,27,Female,4.7,Yes,Guesthouse,119,10/31/2024,11/09/2024,Cruise,"Dubai, UAE",231
+634,Rome,Italy,historical,Shawn Bowman,18,Male,3.8,Yes,Apartment,364,02/04/2025,02/13/2025,Train,"Rome, Italy",649
+635,Cancun,Mexico,beach,Sara Aguilar DVM,45,Male,4.9,Yes,Resort,207,06/18/2024,06/23/2024,Car Rental,"Cancun, Mexico",662
+636,New York,USA,urban,Elizabeth Lewis,58,Female,1.3,Yes,Apartment,316,02/12/2025,02/25/2025,Car Rental,"New York, USA",115
+637,Tokyo,Japan,urban,James Perkins,23,Female,1.2,Yes,Hotel,70,09/27/2024,09/30/2024,Flight,"Tokyo, Japan",414
+638,Marrakech,Morocco,cultural,Jamie Campbell,44,Female,3.9,Yes,Guesthouse,410,03/18/2025,03/19/2025,Bus,"Marrakech, Morocco",88
+639,Cape Town,South Africa,nature,Francisco Moore,29,Female,4.2,Yes,Resort,492,10/13/2024,10/15/2024,Cruise,"Cape Town, South Africa",439
+640,Tokyo,Japan,urban,Terry Yu,26,Male,3.6,Yes,Resort,395,02/07/2025,02/17/2025,Car Rental,"Tokyo, Japan",138
+641,Edinburgh,UK,historical,Jillian Martin,29,Female,1.5,Yes,Resort,428,07/11/2024,07/15/2024,Car Rental,"Edinburgh, UK",334
+642,Singapore,Singapore,urban,Rebekah Owens,39,Male,4.2,Yes,Hostel,306,03/06/2025,03/17/2025,Car Rental,"Singapore, Singapore",702
+643,Phuket,Thailand,beach,Kristine Cervantes,22,Female,4.8,Yes,Hotel,475,06/10/2024,06/14/2024,Bus,"Phuket, Thailand",381
+644,Bora Bora,French Polynesia,beach,Sheila Holt,54,Male,2.9,Yes,Resort,272,08/08/2024,08/11/2024,Car Rental,"Bora Bora, French Polynesia",514
+645,London,UK,urban,Jason Blake,70,Female,4.1,Yes,Hostel,77,05/12/2024,05/18/2024,Train,"London, UK",500
+646,London,UK,urban,Danny Rodgers,54,Female,4,Yes,Guesthouse,436,04/24/2025,05/07/2025,Car Rental,"London, UK",953
+647,New York,USA,urban,Tammie Howell,18,Male,4.1,Yes,Hostel,255,11/29/2024,12/03/2024,Train,"New York, USA",503
+648,Sydney,Australia,beach,Danielle Walsh,49,Male,3.1,Yes,Resort,76,06/01/2024,06/03/2024,Cruise,"Sydney, Australia",325
+649,Bali,Indonesia,beach,Brent Daniels,62,Male,2.9,Yes,Guesthouse,449,02/08/2025,02/14/2025,Bus,"Bali, Indonesia",588
+650,Istanbul,Turkey,historical,Chelsey Hartman,31,Male,2.3,Yes,Apartment,164,01/15/2025,01/25/2025,Train,"Istanbul, Turkey",809
+651,Bali,Indonesia,beach,Bethany Howard,40,Female,1.9,Yes,Hostel,443,07/10/2024,07/13/2024,Bus,"Bali, Indonesia",468
+652,Rome,Italy,historical,Keith Deleon,22,Female,4.1,Yes,Guesthouse,172,06/24/2024,07/07/2024,Cruise,"Rome, Italy",601
+653,Venice,Italy,historical,Michael Patel,59,Female,3.6,Yes,Hotel,364,05/06/2024,05/19/2024,Train,"Venice, Italy",410
+654,Venice,Italy,historical,Kimberly Booth,18,Female,1.2,Yes,Hotel,355,10/20/2024,10/26/2024,Train,"Venice, Italy",68
+655,Dubai,UAE,urban,Robert Glass,59,Female,1.4,Yes,Hostel,443,01/30/2025,02/08/2025,Bus,"Dubai, UAE",260
+656,Edinburgh,UK,historical,Christopher Stevens,37,Female,3.2,Yes,Guesthouse,443,03/14/2025,03/17/2025,Bus,"Edinburgh, UK",510
+657,Rome,Italy,historical,David Melendez,45,Male,1.8,Yes,Apartment,242,03/21/2025,04/04/2025,Bus,"Rome, Italy",689
+658,Venice,Italy,historical,Patricia Jackson,59,Male,2.6,Yes,Apartment,212,01/28/2025,02/02/2025,Bus,"Venice, Italy",50
+659,Bangkok,Thailand,urban,Kaitlyn Hart,63,Female,4,Yes,Hostel,244,09/01/2024,09/03/2024,Bus,"Bangkok, Thailand",624
+660,Dubai,UAE,urban,Edward Osborne,62,Female,4.9,Yes,Resort,400,04/14/2025,04/17/2025,Train,"Dubai, UAE",807
+661,Amsterdam,Netherlands,urban,Dr. Stephen Alexander,64,Male,1.5,Yes,Hostel,207,04/06/2025,04/15/2025,Bus,"Amsterdam, Netherlands",621
+662,Rome,Italy,historical,Gabriella Carr,40,Female,2.8,Yes,Guesthouse,308,07/22/2024,07/30/2024,Flight,"Rome, Italy",866
+663,Singapore,Singapore,urban,Jessica Golden,36,Female,3.5,Yes,Apartment,65,01/03/2025,01/06/2025,Car Rental,"Singapore, Singapore",935
+664,Bali,Indonesia,beach,Anthony Edwards,67,Male,4.8,Yes,Apartment,240,11/15/2024,11/24/2024,Flight,"Bali, Indonesia",815
+665,Cancun,Mexico,beach,Janet Bryant,37,Female,3.1,Yes,Guesthouse,162,10/29/2024,11/05/2024,Flight,"Cancun, Mexico",970
+666,New York,USA,urban,Nicholas Zimmerman,36,Male,4.1,Yes,Hotel,494,05/02/2024,05/14/2024,Train,"New York, USA",96
+667,Phuket,Thailand,beach,Jason Gates,40,Female,3.8,Yes,Resort,280,01/25/2025,01/31/2025,Car Rental,"Phuket, Thailand",564
+668,Cancun,Mexico,beach,Daniel Suarez,54,Female,4.5,Yes,Apartment,50,02/04/2025,02/17/2025,Cruise,"Cancun, Mexico",759
+669,Dubai,UAE,urban,Tyler Smith,46,Male,4.6,Yes,Hotel,226,07/13/2024,07/14/2024,Cruise,"Dubai, UAE",167
+670,Bora Bora,French Polynesia,beach,Randy Reynolds,50,Female,3.2,Yes,Apartment,392,11/20/2024,11/22/2024,Car Rental,"Bora Bora, French Polynesia",548
+671,Amsterdam,Netherlands,urban,Douglas Stephens,35,Male,3.1,Yes,Apartment,439,12/16/2024,12/20/2024,Train,"Amsterdam, Netherlands",224
+672,Marrakech,Morocco,cultural,Megan Walker,22,Female,4.4,Yes,Apartment,465,03/12/2025,03/26/2025,Flight,"Marrakech, Morocco",433
+673,Tokyo,Japan,urban,Thomas Wells,40,Female,4,Yes,Guesthouse,344,05/14/2024,05/17/2024,Car Rental,"Tokyo, Japan",714
+674,Cancun,Mexico,beach,Scott Cameron MD,40,Female,3.4,Yes,Hostel,404,12/02/2024,12/08/2024,Cruise,"Cancun, Mexico",249
+675,Singapore,Singapore,urban,Shelley Martin,36,Male,4.3,Yes,Resort,241,02/26/2025,03/02/2025,Bus,"Singapore, Singapore",815
+676,Venice,Italy,historical,Kyle Shields,37,Female,5,Yes,Hotel,267,02/27/2025,03/10/2025,Flight,"Venice, Italy",982
+677,Bali,Indonesia,beach,Casey Bowers,47,Female,4.1,Yes,Hostel,61,10/06/2024,10/11/2024,Flight,"Bali, Indonesia",376
+678,Paris,France,cultural,Cathy Edwards,30,Male,3.8,Yes,Resort,216,03/04/2025,03/14/2025,Bus,"Paris, France",994
+679,Tokyo,Japan,urban,Michael Olson,57,Female,3.2,Yes,Guesthouse,355,03/17/2025,03/21/2025,Cruise,"Tokyo, Japan",669
+680,Bangkok,Thailand,urban,Michael Roberts,49,Male,4.2,Yes,Hostel,350,10/25/2024,11/06/2024,Train,"Bangkok, Thailand",763
+681,Sydney,Australia,beach,Ashley Rodriguez,19,Male,2.1,Yes,Hostel,56,04/21/2025,05/03/2025,Flight,"Sydney, Australia",999
+682,Rome,Italy,historical,Julie Stevens,28,Male,1.7,Yes,Hotel,472,11/05/2024,11/15/2024,Train,"Rome, Italy",119
+683,Cancun,Mexico,beach,Cory Torres,64,Female,4.8,Yes,Guesthouse,386,05/08/2024,05/17/2024,Cruise,"Cancun, Mexico",155
+684,Paris,France,cultural,Regina Harris,41,Male,3.8,Yes,Apartment,499,11/05/2024,11/07/2024,Bus,"Paris, France",499
+685,Dubai,UAE,urban,Leslie Lawrence,48,Female,1.9,Yes,Guesthouse,188,05/31/2024,06/12/2024,Car Rental,"Dubai, UAE",808
+686,Rome,Italy,historical,Adam Cline,57,Male,2.3,Yes,Guesthouse,307,01/16/2025,01/18/2025,Train,"Rome, Italy",926
+687,Bali,Indonesia,beach,Valerie Hayes,39,Female,2.7,Yes,Hostel,356,04/15/2025,04/27/2025,Cruise,"Bali, Indonesia",109
+688,Bali,Indonesia,beach,Wendy Hamilton,59,Male,2.3,Yes,Guesthouse,151,09/11/2024,09/18/2024,Flight,"Bali, Indonesia",813
+689,Marrakech,Morocco,cultural,Thomas Summers MD,52,Female,3.4,Yes,Guesthouse,364,12/31/2024,01/12/2025,Train,"Marrakech, Morocco",930
+690,Dubai,UAE,urban,Michael Smith,40,Female,3.1,Yes,Hostel,77,05/16/2024,05/24/2024,Train,"Dubai, UAE",372
+691,Bora Bora,French Polynesia,beach,Alexandra Allen,42,Male,1.7,Yes,Apartment,307,09/12/2024,09/15/2024,Bus,"Bora Bora, French Polynesia",375
+692,Bali,Indonesia,beach,Rodney Johnson,27,Female,1,Yes,Resort,341,04/20/2025,04/23/2025,Car Rental,"Bali, Indonesia",415
+693,Venice,Italy,historical,Shirley Dennis,46,Female,4.4,Yes,Hotel,55,02/10/2025,02/22/2025,Flight,"Venice, Italy",279
+694,Bangkok,Thailand,urban,Elizabeth West,50,Female,4.5,Yes,Apartment,206,08/10/2024,08/23/2024,Cruise,"Bangkok, Thailand",268
+695,Tokyo,Japan,urban,Corey Hall,63,Female,4.7,Yes,Hotel,282,05/14/2024,05/15/2024,Bus,"Tokyo, Japan",384
+696,Singapore,Singapore,urban,Lisa Wilson,57,Female,2.6,Yes,Resort,74,04/03/2025,04/10/2025,Bus,"Singapore, Singapore",402
+697,Edinburgh,UK,historical,Adam Larson,44,Female,2.2,Yes,Resort,283,08/20/2024,08/31/2024,Train,"Edinburgh, UK",154
+698,Cape Town,South Africa,nature,Laurie Carpenter,30,Female,4.5,Yes,Hotel,227,04/29/2024,05/01/2024,Flight,"Cape Town, South Africa",314
+699,London,UK,urban,Caitlyn Davis,40,Female,3.4,Yes,Resort,86,09/19/2024,10/01/2024,Train,"London, UK",901
+700,Dubai,UAE,urban,Kevin Mccarty,58,Female,3,Yes,Hostel,409,11/12/2024,11/21/2024,Car Rental,"Dubai, UAE",525
+701,Barcelona,Spain,urban,Kara Ramirez,25,Female,4.8,Yes,Resort,258,06/09/2024,06/23/2024,Cruise,"Barcelona, Spain",221
+702,Bali,Indonesia,beach,John Wagner,32,Female,4.1,Yes,Apartment,297,01/07/2025,01/14/2025,Flight,"Bali, Indonesia",107
+703,Singapore,Singapore,urban,Caroline Weaver,31,Female,1.5,Yes,Hostel,491,05/31/2024,06/10/2024,Bus,"Singapore, Singapore",655
+704,Barcelona,Spain,urban,Michael Hawkins,19,Male,2.9,Yes,Guesthouse,313,02/27/2025,03/03/2025,Train,"Barcelona, Spain",579
+705,Rome,Italy,historical,Melissa Sims,37,Male,2.2,Yes,Hostel,219,12/12/2024,12/25/2024,Cruise,"Rome, Italy",128
+706,Edinburgh,UK,historical,Heather Campbell,50,Female,3,Yes,Hostel,165,02/06/2025,02/19/2025,Train,"Edinburgh, UK",863
+707,Cancun,Mexico,beach,Richard Murray,34,Female,4.7,Yes,Apartment,347,04/15/2025,04/20/2025,Cruise,"Cancun, Mexico",454
+708,Istanbul,Turkey,historical,Christina Barrett,27,Male,3.7,Yes,Hostel,387,08/23/2024,09/04/2024,Bus,"Istanbul, Turkey",60
+709,London,UK,urban,Andrew Allen,40,Female,3.6,Yes,Hotel,368,07/13/2024,07/16/2024,Flight,"London, UK",895
+710,Bora Bora,French Polynesia,beach,Danielle White,29,Female,3.6,Yes,Apartment,411,02/21/2025,03/07/2025,Flight,"Bora Bora, French Polynesia",322
+711,Singapore,Singapore,urban,Lee Clark,70,Female,4.1,Yes,Resort,279,09/10/2024,09/19/2024,Car Rental,"Singapore, Singapore",720
+712,Marrakech,Morocco,cultural,Andrew Carr,50,Male,4.6,Yes,Hostel,70,05/01/2024,05/03/2024,Cruise,"Marrakech, Morocco",417
+713,Edinburgh,UK,historical,Austin Huang,18,Male,4.6,Yes,Hostel,227,08/29/2024,09/11/2024,Car Rental,"Edinburgh, UK",865
+714,Edinburgh,UK,historical,Mrs. Debra Andrews,18,Female,1.7,Yes,Apartment,74,03/08/2025,03/21/2025,Car Rental,"Edinburgh, UK",998
+715,New York,USA,urban,Paul Stone,67,Female,3.1,Yes,Resort,256,08/04/2024,08/06/2024,Cruise,"New York, USA",620
+716,Phuket,Thailand,beach,Amanda Miller,25,Male,2.3,Yes,Guesthouse,158,09/22/2024,10/01/2024,Flight,"Phuket, Thailand",667
+717,New York,USA,urban,Jesus Jordan,62,Female,4.4,Yes,Guesthouse,262,03/06/2025,03/15/2025,Car Rental,"New York, USA",415
+718,Paris,France,cultural,Diana Young,26,Female,2.9,Yes,Hotel,90,12/29/2024,01/09/2025,Cruise,"Paris, France",192
+719,Edinburgh,UK,historical,Ashley Sanders,38,Male,3.1,Yes,Guesthouse,258,07/06/2024,07/13/2024,Car Rental,"Edinburgh, UK",910
+720,Edinburgh,UK,historical,Jamie Patrick,25,Female,1.3,Yes,Resort,224,04/02/2025,04/06/2025,Flight,"Edinburgh, UK",944
+721,Bangkok,Thailand,urban,Lisa Watson,63,Male,2.1,Yes,Hotel,95,08/03/2024,08/14/2024,Cruise,"Bangkok, Thailand",688
+722,Barcelona,Spain,urban,Jacob Chen,24,Male,2.9,Yes,Hotel,295,02/16/2025,02/19/2025,Bus,"Barcelona, Spain",850
+723,Bora Bora,French Polynesia,beach,Ashley Richard,19,Female,3.2,Yes,Resort,425,05/03/2024,05/14/2024,Cruise,"Bora Bora, French Polynesia",148
+724,Bali,Indonesia,beach,Heidi Dunn,68,Female,4.5,Yes,Apartment,103,07/08/2024,07/12/2024,Flight,"Bali, Indonesia",666
+725,Cancun,Mexico,beach,Jeremy Hernandez,21,Female,2.8,Yes,Hostel,421,02/06/2025,02/17/2025,Flight,"Cancun, Mexico",146
+726,Cancun,Mexico,beach,Allison Harris,50,Male,3.4,Yes,Guesthouse,321,10/30/2024,11/07/2024,Bus,"Cancun, Mexico",78
+727,Cancun,Mexico,beach,Carly Martin,45,Female,1.1,Yes,Apartment,436,02/13/2025,02/22/2025,Flight,"Cancun, Mexico",469
+728,Cape Town,South Africa,nature,Ariel Newman,70,Female,3.6,Yes,Apartment,308,03/10/2025,03/24/2025,Bus,"Cape Town, South Africa",238
+729,Amsterdam,Netherlands,urban,Kathryn Mitchell,21,Female,2,Yes,Hotel,149,07/06/2024,07/09/2024,Cruise,"Amsterdam, Netherlands",901
+730,Venice,Italy,historical,Ashley Reynolds,68,Female,2.1,Yes,Hotel,102,06/25/2024,06/26/2024,Train,"Venice, Italy",223
+731,Rome,Italy,historical,Adrienne Walsh,57,Male,4.2,Yes,Apartment,249,07/21/2024,08/03/2024,Cruise,"Rome, Italy",386
+732,Amsterdam,Netherlands,urban,Melissa Lee,45,Female,2.8,Yes,Hotel,148,06/29/2024,07/05/2024,Bus,"Amsterdam, Netherlands",575
+733,London,UK,urban,Robert Hicks,70,Male,2.7,Yes,Guesthouse,171,06/10/2024,06/19/2024,Train,"London, UK",553
+734,Bora Bora,French Polynesia,beach,Heather Campbell,25,Female,3.5,Yes,Apartment,299,06/11/2024,06/23/2024,Car Rental,"Bora Bora, French Polynesia",72
+735,Tokyo,Japan,urban,Steven Copeland,65,Female,3.9,Yes,Hostel,448,10/09/2024,10/23/2024,Flight,"Tokyo, Japan",781
+736,Amsterdam,Netherlands,urban,Jessica Mcgrath DVM,21,Male,3.3,Yes,Guesthouse,476,05/24/2024,05/25/2024,Bus,"Amsterdam, Netherlands",581
+737,Paris,France,cultural,Gabriela Johnson,39,Female,3.6,Yes,Hostel,245,08/26/2024,09/05/2024,Flight,"Paris, France",429
+738,Sydney,Australia,beach,Cassandra Walker,53,Female,3.3,Yes,Hostel,238,07/15/2024,07/25/2024,Train,"Sydney, Australia",747
+739,Tokyo,Japan,urban,Christine Camacho,68,Female,4.3,Yes,Hotel,344,09/12/2024,09/18/2024,Cruise,"Tokyo, Japan",504
+740,Tokyo,Japan,urban,Brian Wilson,67,Male,3.8,Yes,Hostel,408,10/06/2024,10/09/2024,Car Rental,"Tokyo, Japan",862
+741,Bali,Indonesia,beach,Jack Mcclain,18,Male,3.8,Yes,Resort,56,08/23/2024,08/27/2024,Car Rental,"Bali, Indonesia",306
+742,London,UK,urban,Megan Shaffer,68,Male,1.6,Yes,Guesthouse,411,06/15/2024,06/18/2024,Flight,"London, UK",679
+743,Rome,Italy,historical,Dawn Ford,55,Female,3.6,Yes,Apartment,130,05/03/2024,05/10/2024,Cruise,"Rome, Italy",188
+744,Venice,Italy,historical,Charles Mcdonald,46,Female,4.2,Yes,Resort,489,05/31/2024,06/02/2024,Car Rental,"Venice, Italy",93
+745,Bangkok,Thailand,urban,Tiffany Chang,29,Male,4.5,Yes,Hotel,466,07/12/2024,07/21/2024,Cruise,"Bangkok, Thailand",545
+746,Edinburgh,UK,historical,Michelle Valdez,49,Male,2,Yes,Resort,363,02/16/2025,02/19/2025,Train,"Edinburgh, UK",488
+747,New York,USA,urban,Ronald Beltran,43,Female,2.3,Yes,Guesthouse,86,04/10/2025,04/13/2025,Bus,"New York, USA",121
+748,Dubai,UAE,urban,Glenn Peterson,63,Male,1.1,Yes,Resort,131,03/23/2025,03/25/2025,Cruise,"Dubai, UAE",279
+749,Paris,France,cultural,Bobby Barrera,62,Female,3,Yes,Guesthouse,132,03/28/2025,04/10/2025,Flight,"Paris, France",187
+750,Rome,Italy,historical,Tammy Edwards,26,Male,4.9,Yes,Hostel,255,03/31/2025,04/03/2025,Flight,"Rome, Italy",177
+751,Edinburgh,UK,historical,Russell Wallace,32,Female,1.6,Yes,Hostel,419,03/04/2025,03/07/2025,Train,"Edinburgh, UK",159
+752,Rome,Italy,historical,Kevin Johnson,23,Male,2.6,Yes,Hotel,193,01/10/2025,01/23/2025,Cruise,"Rome, Italy",851
+753,Rome,Italy,historical,Monica Conway,37,Male,2.3,Yes,Apartment,287,03/24/2025,04/02/2025,Bus,"Rome, Italy",903
+754,Tokyo,Japan,urban,Rachel Mann,59,Male,1.3,Yes,Resort,310,06/20/2024,06/23/2024,Bus,"Tokyo, Japan",896
+755,Cancun,Mexico,beach,Lisa Meyers,59,Male,1.3,Yes,Hostel,486,05/30/2024,06/04/2024,Bus,"Cancun, Mexico",286
+756,Singapore,Singapore,urban,Thomas Ortiz,53,Female,2.4,Yes,Hostel,126,06/21/2024,06/25/2024,Train,"Singapore, Singapore",469
+757,Cancun,Mexico,beach,Ashley Ryan,56,Female,5,Yes,Hostel,164,08/16/2024,08/28/2024,Cruise,"Cancun, Mexico",50
+758,Paris,France,cultural,Sarah Ayala,65,Female,1,Yes,Guesthouse,328,12/31/2024,01/03/2025,Car Rental,"Paris, France",619
+759,Barcelona,Spain,urban,Andrea Meyer,42,Male,4.8,Yes,Hostel,191,07/15/2024,07/28/2024,Flight,"Barcelona, Spain",816
+760,Cancun,Mexico,beach,Emily Martinez,44,Female,3.4,Yes,Apartment,158,08/11/2024,08/21/2024,Cruise,"Cancun, Mexico",985
+761,London,UK,urban,Christopher Campbell,53,Female,4.3,Yes,Apartment,150,04/25/2025,05/01/2025,Cruise,"London, UK",136
+762,Cancun,Mexico,beach,Timothy Bowen,34,Female,2.4,Yes,Resort,440,01/22/2025,01/23/2025,Cruise,"Cancun, Mexico",802
+763,Tokyo,Japan,urban,Theresa Luna,39,Male,4.5,Yes,Hotel,253,09/14/2024,09/24/2024,Car Rental,"Tokyo, Japan",66
+764,Marrakech,Morocco,cultural,Deborah Jones,56,Female,2.3,Yes,Apartment,321,12/18/2024,12/19/2024,Cruise,"Marrakech, Morocco",458
+765,Bora Bora,French Polynesia,beach,Dr. Kristin Brown PhD,63,Male,4.2,Yes,Hostel,96,10/09/2024,10/11/2024,Cruise,"Bora Bora, French Polynesia",285
+766,Cape Town,South Africa,nature,Brandon Marks,62,Male,4.7,Yes,Apartment,407,07/02/2024,07/15/2024,Bus,"Cape Town, South Africa",164
+767,Cancun,Mexico,beach,Robert Hansen,62,Female,4.9,Yes,Resort,330,12/10/2024,12/20/2024,Bus,"Cancun, Mexico",737
+768,New York,USA,urban,Matthew Allen,18,Female,2.1,Yes,Apartment,139,03/18/2025,03/28/2025,Car Rental,"New York, USA",148
+769,Singapore,Singapore,urban,Kimberly Bennett,46,Male,3.4,Yes,Hotel,58,01/21/2025,01/24/2025,Train,"Singapore, Singapore",712
+770,Tokyo,Japan,urban,Cheryl Lloyd,38,Female,1.1,Yes,Apartment,166,06/12/2024,06/23/2024,Train,"Tokyo, Japan",891
+771,London,UK,urban,Jenna Vasquez,52,Female,3.8,Yes,Hostel,280,05/12/2024,05/17/2024,Car Rental,"London, UK",824
+772,Singapore,Singapore,urban,Michael Taylor,50,Male,4,Yes,Hotel,329,10/11/2024,10/23/2024,Train,"Singapore, Singapore",451
+773,Bali,Indonesia,beach,Bryan Robbins,37,Male,3.7,Yes,Guesthouse,443,04/08/2025,04/22/2025,Cruise,"Bali, Indonesia",178
+774,Venice,Italy,historical,Felicia Mahoney,49,Male,4,Yes,Hostel,170,03/29/2025,04/04/2025,Train,"Venice, Italy",114
+775,Marrakech,Morocco,cultural,Bryan Goodman,55,Male,1.4,Yes,Guesthouse,332,11/16/2024,11/30/2024,Car Rental,"Marrakech, Morocco",731
+776,Tokyo,Japan,urban,David Garner,23,Female,4.3,Yes,Guesthouse,251,11/27/2024,12/07/2024,Flight,"Tokyo, Japan",961
+777,Tokyo,Japan,urban,Richard Vasquez,35,Male,4.9,Yes,Resort,310,11/23/2024,12/01/2024,Flight,"Tokyo, Japan",56
+778,Cape Town,South Africa,nature,Russell Gonzalez,20,Male,1.1,Yes,Hotel,184,09/10/2024,09/12/2024,Flight,"Cape Town, South Africa",68
+779,Sydney,Australia,beach,Sarah Oneal,39,Female,1.4,Yes,Hotel,134,01/16/2025,01/17/2025,Flight,"Sydney, Australia",77
+780,Bora Bora,French Polynesia,beach,Megan Rodriguez,23,Female,4.7,Yes,Hotel,234,07/21/2024,07/30/2024,Car Rental,"Bora Bora, French Polynesia",924
+781,Amsterdam,Netherlands,urban,Shannon Ward,39,Male,4.4,Yes,Hostel,365,01/29/2025,02/11/2025,Car Rental,"Amsterdam, Netherlands",683
+782,Barcelona,Spain,urban,Michael King,68,Female,1.5,Yes,Resort,85,09/09/2024,09/18/2024,Bus,"Barcelona, Spain",818
+783,Phuket,Thailand,beach,Diane Conrad,34,Female,4.9,Yes,Hostel,200,03/05/2025,03/07/2025,Flight,"Phuket, Thailand",289
+784,Bali,Indonesia,beach,Kelly Buck,19,Male,4.4,Yes,Resort,234,02/06/2025,02/19/2025,Car Rental,"Bali, Indonesia",173
+785,Rome,Italy,historical,Leslie Simon,27,Female,1,Yes,Guesthouse,267,11/12/2024,11/17/2024,Car Rental,"Rome, Italy",940
+786,Amsterdam,Netherlands,urban,Christopher Schultz,56,Male,2.6,Yes,Guesthouse,252,10/28/2024,11/09/2024,Car Rental,"Amsterdam, Netherlands",817
+787,Marrakech,Morocco,cultural,Michael Harmon,70,Female,2.7,Yes,Hotel,277,03/27/2025,04/02/2025,Cruise,"Marrakech, Morocco",620
+788,Bangkok,Thailand,urban,Monique Carter,45,Male,2.6,Yes,Guesthouse,438,08/15/2024,08/25/2024,Bus,"Bangkok, Thailand",645
+789,Barcelona,Spain,urban,Jay Johnston,59,Male,1,Yes,Apartment,112,04/14/2025,04/18/2025,Flight,"Barcelona, Spain",394
+790,Amsterdam,Netherlands,urban,Cassandra Hughes,26,Female,2.5,Yes,Hotel,161,07/07/2024,07/12/2024,Bus,"Amsterdam, Netherlands",948
+791,Phuket,Thailand,beach,Raymond Flores,40,Female,2.2,Yes,Apartment,471,11/24/2024,12/05/2024,Bus,"Phuket, Thailand",104
+792,Paris,France,cultural,Tracey Gomez,28,Male,2,Yes,Resort,235,03/19/2025,04/02/2025,Train,"Paris, France",965
+793,Barcelona,Spain,urban,Gregory Smith,29,Female,2.9,Yes,Apartment,274,03/20/2025,03/23/2025,Car Rental,"Barcelona, Spain",638
+794,Istanbul,Turkey,historical,John Cantu,54,Male,4.5,Yes,Hostel,409,05/08/2024,05/10/2024,Car Rental,"Istanbul, Turkey",835
+795,Sydney,Australia,beach,Sarah Sanchez,59,Male,1.8,Yes,Hostel,311,07/02/2024,07/05/2024,Train,"Sydney, Australia",841
+796,Istanbul,Turkey,historical,Eric Garrett,63,Male,3.3,Yes,Hotel,162,04/27/2024,04/29/2024,Car Rental,"Istanbul, Turkey",283
+797,Marrakech,Morocco,cultural,Francisco Watson,19,Male,4,Yes,Guesthouse,222,05/30/2024,06/01/2024,Bus,"Marrakech, Morocco",507
+798,Singapore,Singapore,urban,Tim Ward,53,Female,2,Yes,Hostel,223,02/09/2025,02/14/2025,Train,"Singapore, Singapore",450
+799,Marrakech,Morocco,cultural,Ellen Morgan,41,Female,4.4,Yes,Resort,336,11/02/2024,11/14/2024,Train,"Marrakech, Morocco",302
+800,Barcelona,Spain,urban,Tony Pitts,45,Male,4.6,Yes,Resort,127,08/22/2024,08/25/2024,Flight,"Barcelona, Spain",340
+801,New York,USA,urban,Melissa Webb,62,Female,3.7,Yes,Hotel,145,08/10/2024,08/14/2024,Car Rental,"New York, USA",97
+802,Rome,Italy,historical,Michelle Martin,40,Female,2.2,Yes,Resort,438,09/19/2024,09/26/2024,Bus,"Rome, Italy",657
+803,Bangkok,Thailand,urban,Gary Landry,31,Female,4.9,Yes,Guesthouse,81,07/21/2024,07/24/2024,Cruise,"Bangkok, Thailand",883
+804,Phuket,Thailand,beach,Ann Hancock,70,Female,3.9,Yes,Guesthouse,151,06/07/2024,06/18/2024,Bus,"Phuket, Thailand",620
+805,Marrakech,Morocco,cultural,Jessica Jones,29,Female,4.2,Yes,Resort,117,04/09/2025,04/16/2025,Flight,"Marrakech, Morocco",159
+806,Venice,Italy,historical,Joshua Buchanan,37,Female,2.6,Yes,Apartment,385,04/21/2025,05/04/2025,Bus,"Venice, Italy",73
+807,New York,USA,urban,Beth Parker,34,Female,3,Yes,Hotel,323,12/03/2024,12/06/2024,Cruise,"New York, USA",421
+808,Bangkok,Thailand,urban,David Lopez,63,Male,1.3,Yes,Hotel,218,03/20/2025,03/25/2025,Cruise,"Bangkok, Thailand",232
+809,Rome,Italy,historical,Lori Black,27,Male,1.2,Yes,Hotel,53,01/23/2025,01/31/2025,Train,"Rome, Italy",345
+810,New York,USA,urban,Renee Pineda,42,Female,1.8,Yes,Hotel,83,09/02/2024,09/10/2024,Cruise,"New York, USA",480
+811,Cancun,Mexico,beach,Kimberly Reeves,43,Female,3.5,Yes,Apartment,395,12/22/2024,12/27/2024,Flight,"Cancun, Mexico",733
+812,Bali,Indonesia,beach,Tracy Frank,70,Female,4.1,Yes,Apartment,403,02/18/2025,03/04/2025,Flight,"Bali, Indonesia",468
+813,Amsterdam,Netherlands,urban,Chris Foley,45,Female,4.4,Yes,Resort,163,08/12/2024,08/16/2024,Car Rental,"Amsterdam, Netherlands",385
+814,New York,USA,urban,Dr. Patricia Goodwin,36,Female,1.4,Yes,Hostel,175,10/27/2024,10/28/2024,Bus,"New York, USA",664
+815,Phuket,Thailand,beach,Cheryl Lawrence,65,Female,2.9,Yes,Hotel,147,08/15/2024,08/23/2024,Bus,"Phuket, Thailand",542
+816,London,UK,urban,Keith Price,40,Male,3.2,Yes,Hostel,113,09/18/2024,09/24/2024,Flight,"London, UK",336
+817,Singapore,Singapore,urban,Charles Hall,52,Female,2.1,Yes,Guesthouse,209,02/04/2025,02/18/2025,Car Rental,"Singapore, Singapore",203
+818,Bora Bora,French Polynesia,beach,Christopher Taylor,20,Male,1.7,Yes,Apartment,413,02/23/2025,03/04/2025,Cruise,"Bora Bora, French Polynesia",641
+819,Bali,Indonesia,beach,Robert Richardson,40,Male,3.4,Yes,Guesthouse,406,03/23/2025,03/25/2025,Train,"Bali, Indonesia",251
+820,Paris,France,cultural,Kenneth Schwartz,29,Male,4.4,Yes,Resort,130,10/26/2024,10/29/2024,Car Rental,"Paris, France",267
+821,Cape Town,South Africa,nature,Jesse Adams,47,Female,2.9,Yes,Guesthouse,304,12/25/2024,01/06/2025,Cruise,"Cape Town, South Africa",227
+822,Cancun,Mexico,beach,Michael Hernandez,46,Male,4,Yes,Hostel,440,08/10/2024,08/12/2024,Bus,"Cancun, Mexico",360
+823,Venice,Italy,historical,Brian Aguirre,52,Male,4.7,Yes,Apartment,96,09/04/2024,09/05/2024,Flight,"Venice, Italy",639
+824,Singapore,Singapore,urban,Robert Lee,66,Male,1.5,Yes,Hotel,360,04/29/2024,05/01/2024,Flight,"Singapore, Singapore",124
+825,Rome,Italy,historical,Jennifer Hensley,23,Female,3.9,Yes,Guesthouse,142,02/13/2025,02/16/2025,Train,"Rome, Italy",568
+826,Barcelona,Spain,urban,Bryan May,48,Female,2.9,Yes,Hotel,438,02/01/2025,02/14/2025,Train,"Barcelona, Spain",491
+827,Bali,Indonesia,beach,Michael Tucker,27,Male,3.5,Yes,Resort,443,11/05/2024,11/12/2024,Flight,"Bali, Indonesia",302
+828,Tokyo,Japan,urban,Carolyn Guzman,29,Male,3.3,Yes,Resort,478,05/30/2024,06/01/2024,Car Rental,"Tokyo, Japan",521
+829,Amsterdam,Netherlands,urban,Lawrence Crawford,50,Female,2.7,Yes,Hotel,301,03/05/2025,03/14/2025,Cruise,"Amsterdam, Netherlands",309
+830,Istanbul,Turkey,historical,Hannah Harris,55,Female,4.1,Yes,Hotel,75,01/28/2025,02/01/2025,Bus,"Istanbul, Turkey",504
+831,Marrakech,Morocco,cultural,Brandon West,64,Male,2.5,Yes,Guesthouse,133,01/03/2025,01/12/2025,Bus,"Marrakech, Morocco",240
+832,Marrakech,Morocco,cultural,Joshua Bond,22,Male,3.4,Yes,Apartment,366,01/15/2025,01/27/2025,Bus,"Marrakech, Morocco",817
+833,Cape Town,South Africa,nature,Becky Harris,47,Female,4.3,Yes,Resort,172,04/02/2025,04/08/2025,Car Rental,"Cape Town, South Africa",584
+834,Amsterdam,Netherlands,urban,Michael Barnett,56,Male,4.1,Yes,Resort,477,12/27/2024,12/31/2024,Train,"Amsterdam, Netherlands",995
+835,Tokyo,Japan,urban,Alexis Murillo,54,Male,2.5,Yes,Hostel,60,05/16/2024,05/28/2024,Flight,"Tokyo, Japan",810
+836,Cancun,Mexico,beach,Jade Hall,32,Female,4.5,Yes,Resort,487,11/27/2024,12/07/2024,Bus,"Cancun, Mexico",402
+837,New York,USA,urban,Melvin Wilson,19,Male,4.2,Yes,Hostel,176,10/02/2024,10/09/2024,Train,"New York, USA",486
+838,New York,USA,urban,David Fernandez,38,Female,1.5,Yes,Hostel,487,08/15/2024,08/23/2024,Bus,"New York, USA",502
+839,Dubai,UAE,urban,Michael Carter,35,Female,1.4,Yes,Apartment,233,01/23/2025,01/26/2025,Cruise,"Dubai, UAE",357
+840,Cape Town,South Africa,nature,Brittany Espinoza,64,Male,4.3,Yes,Resort,453,02/15/2025,02/23/2025,Flight,"Cape Town, South Africa",543
+841,Cape Town,South Africa,nature,Amanda Martin,66,Male,4.8,Yes,Guesthouse,114,05/11/2024,05/13/2024,Train,"Cape Town, South Africa",266
+842,Phuket,Thailand,beach,Charles Harrison,18,Male,4.9,Yes,Resort,490,08/25/2024,09/01/2024,Flight,"Phuket, Thailand",109
+843,Tokyo,Japan,urban,Joseph Williams,68,Female,2.8,Yes,Hotel,488,01/28/2025,02/08/2025,Cruise,"Tokyo, Japan",861
+844,Bangkok,Thailand,urban,Jeffrey Perry,70,Male,3.6,Yes,Apartment,111,12/13/2024,12/15/2024,Car Rental,"Bangkok, Thailand",343
+845,Marrakech,Morocco,cultural,Melissa Wright,47,Male,1.7,Yes,Apartment,374,04/16/2025,04/21/2025,Train,"Marrakech, Morocco",827
+846,Paris,France,cultural,Linda Riley,38,Female,2,Yes,Hostel,222,09/07/2024,09/09/2024,Flight,"Paris, France",170
+847,Sydney,Australia,beach,Mason Meza,22,Female,3.2,Yes,Apartment,109,11/20/2024,11/23/2024,Bus,"Sydney, Australia",381
+848,Cancun,Mexico,beach,John Oconnor,19,Female,1.4,Yes,Apartment,120,01/23/2025,02/04/2025,Train,"Cancun, Mexico",479
+849,Paris,France,cultural,Laurie Hogan,31,Male,3.3,Yes,Hostel,321,11/28/2024,12/09/2024,Train,"Paris, France",229
+850,Marrakech,Morocco,cultural,Tracy Allen,38,Male,3.2,Yes,Hotel,400,10/08/2024,10/10/2024,Train,"Marrakech, Morocco",146
+851,Barcelona,Spain,urban,Amy Clayton,54,Male,4.3,Yes,Hotel,313,01/05/2025,01/08/2025,Cruise,"Barcelona, Spain",179
+852,New York,USA,urban,Laura King,37,Female,2.7,Yes,Hotel,271,07/14/2024,07/23/2024,Bus,"New York, USA",432
+853,Singapore,Singapore,urban,Robert Green,22,Female,3.4,Yes,Guesthouse,181,06/26/2024,06/27/2024,Cruise,"Singapore, Singapore",345
+854,Amsterdam,Netherlands,urban,Leslie Mcdaniel,29,Female,4.7,Yes,Hostel,214,03/12/2025,03/17/2025,Flight,"Amsterdam, Netherlands",349
+855,Bali,Indonesia,beach,Tyler Wright,31,Male,1.7,Yes,Hostel,229,08/17/2024,08/27/2024,Bus,"Bali, Indonesia",396
+856,Barcelona,Spain,urban,Angela Johnson,25,Male,4.3,Yes,Hostel,475,11/03/2024,11/05/2024,Flight,"Barcelona, Spain",341
+857,Barcelona,Spain,urban,Brett Mendez,33,Female,4.2,Yes,Hotel,243,05/11/2024,05/13/2024,Car Rental,"Barcelona, Spain",329
+858,Edinburgh,UK,historical,Jonathan Sims,18,Female,4.6,Yes,Resort,497,04/26/2024,05/10/2024,Train,"Edinburgh, UK",968
+859,Bangkok,Thailand,urban,Cheryl Myers,48,Male,1,Yes,Resort,432,11/21/2024,11/28/2024,Car Rental,"Bangkok, Thailand",724
+860,Phuket,Thailand,beach,Darin Conley,20,Male,1.7,Yes,Hostel,163,02/17/2025,02/24/2025,Flight,"Phuket, Thailand",625
+861,Istanbul,Turkey,historical,April Collins,56,Male,3.9,Yes,Resort,136,04/23/2025,05/03/2025,Car Rental,"Istanbul, Turkey",192
+862,Bali,Indonesia,beach,Alex Stokes,54,Female,3,Yes,Apartment,139,10/29/2024,11/04/2024,Car Rental,"Bali, Indonesia",146
+863,Rome,Italy,historical,Isaac Lane,25,Male,4.2,Yes,Guesthouse,471,07/27/2024,07/28/2024,Train,"Rome, Italy",899
+864,Paris,France,cultural,Sarah Hoover,53,Male,3.2,Yes,Resort,343,11/06/2024,11/07/2024,Car Rental,"Paris, France",579
+865,Barcelona,Spain,urban,Jonathan Lee,56,Female,3.4,Yes,Guesthouse,492,10/04/2024,10/05/2024,Cruise,"Barcelona, Spain",784
+866,Tokyo,Japan,urban,Eric Arnold,53,Female,4.8,Yes,Apartment,449,08/06/2024,08/12/2024,Bus,"Tokyo, Japan",205
+867,Istanbul,Turkey,historical,Shawn Walker,33,Male,3.4,Yes,Resort,202,09/12/2024,09/21/2024,Train,"Istanbul, Turkey",247
+868,Tokyo,Japan,urban,Nicole Ferguson,35,Female,3.4,Yes,Guesthouse,112,12/19/2024,12/24/2024,Flight,"Tokyo, Japan",716
+869,Dubai,UAE,urban,Kimberly Horton,50,Female,3.6,Yes,Apartment,477,03/06/2025,03/15/2025,Car Rental,"Dubai, UAE",784
+870,Cape Town,South Africa,nature,Ethan Mcdonald,69,Male,4.3,Yes,Hotel,497,02/27/2025,03/03/2025,Flight,"Cape Town, South Africa",351
+871,Phuket,Thailand,beach,Tiffany Wilson,47,Female,2.2,Yes,Hotel,160,10/17/2024,10/23/2024,Train,"Phuket, Thailand",285
+872,Edinburgh,UK,historical,Stephanie Baker,66,Female,1.4,Yes,Hotel,452,03/12/2025,03/19/2025,Car Rental,"Edinburgh, UK",154
+873,Barcelona,Spain,urban,Joanna Castillo,54,Female,3.7,Yes,Resort,62,10/29/2024,11/03/2024,Car Rental,"Barcelona, Spain",193
+874,Bali,Indonesia,beach,Kristine Dominguez,55,Male,1.8,Yes,Apartment,230,12/11/2024,12/16/2024,Cruise,"Bali, Indonesia",973
+875,Cape Town,South Africa,nature,Raymond Dalton,45,Female,1.7,Yes,Hotel,140,10/04/2024,10/07/2024,Bus,"Cape Town, South Africa",398
+876,Marrakech,Morocco,cultural,Laura Reyes,27,Male,3.1,Yes,Resort,153,08/08/2024,08/18/2024,Train,"Marrakech, Morocco",398
+877,Rome,Italy,historical,Kelsey Hart,59,Female,1.5,Yes,Hostel,280,08/27/2024,09/05/2024,Car Rental,"Rome, Italy",646
+878,Paris,France,cultural,Krystal Blair,21,Female,2.3,Yes,Hostel,144,04/26/2024,04/28/2024,Flight,"Paris, France",597
+879,Paris,France,cultural,Joshua Williams,57,Female,2.8,Yes,Guesthouse,199,06/01/2024,06/07/2024,Cruise,"Paris, France",355
+880,Istanbul,Turkey,historical,Angela Bridges,24,Male,2.3,Yes,Hotel,431,06/06/2024,06/15/2024,Cruise,"Istanbul, Turkey",577
+881,Barcelona,Spain,urban,Jennifer Mcpherson,39,Female,2.9,Yes,Guesthouse,103,05/27/2024,06/10/2024,Bus,"Barcelona, Spain",939
+882,Marrakech,Morocco,cultural,Raymond Walker,19,Male,2.1,Yes,Guesthouse,270,06/29/2024,07/02/2024,Cruise,"Marrakech, Morocco",456
+883,Barcelona,Spain,urban,Arthur Curry,45,Female,1.7,Yes,Guesthouse,328,11/20/2024,11/22/2024,Bus,"Barcelona, Spain",732
+884,Phuket,Thailand,beach,Jacqueline Burgess,50,Female,3.3,Yes,Resort,87,05/28/2024,06/06/2024,Flight,"Phuket, Thailand",708
+885,New York,USA,urban,Christine Booth,27,Female,4.5,Yes,Apartment,67,07/20/2024,07/24/2024,Bus,"New York, USA",641
+886,Istanbul,Turkey,historical,Edward Hammond,29,Female,1.1,Yes,Resort,497,03/22/2025,04/04/2025,Train,"Istanbul, Turkey",498
+887,Bangkok,Thailand,urban,Luke Simmons,48,Female,1.8,Yes,Apartment,254,10/03/2024,10/08/2024,Cruise,"Bangkok, Thailand",413
+888,Venice,Italy,historical,Steven Rose,18,Female,4.7,Yes,Resort,204,05/19/2024,05/23/2024,Flight,"Venice, Italy",838
+889,Marrakech,Morocco,cultural,Jeremy Burke,50,Male,4.4,Yes,Hotel,468,05/07/2024,05/17/2024,Bus,"Marrakech, Morocco",830
+890,New York,USA,urban,Taylor Ballard,49,Female,4.6,Yes,Hotel,190,04/27/2024,05/06/2024,Train,"New York, USA",513
+891,Bora Bora,French Polynesia,beach,Stephanie Figueroa,18,Female,2.4,Yes,Apartment,194,12/19/2024,12/27/2024,Train,"Bora Bora, French Polynesia",57
+892,New York,USA,urban,Melissa Massey,41,Male,3.9,Yes,Hotel,445,09/22/2024,10/03/2024,Car Rental,"New York, USA",212
+893,Singapore,Singapore,urban,Samuel Stewart,30,Female,1.5,Yes,Hotel,345,05/17/2024,05/24/2024,Car Rental,"Singapore, Singapore",757
+894,Cape Town,South Africa,nature,Kristin Hudson,67,Female,3.2,Yes,Hostel,438,06/20/2024,06/23/2024,Cruise,"Cape Town, South Africa",166
+895,Singapore,Singapore,urban,Mrs. Katherine Stokes MD,19,Female,4.1,Yes,Hotel,497,07/11/2024,07/19/2024,Car Rental,"Singapore, Singapore",508
+896,Barcelona,Spain,urban,Steve Garcia,31,Male,1.2,Yes,Hotel,122,12/08/2024,12/22/2024,Flight,"Barcelona, Spain",883
+897,London,UK,urban,Roberta Macias,30,Male,4.9,Yes,Resort,327,10/02/2024,10/12/2024,Train,"London, UK",595
+898,Bora Bora,French Polynesia,beach,Rita Donovan,19,Female,1.8,Yes,Guesthouse,405,10/23/2024,11/01/2024,Flight,"Bora Bora, French Polynesia",856
+899,Venice,Italy,historical,James Lloyd,67,Male,3,Yes,Apartment,161,01/13/2025,01/22/2025,Bus,"Venice, Italy",625
+900,Marrakech,Morocco,cultural,Michael Thomas,55,Male,3.2,Yes,Resort,460,04/20/2025,04/22/2025,Train,"Marrakech, Morocco",138
+901,Sydney,Australia,beach,Melvin Ayers,55,Male,2.8,Yes,Hostel,369,03/13/2025,03/18/2025,Cruise,"Sydney, Australia",169
+902,Phuket,Thailand,beach,Brian Lawson,20,Male,4.2,Yes,Hotel,349,02/22/2025,03/08/2025,Bus,"Phuket, Thailand",227
+903,Tokyo,Japan,urban,Warren Allen,35,Female,4,Yes,Resort,272,05/28/2024,06/09/2024,Train,"Tokyo, Japan",368
+904,Bangkok,Thailand,urban,Samuel Price,43,Female,3.8,Yes,Hostel,94,05/31/2024,06/03/2024,Cruise,"Bangkok, Thailand",503
+905,Amsterdam,Netherlands,urban,Jennifer Kidd,44,Female,1.7,Yes,Apartment,79,04/03/2025,04/11/2025,Flight,"Amsterdam, Netherlands",445
+906,Phuket,Thailand,beach,Albert Taylor,58,Female,1.1,Yes,Hostel,443,09/02/2024,09/10/2024,Car Rental,"Phuket, Thailand",780
+907,Cape Town,South Africa,nature,Kara Smith,33,Male,4.2,Yes,Apartment,464,06/25/2024,06/29/2024,Car Rental,"Cape Town, South Africa",68
+908,Singapore,Singapore,urban,Brianna Gonzalez,69,Female,3.3,Yes,Resort,130,11/02/2024,11/10/2024,Cruise,"Singapore, Singapore",367
+909,Istanbul,Turkey,historical,Erica Payne,20,Male,2.7,Yes,Resort,278,12/05/2024,12/17/2024,Car Rental,"Istanbul, Turkey",772
+910,London,UK,urban,April Bryant,52,Male,3.8,Yes,Guesthouse,166,05/31/2024,06/09/2024,Bus,"London, UK",125
+911,Cape Town,South Africa,nature,Cassandra Taylor,45,Female,3.1,Yes,Guesthouse,422,10/25/2024,10/30/2024,Flight,"Cape Town, South Africa",314
+912,Bali,Indonesia,beach,Johnny Craig,32,Male,3.8,Yes,Guesthouse,123,06/26/2024,07/01/2024,Car Rental,"Bali, Indonesia",351
+913,New York,USA,urban,William Moran,57,Male,2.8,Yes,Hostel,211,01/12/2025,01/25/2025,Car Rental,"New York, USA",155
+914,Bangkok,Thailand,urban,Cynthia Hernandez,36,Female,4,Yes,Hostel,376,04/03/2025,04/17/2025,Bus,"Bangkok, Thailand",75
+915,Cancun,Mexico,beach,Corey Rodriguez,39,Female,1.6,Yes,Hostel,473,10/03/2024,10/09/2024,Flight,"Cancun, Mexico",681
+916,Paris,France,cultural,Michael Aguilar,21,Male,2.8,Yes,Resort,468,10/31/2024,11/07/2024,Car Rental,"Paris, France",870
+917,Paris,France,cultural,Amy Lawson,61,Male,4.4,Yes,Apartment,194,07/08/2024,07/19/2024,Bus,"Paris, France",380
+918,Sydney,Australia,beach,Beverly Garcia,25,Male,3.3,Yes,Resort,192,09/20/2024,09/29/2024,Cruise,"Sydney, Australia",555
+919,Singapore,Singapore,urban,Jason Hayden,52,Female,4.1,Yes,Hotel,175,02/06/2025,02/08/2025,Flight,"Singapore, Singapore",428
+920,Bora Bora,French Polynesia,beach,Kimberly Chavez,36,Female,3.2,Yes,Hostel,433,07/12/2024,07/20/2024,Car Rental,"Bora Bora, French Polynesia",783
+921,Marrakech,Morocco,cultural,Peter Garcia,34,Female,4,Yes,Guesthouse,401,01/25/2025,01/30/2025,Flight,"Marrakech, Morocco",593
+922,Tokyo,Japan,urban,Stacey Jones,22,Male,1.4,Yes,Hotel,486,10/26/2024,11/06/2024,Flight,"Tokyo, Japan",687
+923,Dubai,UAE,urban,Amy Castro,19,Male,1.4,Yes,Hotel,481,09/08/2024,09/12/2024,Train,"Dubai, UAE",577
+924,Bali,Indonesia,beach,Sylvia Espinoza,41,Male,2.9,Yes,Hotel,302,09/17/2024,09/28/2024,Train,"Bali, Indonesia",608
+925,Rome,Italy,historical,Tracy Walker,54,Male,1.3,Yes,Hotel,483,02/10/2025,02/24/2025,Bus,"Rome, Italy",164
+926,Tokyo,Japan,urban,Jason Acosta,34,Female,4.2,Yes,Hostel,283,06/21/2024,06/22/2024,Cruise,"Tokyo, Japan",774
+927,Amsterdam,Netherlands,urban,Stephen Ward,57,Male,4,Yes,Apartment,324,04/30/2024,05/01/2024,Car Rental,"Amsterdam, Netherlands",232
+928,Singapore,Singapore,urban,Matthew Malone,63,Male,1.4,Yes,Apartment,89,07/12/2024,07/24/2024,Train,"Singapore, Singapore",849
+929,Dubai,UAE,urban,Justin Li,18,Female,3.3,Yes,Resort,148,12/13/2024,12/23/2024,Cruise,"Dubai, UAE",191
+930,Cancun,Mexico,beach,Christine Thomas,65,Male,3.9,Yes,Resort,471,07/11/2024,07/19/2024,Cruise,"Cancun, Mexico",218
+931,Tokyo,Japan,urban,Curtis Patel,31,Male,1.5,Yes,Resort,289,05/27/2024,06/04/2024,Flight,"Tokyo, Japan",661
+932,Bora Bora,French Polynesia,beach,Amber Martinez,66,Female,4.7,Yes,Guesthouse,205,09/14/2024,09/20/2024,Flight,"Bora Bora, French Polynesia",500
+933,Paris,France,cultural,Sandra Padilla,54,Female,1.6,Yes,Apartment,471,07/16/2024,07/17/2024,Car Rental,"Paris, France",544
+934,Phuket,Thailand,beach,Jeffery Norris,64,Male,4.1,Yes,Apartment,68,11/13/2024,11/19/2024,Flight,"Phuket, Thailand",798
+935,Amsterdam,Netherlands,urban,Alexandra Livingston,23,Male,3.2,Yes,Apartment,429,03/08/2025,03/20/2025,Cruise,"Amsterdam, Netherlands",870
+936,Sydney,Australia,beach,Aaron Smith,48,Female,1.3,Yes,Hostel,328,06/29/2024,07/12/2024,Car Rental,"Sydney, Australia",809
+937,Paris,France,cultural,Megan Brown,22,Female,2.3,Yes,Resort,482,05/06/2024,05/13/2024,Train,"Paris, France",522
+938,New York,USA,urban,Jared Brown,58,Male,2.1,Yes,Apartment,114,01/24/2025,01/30/2025,Flight,"New York, USA",369
+939,Bangkok,Thailand,urban,Debra Wright,52,Female,1.4,Yes,Guesthouse,342,03/31/2025,04/12/2025,Cruise,"Bangkok, Thailand",382
+940,Marrakech,Morocco,cultural,Jason Phillips,54,Female,4.3,Yes,Hotel,495,09/11/2024,09/12/2024,Cruise,"Marrakech, Morocco",364
+941,Bora Bora,French Polynesia,beach,Marcia Young,66,Female,2.9,Yes,Resort,147,08/28/2024,09/03/2024,Car Rental,"Bora Bora, French Polynesia",588
+942,Bora Bora,French Polynesia,beach,William Bell,65,Male,4.7,Yes,Hostel,166,08/28/2024,09/01/2024,Bus,"Bora Bora, French Polynesia",97
+943,Cancun,Mexico,beach,Michael Frazier,70,Male,3.5,Yes,Hostel,140,08/25/2024,09/01/2024,Flight,"Cancun, Mexico",428
+944,Edinburgh,UK,historical,Justin Tyler,55,Male,4,Yes,Hotel,330,03/03/2025,03/07/2025,Flight,"Edinburgh, UK",963
+945,Sydney,Australia,beach,Clinton Kelly,44,Male,3.7,Yes,Hostel,84,01/28/2025,01/30/2025,Cruise,"Sydney, Australia",962
+946,Barcelona,Spain,urban,Danielle Hart,45,Female,3.6,Yes,Hostel,154,05/24/2024,05/27/2024,Bus,"Barcelona, Spain",137
+947,Sydney,Australia,beach,Ashley Thomas,20,Female,3.5,Yes,Apartment,313,02/23/2025,02/25/2025,Cruise,"Sydney, Australia",787
+948,Rome,Italy,historical,Cassandra Gardner,50,Male,4.5,Yes,Resort,497,08/30/2024,09/06/2024,Flight,"Rome, Italy",460
+949,New York,USA,urban,Mrs. Phyllis Garcia,28,Male,4,Yes,Hostel,339,03/06/2025,03/13/2025,Flight,"New York, USA",293
+950,Rome,Italy,historical,Christopher Wilson,49,Male,1.5,Yes,Resort,289,07/12/2024,07/16/2024,Bus,"Rome, Italy",821
+951,Edinburgh,UK,historical,Zachary Beard,43,Male,4.6,Yes,Hostel,434,01/12/2025,01/26/2025,Train,"Edinburgh, UK",914
+952,Dubai,UAE,urban,Timothy Johns,19,Female,2.4,Yes,Hostel,408,07/04/2024,07/16/2024,Car Rental,"Dubai, UAE",561
+953,Sydney,Australia,beach,Dana King,27,Female,2.8,Yes,Guesthouse,386,12/19/2024,12/22/2024,Car Rental,"Sydney, Australia",134
+954,Marrakech,Morocco,cultural,Susan Oneal,60,Male,3.8,Yes,Resort,246,08/26/2024,09/04/2024,Bus,"Marrakech, Morocco",587
+955,Marrakech,Morocco,cultural,Jason Ford,55,Male,4.2,Yes,Resort,132,10/21/2024,11/02/2024,Cruise,"Marrakech, Morocco",723
+956,Amsterdam,Netherlands,urban,Sara Cox,24,Male,4.9,Yes,Hostel,254,12/15/2024,12/19/2024,Car Rental,"Amsterdam, Netherlands",236
+957,Cancun,Mexico,beach,David Casey,61,Male,2.4,Yes,Resort,137,12/27/2024,01/01/2025,Train,"Cancun, Mexico",98
+958,Sydney,Australia,beach,Sharon Baker,35,Female,4.8,Yes,Guesthouse,286,10/25/2024,11/01/2024,Cruise,"Sydney, Australia",565
+959,Cape Town,South Africa,nature,Debbie Maldonado,27,Male,3.5,Yes,Resort,275,06/16/2024,06/25/2024,Train,"Cape Town, South Africa",262
+960,Sydney,Australia,beach,Deanna Dickerson,51,Female,3.4,Yes,Hotel,342,06/09/2024,06/10/2024,Bus,"Sydney, Australia",720
+961,Bangkok,Thailand,urban,Terri Anderson,46,Male,5,Yes,Apartment,345,07/09/2024,07/21/2024,Bus,"Bangkok, Thailand",75
+962,Phuket,Thailand,beach,Terrence Riley,59,Male,2,Yes,Resort,408,01/24/2025,02/03/2025,Bus,"Phuket, Thailand",779
+963,Amsterdam,Netherlands,urban,Danielle Johnson,23,Male,2.1,Yes,Hotel,426,03/24/2025,03/29/2025,Flight,"Amsterdam, Netherlands",755
+964,Edinburgh,UK,historical,Amber Hampton,26,Male,3.3,Yes,Apartment,446,10/03/2024,10/09/2024,Bus,"Edinburgh, UK",876
+965,Bangkok,Thailand,urban,John Jenkins,57,Female,3.1,Yes,Resort,133,11/02/2024,11/08/2024,Train,"Bangkok, Thailand",325
+966,Phuket,Thailand,beach,Sara Evans,22,Female,2.5,Yes,Resort,248,07/25/2024,08/08/2024,Bus,"Phuket, Thailand",946
+967,Sydney,Australia,beach,Andrew Stewart,50,Female,2.1,Yes,Apartment,392,08/02/2024,08/15/2024,Cruise,"Sydney, Australia",341
+968,Cape Town,South Africa,nature,Margaret Allen,53,Female,1.5,Yes,Guesthouse,409,08/17/2024,08/24/2024,Bus,"Cape Town, South Africa",448
+969,London,UK,urban,Allison Williams,43,Female,5,Yes,Hostel,196,01/11/2025,01/22/2025,Train,"London, UK",501
+970,Phuket,Thailand,beach,Elizabeth Lewis,33,Female,4.4,Yes,Resort,487,05/11/2024,05/21/2024,Car Rental,"Phuket, Thailand",688
+971,Amsterdam,Netherlands,urban,Charles Martinez,51,Female,2.1,Yes,Resort,248,04/08/2025,04/13/2025,Bus,"Amsterdam, Netherlands",394
+972,Paris,France,cultural,Christina Jones,48,Male,2.3,Yes,Guesthouse,481,08/13/2024,08/22/2024,Train,"Paris, France",129
+973,Bali,Indonesia,beach,Mr. Kenneth Greene,40,Male,2.2,Yes,Guesthouse,329,07/10/2024,07/13/2024,Bus,"Bali, Indonesia",460
+974,Cancun,Mexico,beach,Thomas Kidd,18,Male,4.8,Yes,Apartment,307,08/31/2024,09/06/2024,Train,"Cancun, Mexico",744
+975,Barcelona,Spain,urban,Hannah Andrews,49,Female,2.7,Yes,Hotel,190,06/09/2024,06/21/2024,Bus,"Barcelona, Spain",625
+976,Singapore,Singapore,urban,Adam Goodman,18,Male,3.3,Yes,Resort,272,03/08/2025,03/21/2025,Cruise,"Singapore, Singapore",681
+977,Phuket,Thailand,beach,Ashley Cook,38,Female,3.8,Yes,Guesthouse,409,11/02/2024,11/08/2024,Car Rental,"Phuket, Thailand",942
+978,Paris,France,cultural,Regina Coleman,67,Female,1.6,Yes,Hotel,423,10/13/2024,10/15/2024,Car Rental,"Paris, France",727
+979,Edinburgh,UK,historical,Linda Serrano,26,Male,2.8,Yes,Hotel,108,09/09/2024,09/12/2024,Flight,"Edinburgh, UK",792
+980,Bora Bora,French Polynesia,beach,Carlos Alvarez,30,Female,4.8,Yes,Hotel,443,11/05/2024,11/06/2024,Cruise,"Bora Bora, French Polynesia",598
+981,New York,USA,urban,Natalie Rivera,50,Female,4.9,Yes,Apartment,296,12/19/2024,12/20/2024,Car Rental,"New York, USA",606
+982,Marrakech,Morocco,cultural,Jacob Werner,45,Female,4.5,Yes,Hostel,439,03/21/2025,03/24/2025,Bus,"Marrakech, Morocco",369
+983,Cancun,Mexico,beach,Jessica Chase,62,Male,3.3,Yes,Resort,359,08/01/2024,08/06/2024,Cruise,"Cancun, Mexico",846
+984,London,UK,urban,Tyrone Werner,19,Female,3.2,Yes,Hotel,333,11/22/2024,12/01/2024,Car Rental,"London, UK",977
+985,Rome,Italy,historical,Brendan Blake,54,Male,1.1,Yes,Guesthouse,79,01/12/2025,01/21/2025,Flight,"Rome, Italy",618
+986,Paris,France,cultural,Dylan Kelly,32,Female,3,Yes,Resort,426,06/27/2024,06/30/2024,Train,"Paris, France",743
+987,Cape Town,South Africa,nature,Edward Cruz,18,Male,4.5,Yes,Hotel,194,06/12/2024,06/19/2024,Bus,"Cape Town, South Africa",921
+988,Edinburgh,UK,historical,Pamela Jones,25,Male,2.6,Yes,Apartment,72,07/24/2024,07/31/2024,Cruise,"Edinburgh, UK",561
+989,Paris,France,cultural,Jacqueline Brandt,54,Female,3.4,Yes,Hotel,305,11/08/2024,11/13/2024,Bus,"Paris, France",425
+990,London,UK,urban,Colin Hayden,70,Female,4.4,Yes,Guesthouse,69,10/19/2024,10/31/2024,Train,"London, UK",245
+991,Phuket,Thailand,beach,Ashley Scott,43,Female,3.9,Yes,Hotel,382,02/04/2025,02/12/2025,Train,"Phuket, Thailand",87
+992,Bangkok,Thailand,urban,Michael Perry,28,Male,2.9,Yes,Hotel,470,03/02/2025,03/07/2025,Flight,"Bangkok, Thailand",280
+993,Bora Bora,French Polynesia,beach,Claire Robinson,38,Male,1.9,Yes,Hotel,482,03/09/2025,03/20/2025,Flight,"Bora Bora, French Polynesia",603
+994,Marrakech,Morocco,cultural,Earl Cunningham,26,Male,2.7,Yes,Apartment,140,08/16/2024,08/19/2024,Train,"Marrakech, Morocco",579
+995,Barcelona,Spain,urban,Glenn Riley,24,Male,1.9,Yes,Resort,358,12/27/2024,01/03/2025,Flight,"Barcelona, Spain",612
+996,Rome,Italy,historical,Kendra Watson,45,Male,4.4,Yes,Apartment,176,07/31/2024,08/04/2024,Car Rental,"Rome, Italy",961
+997,Bali,Indonesia,beach,Shannon Cuevas,64,Male,1.8,Yes,Hotel,118,11/03/2024,11/05/2024,Flight,"Bali, Indonesia",624
+998,Sydney,Australia,beach,Paul Fowler,51,Female,1.5,Yes,Hotel,77,01/31/2025,02/13/2025,Cruise,"Sydney, Australia",244
+999,Marrakech,Morocco,cultural,Scott Lopez,26,Female,3.7,Yes,Hotel,146,10/14/2024,10/17/2024,Car Rental,"Marrakech, Morocco",841
+1000,Tokyo,Japan,urban,Brian Rice,23,Male,1.4,Yes,Guesthouse,458,12/25/2024,01/06/2025,Cruise,"Tokyo, Japan",149
+1001,Phuket,Thailand,beach,Maria Smith,18,Female,1.2,Yes,Hotel,220,09/10/2024,09/22/2024,Flight,"Phuket, Thailand",634
+1002,Phuket,Thailand,beach,Sarah Doyle,37,Female,4.6,Yes,Resort,465,09/18/2024,09/29/2024,Train,"Phuket, Thailand",455
+1003,London,UK,urban,Mallory Osborne,27,Female,1.3,Yes,Apartment,182,02/21/2025,03/05/2025,Train,"London, UK",593
+1004,Bali,Indonesia,beach,Lori Collins,36,Female,2.3,Yes,Resort,357,02/17/2025,02/19/2025,Bus,"Bali, Indonesia",643
+1005,Bangkok,Thailand,urban,David Vazquez,50,Female,4.3,Yes,Hotel,106,09/18/2024,09/29/2024,Bus,"Bangkok, Thailand",966
+1006,Singapore,Singapore,urban,Maria Gallagher,63,Female,1.3,Yes,Resort,469,01/30/2025,02/05/2025,Car Rental,"Singapore, Singapore",584
+1007,Paris,France,cultural,Tracy Foster,23,Male,2.1,Yes,Hostel,395,12/11/2024,12/21/2024,Bus,"Paris, France",656
+1008,Paris,France,cultural,Steven Jones,50,Male,3.4,Yes,Resort,75,09/23/2024,10/06/2024,Bus,"Paris, France",615
+1009,London,UK,urban,Rebecca Conway,67,Female,3.3,Yes,Apartment,345,01/13/2025,01/15/2025,Cruise,"London, UK",558
+1010,Phuket,Thailand,beach,Shane Medina,18,Male,3.2,Yes,Apartment,128,03/24/2025,03/28/2025,Cruise,"Phuket, Thailand",423
+1011,Bora Bora,French Polynesia,beach,Megan Lee,38,Female,4.5,Yes,Guesthouse,313,04/19/2025,04/22/2025,Bus,"Bora Bora, French Polynesia",981
+1012,Phuket,Thailand,beach,Stephen Meadows,52,Female,1.6,Yes,Hostel,472,05/03/2024,05/13/2024,Car Rental,"Phuket, Thailand",341
+1013,Cape Town,South Africa,nature,Marvin Nelson,48,Male,2,Yes,Guesthouse,175,06/26/2024,07/08/2024,Cruise,"Cape Town, South Africa",253
+1014,Cancun,Mexico,beach,Leslie Ramirez,25,Female,1.2,Yes,Resort,230,03/05/2025,03/19/2025,Bus,"Cancun, Mexico",766
+1015,Paris,France,cultural,Joe Miller,32,Female,3,Yes,Guesthouse,462,01/30/2025,02/09/2025,Car Rental,"Paris, France",408
+1016,Bangkok,Thailand,urban,Paul Johnson,24,Female,4.3,Yes,Guesthouse,333,04/29/2024,04/30/2024,Flight,"Bangkok, Thailand",926
+1017,Amsterdam,Netherlands,urban,Robert Stevenson,32,Female,5,Yes,Resort,409,11/22/2024,12/05/2024,Car Rental,"Amsterdam, Netherlands",872
+1018,Dubai,UAE,urban,Dawn Myers,42,Male,2.2,Yes,Apartment,488,11/12/2024,11/17/2024,Bus,"Dubai, UAE",121
+1019,Tokyo,Japan,urban,Kimberly Hubbard,60,Female,4.1,Yes,Hotel,314,01/31/2025,02/09/2025,Flight,"Tokyo, Japan",473
+1020,Singapore,Singapore,urban,Deanna Turner,69,Male,2.7,Yes,Guesthouse,417,01/04/2025,01/08/2025,Flight,"Singapore, Singapore",473
+1021,Istanbul,Turkey,historical,Kimberly Rodriguez,31,Male,1.1,Yes,Hotel,137,11/11/2024,11/21/2024,Car Rental,"Istanbul, Turkey",205
+1022,Bangkok,Thailand,urban,Kathryn Moore,27,Male,4.2,Yes,Hotel,497,11/26/2024,11/29/2024,Train,"Bangkok, Thailand",175
+1023,New York,USA,urban,Ellen Johns,47,Female,1.9,Yes,Apartment,309,01/26/2025,01/29/2025,Cruise,"New York, USA",82
+1024,Marrakech,Morocco,cultural,Anna Harris,20,Female,2.8,Yes,Hotel,457,07/12/2024,07/24/2024,Car Rental,"Marrakech, Morocco",492
+1025,Cape Town,South Africa,nature,Troy Robinson,66,Female,2,Yes,Apartment,200,01/14/2025,01/18/2025,Bus,"Cape Town, South Africa",179
+1026,Marrakech,Morocco,cultural,Kurt Reynolds,22,Female,4.5,Yes,Apartment,200,07/03/2024,07/15/2024,Train,"Marrakech, Morocco",715
+1027,Istanbul,Turkey,historical,Kathleen Sanchez,66,Female,1.9,Yes,Resort,64,09/05/2024,09/17/2024,Train,"Istanbul, Turkey",432
+1028,Dubai,UAE,urban,Brian Dunn,25,Male,3.8,Yes,Resort,419,11/29/2024,12/02/2024,Flight,"Dubai, UAE",890
+1029,Marrakech,Morocco,cultural,Tammy Whitaker,64,Male,1.7,Yes,Hostel,85,02/15/2025,03/01/2025,Cruise,"Marrakech, Morocco",367
+1030,Marrakech,Morocco,cultural,Catherine Robbins,67,Male,3.7,Yes,Hotel,446,08/02/2024,08/04/2024,Car Rental,"Marrakech, Morocco",794
+1031,New York,USA,urban,Scott Williams,22,Male,2,Yes,Apartment,70,12/17/2024,12/22/2024,Flight,"New York, USA",589
+1032,Cancun,Mexico,beach,Cynthia Dean,68,Male,4.4,Yes,Hotel,161,10/02/2024,10/05/2024,Bus,"Cancun, Mexico",238
+1033,Paris,France,cultural,Lance Washington,26,Female,2.7,Yes,Hostel,370,07/04/2024,07/13/2024,Bus,"Paris, France",602
+1034,Paris,France,cultural,Erik Smith,36,Female,2.3,Yes,Resort,307,03/27/2025,04/01/2025,Train,"Paris, France",328
+1035,Barcelona,Spain,urban,Kevin Williams,20,Male,4.3,Yes,Hostel,332,12/19/2024,12/26/2024,Cruise,"Barcelona, Spain",69
+1036,Edinburgh,UK,historical,Cory Santos,22,Male,1.5,Yes,Guesthouse,279,04/25/2025,04/29/2025,Cruise,"Edinburgh, UK",237
+1037,Singapore,Singapore,urban,Christina Houston,66,Male,3.8,Yes,Resort,312,08/28/2024,09/02/2024,Train,"Singapore, Singapore",395
+1038,Phuket,Thailand,beach,Heather Pitts,60,Male,1.4,Yes,Hotel,297,01/17/2025,01/22/2025,Flight,"Phuket, Thailand",465
+1039,Cape Town,South Africa,nature,Brandon Grant,24,Female,3,Yes,Hotel,159,10/01/2024,10/05/2024,Bus,"Cape Town, South Africa",89
+1040,Paris,France,cultural,Casey Kline,35,Female,1.2,Yes,Hotel,439,08/31/2024,09/14/2024,Cruise,"Paris, France",257
+1041,Istanbul,Turkey,historical,Stephanie Reed,22,Male,3.3,Yes,Resort,135,06/16/2024,06/21/2024,Flight,"Istanbul, Turkey",723
+1042,Bali,Indonesia,beach,Daisy White MD,43,Male,2.4,Yes,Guesthouse,105,11/01/2024,11/14/2024,Train,"Bali, Indonesia",52
+1043,Phuket,Thailand,beach,Shannon Wagner,69,Male,1.7,Yes,Hotel,225,06/04/2024,06/14/2024,Bus,"Phuket, Thailand",269
+1044,Venice,Italy,historical,Edward Butler,34,Male,1.7,Yes,Resort,474,04/24/2025,04/29/2025,Cruise,"Venice, Italy",832
+1045,Amsterdam,Netherlands,urban,James Lawson,42,Male,2.7,Yes,Guesthouse,480,08/19/2024,08/28/2024,Bus,"Amsterdam, Netherlands",226
+1046,Marrakech,Morocco,cultural,Donna Franklin,36,Male,2.5,Yes,Hostel,112,09/10/2024,09/23/2024,Flight,"Marrakech, Morocco",783
+1047,New York,USA,urban,Barbara Silva,33,Female,3.2,Yes,Guesthouse,267,04/24/2025,04/28/2025,Bus,"New York, USA",830
+1048,Barcelona,Spain,urban,Jesus Bailey,49,Male,2.1,Yes,Hotel,333,07/08/2024,07/18/2024,Car Rental,"Barcelona, Spain",516
+1049,Edinburgh,UK,historical,Morgan James,58,Male,2.9,Yes,Resort,356,06/19/2024,06/27/2024,Car Rental,"Edinburgh, UK",730
+1050,Istanbul,Turkey,historical,Marcus Moore,24,Male,2.4,Yes,Hostel,420,12/03/2024,12/11/2024,Car Rental,"Istanbul, Turkey",596
+1051,London,UK,urban,William Moreno,24,Male,4.9,Yes,Hostel,477,11/11/2024,11/16/2024,Train,"London, UK",68
+1052,Cape Town,South Africa,nature,Jason Sparks,28,Female,4.6,Yes,Hotel,378,11/23/2024,11/26/2024,Car Rental,"Cape Town, South Africa",285
+1053,Marrakech,Morocco,cultural,Natasha Giles,54,Female,1,Yes,Hotel,316,08/07/2024,08/13/2024,Bus,"Marrakech, Morocco",941
+1054,Bali,Indonesia,beach,Danny Davis,34,Male,2.1,Yes,Resort,139,06/12/2024,06/13/2024,Flight,"Bali, Indonesia",977
+1055,Dubai,UAE,urban,Jordan Watkins,54,Female,4.8,Yes,Hotel,291,02/25/2025,03/10/2025,Flight,"Dubai, UAE",211
+1056,Barcelona,Spain,urban,Jessica Copeland,22,Female,3.9,Yes,Guesthouse,297,01/15/2025,01/20/2025,Flight,"Barcelona, Spain",807
+1057,Istanbul,Turkey,historical,Latoya Cruz,68,Male,3.6,Yes,Hotel,198,08/30/2024,09/13/2024,Flight,"Istanbul, Turkey",851
+1058,Rome,Italy,historical,Shelia Morris,32,Female,5,Yes,Hostel,345,04/17/2025,04/20/2025,Flight,"Rome, Italy",579
+1059,Amsterdam,Netherlands,urban,Kathleen Petersen,32,Male,3.3,Yes,Hostel,490,04/03/2025,04/07/2025,Cruise,"Amsterdam, Netherlands",223
+1060,Marrakech,Morocco,cultural,Brian Sims,58,Female,4.1,Yes,Hostel,470,03/15/2025,03/22/2025,Flight,"Marrakech, Morocco",209
+1061,Cancun,Mexico,beach,Danielle Mclaughlin,46,Female,2.6,Yes,Apartment,76,07/04/2024,07/05/2024,Cruise,"Cancun, Mexico",964
+1062,Singapore,Singapore,urban,Kathy Morrow,56,Female,3.6,Yes,Hostel,432,09/29/2024,10/09/2024,Bus,"Singapore, Singapore",446
+1063,Edinburgh,UK,historical,Jerry Scott,49,Female,3.8,Yes,Guesthouse,351,12/01/2024,12/05/2024,Flight,"Edinburgh, UK",996
+1064,Venice,Italy,historical,Robin Meyers,49,Male,3.7,Yes,Apartment,470,01/21/2025,02/03/2025,Bus,"Venice, Italy",993
+1065,Sydney,Australia,beach,Frank Harmon,55,Male,1.7,Yes,Guesthouse,322,07/28/2024,08/03/2024,Cruise,"Sydney, Australia",969
+1066,Singapore,Singapore,urban,Deanna Logan,70,Female,4.6,Yes,Guesthouse,392,07/17/2024,07/22/2024,Cruise,"Singapore, Singapore",684
+1067,Bora Bora,French Polynesia,beach,Dr. Mark Saunders,24,Male,1.9,Yes,Guesthouse,176,10/21/2024,11/04/2024,Car Rental,"Bora Bora, French Polynesia",674
+1068,Cancun,Mexico,beach,Ashley Lyons,18,Male,1.4,Yes,Resort,175,08/07/2024,08/14/2024,Train,"Cancun, Mexico",321
+1069,Sydney,Australia,beach,Stacey Washington,26,Male,4.3,Yes,Resort,131,04/09/2025,04/15/2025,Flight,"Sydney, Australia",704
+1070,Sydney,Australia,beach,James Chandler,47,Male,4.4,Yes,Hotel,187,04/20/2025,05/02/2025,Cruise,"Sydney, Australia",666
+1071,Singapore,Singapore,urban,Katherine Johns,54,Male,1.7,Yes,Apartment,316,10/05/2024,10/13/2024,Train,"Singapore, Singapore",449
+1072,Bali,Indonesia,beach,Sherri Lewis,26,Male,3,Yes,Hotel,379,04/09/2025,04/17/2025,Cruise,"Bali, Indonesia",219
+1073,London,UK,urban,Alexander Chambers,55,Female,1.8,Yes,Guesthouse,350,01/29/2025,02/10/2025,Car Rental,"London, UK",813
+1074,Paris,France,cultural,Ryan Collins,24,Male,1.7,Yes,Guesthouse,274,06/13/2024,06/14/2024,Car Rental,"Paris, France",275
+1075,Singapore,Singapore,urban,Tammy Rogers,66,Female,3.4,Yes,Hostel,119,02/18/2025,02/21/2025,Bus,"Singapore, Singapore",62
+1076,Bora Bora,French Polynesia,beach,Deanna Wilson,66,Male,2,Yes,Hostel,184,12/20/2024,01/03/2025,Car Rental,"Bora Bora, French Polynesia",117
+1077,New York,USA,urban,Amanda Robinson,35,Male,4.2,Yes,Apartment,81,07/14/2024,07/19/2024,Cruise,"New York, USA",564
+1078,Dubai,UAE,urban,Lori Williams,49,Male,2.1,Yes,Guesthouse,51,08/20/2024,09/03/2024,Train,"Dubai, UAE",555
+1079,Venice,Italy,historical,Natalie Taylor,64,Female,3.8,Yes,Guesthouse,259,09/29/2024,10/06/2024,Car Rental,"Venice, Italy",689
+1080,Sydney,Australia,beach,Katherine Conner,40,Male,1.8,Yes,Guesthouse,342,12/19/2024,12/20/2024,Bus,"Sydney, Australia",105
+1081,Dubai,UAE,urban,Jake Bray,38,Male,1.1,Yes,Guesthouse,240,02/26/2025,03/03/2025,Train,"Dubai, UAE",767
+1082,Tokyo,Japan,urban,Melinda Tucker,28,Female,1,Yes,Resort,389,07/29/2024,08/07/2024,Train,"Tokyo, Japan",355
+1083,Bangkok,Thailand,urban,Daniel Miller,57,Female,3.6,Yes,Guesthouse,251,08/08/2024,08/16/2024,Cruise,"Bangkok, Thailand",513
+1084,Phuket,Thailand,beach,Kristin Bullock,21,Male,3.9,Yes,Apartment,381,11/22/2024,11/29/2024,Car Rental,"Phuket, Thailand",652
+1085,Cape Town,South Africa,nature,Jody Houston,37,Female,2.2,Yes,Guesthouse,159,09/09/2024,09/11/2024,Flight,"Cape Town, South Africa",528
+1086,London,UK,urban,Cindy Cole,25,Female,3.5,Yes,Hostel,215,03/20/2025,03/28/2025,Cruise,"London, UK",931
+1087,London,UK,urban,Diana Marshall,44,Female,1.8,Yes,Resort,450,08/22/2024,08/26/2024,Train,"London, UK",202
+1088,London,UK,urban,Mary Newman,62,Male,3.3,Yes,Hotel,98,12/30/2024,01/02/2025,Cruise,"London, UK",218
+1089,Rome,Italy,historical,William Hopkins,57,Male,2.6,Yes,Guesthouse,67,04/12/2025,04/19/2025,Car Rental,"Rome, Italy",999
+1090,Paris,France,cultural,Lance Santos,49,Male,1.2,Yes,Resort,95,01/08/2025,01/13/2025,Cruise,"Paris, France",474
+1091,London,UK,urban,Rachel Adams,55,Male,2.4,Yes,Apartment,160,07/09/2024,07/16/2024,Car Rental,"London, UK",724
+1092,Dubai,UAE,urban,Scott Smith,24,Male,4.5,Yes,Guesthouse,109,12/04/2024,12/10/2024,Flight,"Dubai, UAE",800
+1093,New York,USA,urban,Christopher Alexander,67,Male,4.6,Yes,Hostel,130,02/02/2025,02/05/2025,Bus,"New York, USA",66
+1094,Rome,Italy,historical,Susan Collier,42,Female,4.7,Yes,Hostel,86,09/16/2024,09/19/2024,Bus,"Rome, Italy",812
+1095,Paris,France,cultural,Rodney Haas,70,Female,4.8,Yes,Resort,380,07/18/2024,07/22/2024,Cruise,"Paris, France",758
+1096,Singapore,Singapore,urban,Michael Perez,65,Female,3.9,Yes,Hostel,71,05/04/2024,05/17/2024,Car Rental,"Singapore, Singapore",345
+1097,Paris,France,cultural,Terry Long,62,Female,4.6,Yes,Apartment,409,08/04/2024,08/06/2024,Flight,"Paris, France",544
+1098,Bangkok,Thailand,urban,Samantha Barber,39,Male,4.3,Yes,Apartment,330,05/14/2024,05/19/2024,Flight,"Bangkok, Thailand",65
+1099,Singapore,Singapore,urban,Paul Copeland,39,Female,4.4,Yes,Hotel,153,07/13/2024,07/16/2024,Flight,"Singapore, Singapore",867
+1100,Cape Town,South Africa,nature,Victoria Bailey,63,Female,4.8,Yes,Hotel,304,01/18/2025,01/22/2025,Flight,"Cape Town, South Africa",55
+1101,Edinburgh,UK,historical,Thomas Mercado,41,Female,1.5,Yes,Hotel,292,12/19/2024,12/20/2024,Bus,"Edinburgh, UK",803
+1102,London,UK,urban,Jenna Collier,67,Male,4.8,Yes,Hostel,293,06/07/2024,06/17/2024,Flight,"London, UK",532
+1103,New York,USA,urban,Rebecca Young,65,Female,3.6,Yes,Hostel,220,09/08/2024,09/15/2024,Flight,"New York, USA",571
+1104,Bora Bora,French Polynesia,beach,Stephanie Navarro,66,Male,2.8,Yes,Hotel,186,04/11/2025,04/20/2025,Car Rental,"Bora Bora, French Polynesia",500
+1105,New York,USA,urban,Cheryl Little,67,Female,1.7,Yes,Resort,81,03/18/2025,03/27/2025,Train,"New York, USA",531
+1106,London,UK,urban,Laura Wright,18,Male,1.8,Yes,Hotel,287,02/19/2025,02/22/2025,Car Rental,"London, UK",138
+1107,Paris,France,cultural,Fernando Allen,42,Female,1.9,Yes,Resort,327,08/27/2024,09/10/2024,Bus,"Paris, France",833
+1108,Paris,France,cultural,Gabriel Brown,39,Male,3.1,Yes,Guesthouse,383,12/27/2024,01/03/2025,Train,"Paris, France",319
+1109,Venice,Italy,historical,Alexander Fry,70,Male,4.4,Yes,Hostel,405,10/04/2024,10/08/2024,Train,"Venice, Italy",534
+1110,Bangkok,Thailand,urban,Christina Nelson,29,Male,3.8,Yes,Guesthouse,159,07/31/2024,08/04/2024,Car Rental,"Bangkok, Thailand",243
+1111,Singapore,Singapore,urban,Haley Buckley,21,Female,4.9,Yes,Guesthouse,79,08/26/2024,08/28/2024,Bus,"Singapore, Singapore",252
+1112,Sydney,Australia,beach,Kelly Peterson,66,Male,2.6,Yes,Guesthouse,280,12/18/2024,12/26/2024,Cruise,"Sydney, Australia",90
+1113,Venice,Italy,historical,Laura King,31,Male,3.5,Yes,Resort,300,10/13/2024,10/25/2024,Cruise,"Venice, Italy",275
+1114,Cape Town,South Africa,nature,Roger Carter,25,Female,4.3,Yes,Guesthouse,210,02/12/2025,02/14/2025,Train,"Cape Town, South Africa",392
+1115,Cancun,Mexico,beach,Joseph Mcguire,56,Female,4.5,Yes,Apartment,94,10/26/2024,10/31/2024,Train,"Cancun, Mexico",62
+1116,Tokyo,Japan,urban,Mario Reese,66,Female,4.2,Yes,Resort,60,03/29/2025,03/31/2025,Car Rental,"Tokyo, Japan",203
+1117,Phuket,Thailand,beach,Gary Stewart,66,Female,2.5,Yes,Hotel,193,07/18/2024,07/29/2024,Cruise,"Phuket, Thailand",743
+1118,New York,USA,urban,Sarah Griffin,19,Male,2.6,Yes,Guesthouse,445,01/31/2025,02/09/2025,Cruise,"New York, USA",542
+1119,Bali,Indonesia,beach,Jeffrey Flores,55,Male,1.7,Yes,Resort,302,04/27/2024,05/11/2024,Bus,"Bali, Indonesia",90
+1120,Barcelona,Spain,urban,Christina Gregory,28,Male,3.3,Yes,Resort,210,07/10/2024,07/18/2024,Cruise,"Barcelona, Spain",971
+1121,Bora Bora,French Polynesia,beach,William Smith,59,Male,4.6,Yes,Hotel,358,12/03/2024,12/09/2024,Car Rental,"Bora Bora, French Polynesia",582
+1122,Bora Bora,French Polynesia,beach,Gregory Garcia,28,Female,4.4,Yes,Resort,397,12/13/2024,12/22/2024,Cruise,"Bora Bora, French Polynesia",925
+1123,Cape Town,South Africa,nature,Clayton Scott,53,Female,3.5,Yes,Apartment,155,04/01/2025,04/09/2025,Train,"Cape Town, South Africa",850
+1124,Cape Town,South Africa,nature,Wayne Brown,65,Male,3.9,Yes,Apartment,258,05/30/2024,05/31/2024,Bus,"Cape Town, South Africa",285
+1125,Phuket,Thailand,beach,David Kelley,45,Male,3.9,Yes,Guesthouse,217,08/12/2024,08/16/2024,Flight,"Phuket, Thailand",559
+1126,New York,USA,urban,Dale Valencia,53,Female,3.5,Yes,Apartment,157,03/27/2025,03/29/2025,Cruise,"New York, USA",243
+1127,Singapore,Singapore,urban,Cody Farmer,46,Male,2,Yes,Guesthouse,112,10/05/2024,10/19/2024,Train,"Singapore, Singapore",511
+1128,Tokyo,Japan,urban,Stacey Rios,49,Male,4.6,Yes,Apartment,176,12/02/2024,12/12/2024,Cruise,"Tokyo, Japan",216
+1129,Sydney,Australia,beach,Keith King,65,Female,3,Yes,Hostel,472,07/05/2024,07/13/2024,Train,"Sydney, Australia",526
+1130,Edinburgh,UK,historical,Kevin Brown,69,Male,2.1,Yes,Resort,290,02/27/2025,03/02/2025,Flight,"Edinburgh, UK",894
+1131,Edinburgh,UK,historical,Kevin Hoover,55,Male,2.5,Yes,Hotel,247,04/20/2025,04/23/2025,Bus,"Edinburgh, UK",940
+1132,Venice,Italy,historical,Richard Miller,35,Female,2.8,Yes,Guesthouse,354,05/19/2024,05/28/2024,Cruise,"Venice, Italy",110
+1133,Venice,Italy,historical,Vincent Wolf,69,Female,1.7,Yes,Resort,424,07/14/2024,07/28/2024,Train,"Venice, Italy",639
+1134,Phuket,Thailand,beach,Brian Rose,54,Female,5,Yes,Hostel,219,05/20/2024,05/27/2024,Cruise,"Phuket, Thailand",64
+1135,Dubai,UAE,urban,Jennifer Rocha,48,Male,1.6,Yes,Hostel,229,01/02/2025,01/09/2025,Bus,"Dubai, UAE",254
+1136,Bora Bora,French Polynesia,beach,Christina Hernandez,53,Male,3.7,Yes,Hotel,264,08/24/2024,09/04/2024,Flight,"Bora Bora, French Polynesia",182
+1137,Cancun,Mexico,beach,Michael Hill,48,Female,2.5,Yes,Guesthouse,355,05/08/2024,05/13/2024,Car Rental,"Cancun, Mexico",777
+1138,Phuket,Thailand,beach,Heather Lyons,46,Male,2.1,Yes,Hostel,173,03/03/2025,03/16/2025,Bus,"Phuket, Thailand",175
+1139,Bali,Indonesia,beach,Heather Davis,55,Female,3.7,Yes,Apartment,331,01/12/2025,01/14/2025,Train,"Bali, Indonesia",121
+1140,Barcelona,Spain,urban,David Owen,68,Female,2.2,Yes,Hostel,157,01/28/2025,02/01/2025,Cruise,"Barcelona, Spain",704
+1141,Rome,Italy,historical,Maria Evans DDS,21,Female,3.5,Yes,Apartment,348,03/27/2025,03/30/2025,Bus,"Rome, Italy",834
+1142,Edinburgh,UK,historical,Sean Hill,25,Female,4.1,Yes,Apartment,482,01/06/2025,01/07/2025,Car Rental,"Edinburgh, UK",868
+1143,London,UK,urban,Tammy Jefferson,39,Female,1.8,Yes,Apartment,269,06/21/2024,07/03/2024,Bus,"London, UK",928
+1144,Istanbul,Turkey,historical,William Flynn,48,Female,4.5,Yes,Hotel,206,04/25/2025,04/26/2025,Car Rental,"Istanbul, Turkey",320
+1145,Dubai,UAE,urban,Mr. Joe Clark,45,Male,3.8,Yes,Resort,382,04/27/2024,04/29/2024,Train,"Dubai, UAE",792
+1146,Phuket,Thailand,beach,Emily Mcmahon,21,Female,4.6,Yes,Resort,321,02/14/2025,02/19/2025,Train,"Phuket, Thailand",577
+1147,Cancun,Mexico,beach,Jeffrey Fields,28,Female,3,Yes,Hotel,396,12/21/2024,12/27/2024,Bus,"Cancun, Mexico",970
+1148,Cape Town,South Africa,nature,Danielle Johnston,51,Male,3.6,Yes,Guesthouse,319,08/14/2024,08/18/2024,Bus,"Cape Town, South Africa",203
+1149,Amsterdam,Netherlands,urban,Steven Stewart,24,Female,4.4,Yes,Apartment,215,03/24/2025,03/31/2025,Flight,"Amsterdam, Netherlands",593
+1150,London,UK,urban,Amanda Guerrero,49,Female,2.4,Yes,Hotel,122,09/17/2024,09/24/2024,Car Rental,"London, UK",380
+1151,Edinburgh,UK,historical,Mariah Rodriguez,47,Male,3.4,Yes,Hotel,112,02/14/2025,02/23/2025,Bus,"Edinburgh, UK",148
+1152,Bora Bora,French Polynesia,beach,Robin Patrick,52,Male,1.1,Yes,Resort,191,07/08/2024,07/17/2024,Bus,"Bora Bora, French Polynesia",632
+1153,Marrakech,Morocco,cultural,Joseph Walker,49,Female,2,Yes,Resort,406,11/14/2024,11/28/2024,Car Rental,"Marrakech, Morocco",864
+1154,Tokyo,Japan,urban,Ronald Lynch,21,Male,2.1,Yes,Hostel,244,08/28/2024,08/30/2024,Bus,"Tokyo, Japan",673
+1155,Bangkok,Thailand,urban,Gabriel Hernandez,55,Male,2.8,Yes,Guesthouse,396,10/22/2024,10/29/2024,Car Rental,"Bangkok, Thailand",909
+1156,Bora Bora,French Polynesia,beach,Michael Simmons,40,Male,1.7,Yes,Guesthouse,201,05/26/2024,06/03/2024,Car Rental,"Bora Bora, French Polynesia",595
+1157,Bangkok,Thailand,urban,Joshua Murphy,61,Female,3.3,Yes,Apartment,369,01/23/2025,01/26/2025,Train,"Bangkok, Thailand",79
+1158,Bora Bora,French Polynesia,beach,Cody Lewis,65,Male,1,Yes,Apartment,436,03/20/2025,04/03/2025,Car Rental,"Bora Bora, French Polynesia",406
+1159,Venice,Italy,historical,Lydia Peterson,63,Female,4.7,Yes,Apartment,225,10/12/2024,10/18/2024,Car Rental,"Venice, Italy",788
+1160,Edinburgh,UK,historical,Daniel Clay,54,Female,4.8,Yes,Hostel,239,07/19/2024,08/01/2024,Train,"Edinburgh, UK",685
+1161,Barcelona,Spain,urban,Sabrina Jones,30,Female,3.3,Yes,Hotel,153,11/04/2024,11/09/2024,Train,"Barcelona, Spain",889
+1162,Amsterdam,Netherlands,urban,Bradley Perkins,29,Male,1.6,Yes,Hostel,142,09/02/2024,09/10/2024,Flight,"Amsterdam, Netherlands",510
+1163,Sydney,Australia,beach,Rebecca Garcia,21,Female,4.6,Yes,Apartment,95,09/23/2024,09/25/2024,Car Rental,"Sydney, Australia",678
+1164,Bora Bora,French Polynesia,beach,Russell Moore,62,Male,1.3,Yes,Apartment,368,01/27/2025,02/10/2025,Car Rental,"Bora Bora, French Polynesia",463
+1165,Dubai,UAE,urban,William Lewis,20,Female,3.8,Yes,Apartment,209,09/28/2024,10/06/2024,Bus,"Dubai, UAE",118
+1166,Dubai,UAE,urban,Angela Hill,70,Female,4.2,Yes,Resort,370,08/10/2024,08/20/2024,Bus,"Dubai, UAE",835
+1167,Bora Bora,French Polynesia,beach,James Lawrence,40,Male,4.9,Yes,Guesthouse,440,11/26/2024,12/07/2024,Cruise,"Bora Bora, French Polynesia",213
+1168,London,UK,urban,Dustin Lynch,46,Male,3.4,Yes,Hotel,417,03/17/2025,03/19/2025,Bus,"London, UK",237
+1169,Phuket,Thailand,beach,Adam Roth,26,Female,1.2,Yes,Guesthouse,344,05/26/2024,06/07/2024,Bus,"Phuket, Thailand",924
+1170,Cape Town,South Africa,nature,Teresa Farrell,62,Female,3.3,Yes,Hotel,339,09/24/2024,09/29/2024,Car Rental,"Cape Town, South Africa",152
+1171,Istanbul,Turkey,historical,Todd Huffman,55,Female,4.7,Yes,Hotel,423,02/23/2025,02/28/2025,Cruise,"Istanbul, Turkey",475
+1172,Barcelona,Spain,urban,Ashley Reese,54,Female,3.4,Yes,Hotel,132,10/12/2024,10/23/2024,Car Rental,"Barcelona, Spain",56
+1173,Marrakech,Morocco,cultural,Juan Nelson,65,Male,4.7,Yes,Guesthouse,341,07/13/2024,07/27/2024,Flight,"Marrakech, Morocco",184
+1174,Phuket,Thailand,beach,Stephen Gordon,46,Female,4.9,Yes,Resort,98,06/07/2024,06/15/2024,Bus,"Phuket, Thailand",198
+1175,Barcelona,Spain,urban,Robert Lopez,30,Male,4.4,Yes,Guesthouse,295,03/02/2025,03/08/2025,Train,"Barcelona, Spain",890
+1176,Amsterdam,Netherlands,urban,Angela Foley,67,Female,4.9,Yes,Resort,473,12/20/2024,12/21/2024,Bus,"Amsterdam, Netherlands",591
+1177,Barcelona,Spain,urban,Jennifer Ferguson,50,Female,3.2,Yes,Hostel,61,02/28/2025,03/09/2025,Train,"Barcelona, Spain",784
+1178,Dubai,UAE,urban,Lisa Holloway,25,Male,3.3,Yes,Hotel,186,10/25/2024,11/08/2024,Cruise,"Dubai, UAE",516
+1179,Paris,France,cultural,Jeanette Norton,64,Male,4.8,Yes,Guesthouse,160,09/03/2024,09/09/2024,Flight,"Paris, France",455
+1180,Amsterdam,Netherlands,urban,Shirley Chambers,18,Male,1.9,Yes,Apartment,373,06/10/2024,06/21/2024,Train,"Amsterdam, Netherlands",745
+1181,New York,USA,urban,Laura Alvarez,50,Female,2.1,Yes,Hostel,388,07/18/2024,07/22/2024,Cruise,"New York, USA",670
+1182,Sydney,Australia,beach,Whitney Hopkins,60,Male,2,Yes,Hostel,410,10/24/2024,10/26/2024,Cruise,"Sydney, Australia",358
+1183,London,UK,urban,Richard Thompson,67,Male,3.7,Yes,Resort,381,12/29/2024,01/03/2025,Bus,"London, UK",362
+1184,Tokyo,Japan,urban,Monica Coleman,70,Female,1.1,Yes,Hostel,60,12/15/2024,12/18/2024,Car Rental,"Tokyo, Japan",676
+1185,Rome,Italy,historical,Anthony Jones,24,Female,3.4,Yes,Guesthouse,365,04/03/2025,04/07/2025,Bus,"Rome, Italy",72
+1186,Edinburgh,UK,historical,Julia Henderson,38,Male,2.6,Yes,Hostel,110,03/06/2025,03/07/2025,Train,"Edinburgh, UK",611
+1187,Venice,Italy,historical,Ashley Santiago,40,Female,1.8,Yes,Hostel,211,11/01/2024,11/03/2024,Train,"Venice, Italy",918
+1188,Bora Bora,French Polynesia,beach,Zachary Adkins,62,Male,1.3,Yes,Hostel,458,02/06/2025,02/11/2025,Cruise,"Bora Bora, French Polynesia",404
+1189,Amsterdam,Netherlands,urban,Devin Stewart,57,Female,4.8,Yes,Resort,371,06/08/2024,06/11/2024,Cruise,"Amsterdam, Netherlands",249
+1190,Rome,Italy,historical,Peter Williams,57,Female,3.4,Yes,Guesthouse,468,11/10/2024,11/11/2024,Train,"Rome, Italy",111
+1191,Bali,Indonesia,beach,Clinton Jones,57,Male,3.9,Yes,Hostel,198,08/10/2024,08/12/2024,Train,"Bali, Indonesia",346
+1192,Amsterdam,Netherlands,urban,Jennifer Figueroa,54,Female,2.1,Yes,Resort,458,07/18/2024,07/29/2024,Train,"Amsterdam, Netherlands",669
+1193,Bali,Indonesia,beach,Linda Bean,23,Male,3.8,Yes,Apartment,415,02/03/2025,02/08/2025,Flight,"Bali, Indonesia",560
+1194,Venice,Italy,historical,Allison Leon,62,Female,3.9,Yes,Resort,298,07/21/2024,07/25/2024,Bus,"Venice, Italy",414
+1195,Cape Town,South Africa,nature,Jeremy Roberts,57,Male,3,Yes,Resort,486,11/13/2024,11/21/2024,Flight,"Cape Town, South Africa",176
+1196,Singapore,Singapore,urban,Shawn Lewis,41,Male,1.7,Yes,Guesthouse,424,06/29/2024,07/08/2024,Flight,"Singapore, Singapore",134
+1197,Bangkok,Thailand,urban,Geoffrey Frey,57,Female,2.9,Yes,Hotel,252,06/13/2024,06/24/2024,Flight,"Bangkok, Thailand",253
+1198,Amsterdam,Netherlands,urban,Jamie Chen,52,Female,4.2,Yes,Resort,429,01/30/2025,02/13/2025,Flight,"Amsterdam, Netherlands",136
+1199,Bora Bora,French Polynesia,beach,Frank Roberts,35,Male,3.7,Yes,Hostel,285,01/13/2025,01/20/2025,Car Rental,"Bora Bora, French Polynesia",365
+1200,Istanbul,Turkey,historical,Michael Walker MD,69,Female,4.8,Yes,Hostel,422,09/04/2024,09/07/2024,Bus,"Istanbul, Turkey",899
+1201,Singapore,Singapore,urban,Nancy Rodriguez,39,Male,4.9,Yes,Apartment,191,10/26/2024,11/06/2024,Flight,"Singapore, Singapore",332
+1202,London,UK,urban,Lisa Brewer,22,Male,4.4,Yes,Resort,432,02/16/2025,02/21/2025,Flight,"London, UK",921
+1203,Istanbul,Turkey,historical,Rebecca Franklin MD,45,Male,2.8,Yes,Hotel,181,07/30/2024,08/04/2024,Cruise,"Istanbul, Turkey",434
+1204,Sydney,Australia,beach,Anita Holland,62,Male,2.9,Yes,Hotel,372,05/10/2024,05/18/2024,Bus,"Sydney, Australia",253
+1205,Dubai,UAE,urban,Robert Peterson,29,Male,2.2,Yes,Hotel,492,09/02/2024,09/09/2024,Car Rental,"Dubai, UAE",760
+1206,Dubai,UAE,urban,Benjamin Cook,46,Male,4.4,Yes,Hotel,445,12/28/2024,01/03/2025,Cruise,"Dubai, UAE",582
+1207,Phuket,Thailand,beach,Dr. Luke Villanueva,42,Male,2.7,Yes,Hotel,415,04/02/2025,04/03/2025,Bus,"Phuket, Thailand",124
+1208,New York,USA,urban,Dakota Barnes,55,Female,2.7,Yes,Hostel,204,09/24/2024,09/27/2024,Car Rental,"New York, USA",640
+1209,Rome,Italy,historical,Laura Ryan,41,Male,1.4,Yes,Guesthouse,293,10/19/2024,10/25/2024,Cruise,"Rome, Italy",796
+1210,Barcelona,Spain,urban,Andrew Lane,20,Female,4.8,Yes,Hotel,134,08/18/2024,08/28/2024,Bus,"Barcelona, Spain",472
+1211,Bangkok,Thailand,urban,Kristen Montes,58,Female,3.7,Yes,Guesthouse,151,08/21/2024,08/29/2024,Cruise,"Bangkok, Thailand",623
+1212,Dubai,UAE,urban,Joseph Gentry,34,Female,1.7,Yes,Hostel,308,09/18/2024,09/24/2024,Flight,"Dubai, UAE",277
+1213,Phuket,Thailand,beach,Frederick Le,20,Female,1.8,Yes,Hotel,202,07/21/2024,08/01/2024,Car Rental,"Phuket, Thailand",957
+1214,Marrakech,Morocco,cultural,Matthew Blair,26,Male,4.5,Yes,Apartment,458,04/23/2025,04/29/2025,Cruise,"Marrakech, Morocco",350
+1215,Bora Bora,French Polynesia,beach,Timothy Hall MD,40,Male,4.3,Yes,Hostel,168,03/07/2025,03/12/2025,Car Rental,"Bora Bora, French Polynesia",497
+1216,Venice,Italy,historical,Erin Holt,49,Female,4.6,Yes,Resort,263,03/10/2025,03/22/2025,Car Rental,"Venice, Italy",95
+1217,Singapore,Singapore,urban,Joshua Mckinney,32,Male,4.3,Yes,Hotel,286,01/30/2025,02/13/2025,Car Rental,"Singapore, Singapore",368
+1218,Dubai,UAE,urban,James Johnson,65,Male,4.1,Yes,Hotel,452,04/14/2025,04/16/2025,Flight,"Dubai, UAE",211
+1219,Phuket,Thailand,beach,Becky Carter,23,Female,3.1,Yes,Resort,410,03/19/2025,03/25/2025,Bus,"Phuket, Thailand",269
+1220,Singapore,Singapore,urban,Amy Harris,48,Female,4.1,Yes,Guesthouse,76,10/29/2024,11/08/2024,Bus,"Singapore, Singapore",794
+1221,Barcelona,Spain,urban,Melanie Davis,27,Female,1.9,Yes,Guesthouse,191,04/24/2025,05/03/2025,Car Rental,"Barcelona, Spain",483
+1222,Bali,Indonesia,beach,Danielle Wallace,37,Male,4.4,Yes,Resort,422,01/07/2025,01/17/2025,Cruise,"Bali, Indonesia",582
+1223,Cape Town,South Africa,nature,Jacqueline Harrison,60,Male,4.6,Yes,Apartment,365,05/29/2024,06/04/2024,Cruise,"Cape Town, South Africa",488
+1224,Tokyo,Japan,urban,Joshua Palmer,59,Female,2.5,Yes,Resort,235,10/26/2024,10/30/2024,Cruise,"Tokyo, Japan",182
+1225,Bora Bora,French Polynesia,beach,Brian Harris,30,Female,4.4,Yes,Apartment,76,04/29/2024,05/09/2024,Train,"Bora Bora, French Polynesia",756
+1226,Istanbul,Turkey,historical,Steven Little,53,Female,2.2,Yes,Apartment,439,05/05/2024,05/11/2024,Bus,"Istanbul, Turkey",983
+1227,New York,USA,urban,Cheryl Black,34,Female,3.2,Yes,Hotel,168,12/17/2024,12/25/2024,Cruise,"New York, USA",125
+1228,Rome,Italy,historical,Daniel Ramirez,68,Female,4.1,Yes,Apartment,102,12/02/2024,12/13/2024,Bus,"Rome, Italy",878
+1229,Bali,Indonesia,beach,Adrian Charles,42,Female,1.6,Yes,Guesthouse,223,03/29/2025,04/01/2025,Cruise,"Bali, Indonesia",278
+1230,Rome,Italy,historical,Julie Bolton,59,Female,1.5,Yes,Resort,236,06/25/2024,07/04/2024,Bus,"Rome, Italy",240
+1231,Edinburgh,UK,historical,Maria Hill,44,Female,1.6,Yes,Apartment,108,03/09/2025,03/16/2025,Bus,"Edinburgh, UK",369
+1232,Paris,France,cultural,Amy Aguilar,23,Male,4.5,Yes,Hotel,407,12/28/2024,01/06/2025,Cruise,"Paris, France",685
+1233,Istanbul,Turkey,historical,Mary Dodson,64,Male,1.9,Yes,Resort,279,08/26/2024,09/03/2024,Flight,"Istanbul, Turkey",950
+1234,Bali,Indonesia,beach,Kimberly Castaneda,28,Female,3,Yes,Hostel,51,04/25/2025,04/26/2025,Cruise,"Bali, Indonesia",972
+1235,Amsterdam,Netherlands,urban,Jose Morse,69,Male,2.7,Yes,Apartment,303,03/29/2025,04/01/2025,Bus,"Amsterdam, Netherlands",813
+1236,Paris,France,cultural,Edward Dorsey,37,Male,2.9,Yes,Hostel,330,12/16/2024,12/22/2024,Bus,"Paris, France",355
+1237,Istanbul,Turkey,historical,Ryan Dunn,28,Female,3.3,Yes,Guesthouse,104,11/12/2024,11/21/2024,Cruise,"Istanbul, Turkey",257
+1238,Cancun,Mexico,beach,Erik Huynh,48,Female,4.5,Yes,Hostel,220,07/12/2024,07/16/2024,Train,"Cancun, Mexico",415
+1239,Cape Town,South Africa,nature,Matthew Mcgee,54,Male,1.9,Yes,Apartment,468,08/28/2024,09/11/2024,Bus,"Cape Town, South Africa",721
+1240,London,UK,urban,Nicole Taylor,22,Female,2.5,Yes,Resort,272,06/26/2024,06/30/2024,Car Rental,"London, UK",626
+1241,Istanbul,Turkey,historical,Jeffery Stone,35,Male,3.3,Yes,Resort,291,01/19/2025,01/30/2025,Train,"Istanbul, Turkey",633
+1242,Phuket,Thailand,beach,Kelly Jackson,45,Female,1.5,Yes,Hotel,409,08/31/2024,09/09/2024,Bus,"Phuket, Thailand",50
+1243,London,UK,urban,Carmen Adams,34,Male,5,Yes,Resort,333,06/24/2024,06/28/2024,Cruise,"London, UK",695
+1244,Phuket,Thailand,beach,Melissa Zimmerman,60,Female,1.2,Yes,Hotel,149,11/18/2024,11/24/2024,Train,"Phuket, Thailand",231
+1245,Cancun,Mexico,beach,Vanessa Jones,47,Female,1.2,Yes,Apartment,337,08/15/2024,08/22/2024,Cruise,"Cancun, Mexico",301
+1246,Bali,Indonesia,beach,Cynthia Ward,29,Male,3.1,Yes,Resort,481,10/14/2024,10/23/2024,Train,"Bali, Indonesia",462
+1247,London,UK,urban,Michael Macias,22,Male,1.4,Yes,Apartment,277,04/26/2025,05/08/2025,Bus,"London, UK",828
+1248,London,UK,urban,Amy Wu,35,Female,4.1,Yes,Guesthouse,429,03/07/2025,03/18/2025,Train,"London, UK",778
+1249,Sydney,Australia,beach,Michael Gonzalez,43,Male,2.7,Yes,Apartment,471,07/25/2024,08/03/2024,Train,"Sydney, Australia",749
+1250,London,UK,urban,Melissa Brown,68,Female,3.6,Yes,Resort,448,09/30/2024,10/02/2024,Flight,"London, UK",180
+1251,Singapore,Singapore,urban,Timothy Hernandez,69,Female,3.7,Yes,Hotel,329,07/30/2024,08/10/2024,Bus,"Singapore, Singapore",670
+1252,Marrakech,Morocco,cultural,Mrs. Theresa Carter,48,Female,4.9,Yes,Hotel,404,02/07/2025,02/11/2025,Cruise,"Marrakech, Morocco",87
+1253,Rome,Italy,historical,Jessica Anderson,28,Male,3.1,Yes,Apartment,220,12/29/2024,01/08/2025,Flight,"Rome, Italy",484
+1254,Phuket,Thailand,beach,Thomas Olsen,36,Female,2.2,Yes,Apartment,400,01/05/2025,01/10/2025,Bus,"Phuket, Thailand",537
+1255,New York,USA,urban,Mark Douglas,54,Female,2.2,Yes,Resort,439,05/14/2024,05/24/2024,Train,"New York, USA",541
+1256,New York,USA,urban,Emily Marks,24,Male,4.8,Yes,Guesthouse,207,04/30/2024,05/05/2024,Car Rental,"New York, USA",189
+1257,Barcelona,Spain,urban,George Moore,42,Female,4.5,Yes,Hotel,378,03/02/2025,03/06/2025,Bus,"Barcelona, Spain",306
+1258,Paris,France,cultural,Stacey Snyder,67,Male,3.7,Yes,Guesthouse,184,07/28/2024,08/07/2024,Car Rental,"Paris, France",627
+1259,Barcelona,Spain,urban,Daryl Gill,54,Male,1.3,Yes,Hostel,383,02/08/2025,02/21/2025,Flight,"Barcelona, Spain",265
+1260,Bangkok,Thailand,urban,Cynthia Zimmerman,62,Female,3.7,Yes,Hotel,397,06/21/2024,06/22/2024,Train,"Bangkok, Thailand",867
+1261,Paris,France,cultural,Carolyn Oliver,56,Female,1.5,Yes,Apartment,77,09/20/2024,09/27/2024,Bus,"Paris, France",616
+1262,Cancun,Mexico,beach,Brittany Robinson,24,Male,1.7,Yes,Resort,219,08/05/2024,08/16/2024,Flight,"Cancun, Mexico",374
+1263,Bora Bora,French Polynesia,beach,Bradley Sullivan,54,Female,2.1,Yes,Guesthouse,72,02/28/2025,03/12/2025,Car Rental,"Bora Bora, French Polynesia",386
+1264,Venice,Italy,historical,Billy Davis,46,Female,2.1,Yes,Apartment,423,12/01/2024,12/05/2024,Train,"Venice, Italy",176
+1265,Dubai,UAE,urban,William Herman,66,Male,4.2,Yes,Guesthouse,73,04/09/2025,04/19/2025,Flight,"Dubai, UAE",172
+1266,Bali,Indonesia,beach,Danielle Jones,69,Male,2.5,Yes,Guesthouse,106,12/19/2024,12/27/2024,Flight,"Bali, Indonesia",163
+1267,London,UK,urban,Christopher Gonzalez,68,Female,3.8,Yes,Hotel,451,05/24/2024,05/29/2024,Train,"London, UK",210
+1268,Tokyo,Japan,urban,Robert Hubbard,18,Female,3.7,Yes,Hotel,106,11/04/2024,11/06/2024,Bus,"Tokyo, Japan",463
+1269,Singapore,Singapore,urban,Jennifer Miller,55,Female,3.4,Yes,Hotel,152,09/24/2024,10/05/2024,Bus,"Singapore, Singapore",182
+1270,Phuket,Thailand,beach,Nathan Lewis DVM,30,Female,2.6,Yes,Apartment,103,07/10/2024,07/17/2024,Cruise,"Phuket, Thailand",306
+1271,New York,USA,urban,Dorothy Webb,68,Female,4.3,Yes,Hotel,483,10/07/2024,10/09/2024,Train,"New York, USA",737
+1272,Amsterdam,Netherlands,urban,Ashley Gates,56,Male,1.6,Yes,Hotel,223,02/26/2025,03/12/2025,Train,"Amsterdam, Netherlands",573
+1273,Amsterdam,Netherlands,urban,Christopher Garza,56,Female,5,Yes,Guesthouse,213,11/27/2024,11/30/2024,Train,"Amsterdam, Netherlands",447
+1274,Bora Bora,French Polynesia,beach,Kelly Dunn,32,Male,1.3,Yes,Resort,452,03/30/2025,04/05/2025,Car Rental,"Bora Bora, French Polynesia",566
+1275,London,UK,urban,Nicole Smith,53,Female,2.3,Yes,Guesthouse,297,11/07/2024,11/08/2024,Bus,"London, UK",789
+1276,Rome,Italy,historical,Jose Clarke,56,Male,2.4,Yes,Guesthouse,91,02/16/2025,02/20/2025,Bus,"Rome, Italy",910
+1277,Bora Bora,French Polynesia,beach,Marc Robertson,47,Male,3.2,Yes,Resort,144,09/03/2024,09/10/2024,Train,"Bora Bora, French Polynesia",246
+1278,Phuket,Thailand,beach,Donna Johnson,18,Female,2.2,Yes,Resort,125,01/12/2025,01/14/2025,Car Rental,"Phuket, Thailand",201
+1279,Cancun,Mexico,beach,Brittney Harris,69,Male,3.1,Yes,Hotel,384,05/31/2024,06/13/2024,Flight,"Cancun, Mexico",333
+1280,Cape Town,South Africa,nature,Tyler Wright,67,Male,1,Yes,Apartment,350,09/27/2024,09/30/2024,Cruise,"Cape Town, South Africa",163
+1281,Dubai,UAE,urban,George Durham,60,Male,4.9,Yes,Hotel,470,01/19/2025,01/23/2025,Flight,"Dubai, UAE",693
+1282,London,UK,urban,Debra Davis,21,Male,3.4,Yes,Guesthouse,310,02/19/2025,02/20/2025,Bus,"London, UK",520
+1283,Rome,Italy,historical,Sara Wong,25,Male,3.3,Yes,Hostel,62,05/23/2024,05/25/2024,Cruise,"Rome, Italy",817
+1284,Bali,Indonesia,beach,Erika Adams,23,Male,3.6,Yes,Apartment,94,09/05/2024,09/08/2024,Flight,"Bali, Indonesia",813
+1285,Sydney,Australia,beach,Wayne Lamb,20,Male,1.4,Yes,Apartment,224,07/22/2024,07/28/2024,Car Rental,"Sydney, Australia",567
+1286,New York,USA,urban,Mary Lewis,37,Male,3.4,Yes,Hostel,219,12/05/2024,12/14/2024,Train,"New York, USA",970
+1287,Edinburgh,UK,historical,Dustin Fry,27,Female,5,Yes,Hostel,379,01/07/2025,01/14/2025,Cruise,"Edinburgh, UK",65
+1288,Cancun,Mexico,beach,Alexandria Powell,38,Male,3.9,Yes,Hotel,190,12/22/2024,01/03/2025,Flight,"Cancun, Mexico",229
+1289,Amsterdam,Netherlands,urban,Eric Bailey,22,Female,3.2,Yes,Hostel,245,01/03/2025,01/07/2025,Car Rental,"Amsterdam, Netherlands",732
+1290,Marrakech,Morocco,cultural,Deanna Miller,30,Male,3.6,Yes,Apartment,104,02/10/2025,02/16/2025,Bus,"Marrakech, Morocco",233
+1291,Cape Town,South Africa,nature,Ricky Swanson,56,Male,3.2,Yes,Apartment,114,04/04/2025,04/14/2025,Car Rental,"Cape Town, South Africa",642
+1292,Phuket,Thailand,beach,Anna Cox,41,Male,4,Yes,Hostel,65,09/10/2024,09/11/2024,Bus,"Phuket, Thailand",143
+1293,Phuket,Thailand,beach,Samuel Leblanc,63,Female,1.2,Yes,Apartment,269,03/27/2025,04/02/2025,Car Rental,"Phuket, Thailand",796
+1294,Rome,Italy,historical,James Morris,54,Female,4.8,Yes,Resort,421,03/14/2025,03/20/2025,Car Rental,"Rome, Italy",787
+1295,Phuket,Thailand,beach,Tyler Smith,26,Female,3,Yes,Apartment,347,10/29/2024,11/04/2024,Train,"Phuket, Thailand",325
+1296,Barcelona,Spain,urban,Justin Stephens,67,Female,2.9,Yes,Hotel,374,04/14/2025,04/18/2025,Car Rental,"Barcelona, Spain",829
+1297,New York,USA,urban,Christina Alvarez,49,Female,1.1,Yes,Guesthouse,184,10/05/2024,10/11/2024,Cruise,"New York, USA",223
+1298,Istanbul,Turkey,historical,Daniel Palmer,44,Female,2.2,Yes,Guesthouse,293,06/03/2024,06/15/2024,Bus,"Istanbul, Turkey",394
+1299,Bangkok,Thailand,urban,Robert Cole,37,Female,4.8,Yes,Resort,384,02/28/2025,03/02/2025,Flight,"Bangkok, Thailand",910
+1300,Rome,Italy,historical,Veronica Gibbs,55,Male,3,Yes,Guesthouse,55,09/22/2024,09/23/2024,Train,"Rome, Italy",65
+1301,Sydney,Australia,beach,Shelley Sawyer,69,Male,4.3,Yes,Resort,174,11/06/2024,11/18/2024,Flight,"Sydney, Australia",376
+1302,Cancun,Mexico,beach,Elizabeth Hansen,22,Male,1.8,Yes,Apartment,393,05/10/2024,05/16/2024,Cruise,"Cancun, Mexico",216
+1303,Barcelona,Spain,urban,Benjamin Reeves,69,Male,1.8,Yes,Resort,263,04/16/2025,04/19/2025,Car Rental,"Barcelona, Spain",656
+1304,Sydney,Australia,beach,Brian Baker,62,Female,4.8,Yes,Hotel,57,01/12/2025,01/20/2025,Flight,"Sydney, Australia",926
+1305,Bali,Indonesia,beach,Jennifer Lang,61,Female,4,Yes,Hotel,320,05/05/2024,05/14/2024,Flight,"Bali, Indonesia",267
+1306,Bangkok,Thailand,urban,Tiffany Smith,55,Female,3.6,Yes,Resort,483,12/08/2024,12/19/2024,Car Rental,"Bangkok, Thailand",556
+1307,Singapore,Singapore,urban,Joseph Sanchez,59,Female,2.7,Yes,Guesthouse,156,11/17/2024,11/30/2024,Train,"Singapore, Singapore",410
+1308,Tokyo,Japan,urban,Chad Werner,54,Male,1.1,Yes,Apartment,124,09/22/2024,10/05/2024,Cruise,"Tokyo, Japan",782
+1309,London,UK,urban,Nicholas Lyons,19,Male,4.7,Yes,Hotel,155,03/19/2025,03/21/2025,Cruise,"London, UK",439
+1310,Venice,Italy,historical,Aaron Dyer,56,Female,2.9,Yes,Hotel,320,01/09/2025,01/10/2025,Train,"Venice, Italy",294
+1311,Cape Town,South Africa,nature,Cathy Barrett,52,Female,2.9,Yes,Guesthouse,235,05/19/2024,05/25/2024,Car Rental,"Cape Town, South Africa",672
+1312,Edinburgh,UK,historical,Timothy Watson,25,Female,3.9,Yes,Hotel,298,10/19/2024,10/30/2024,Cruise,"Edinburgh, UK",315
+1313,Amsterdam,Netherlands,urban,Scott Caldwell,25,Male,1.2,Yes,Hostel,487,02/07/2025,02/09/2025,Train,"Amsterdam, Netherlands",55
+1314,Bali,Indonesia,beach,Bryan Parker,60,Male,1.4,Yes,Apartment,85,03/22/2025,03/28/2025,Car Rental,"Bali, Indonesia",960
+1315,New York,USA,urban,Travis Brown,23,Female,2.2,Yes,Resort,423,08/22/2024,08/25/2024,Bus,"New York, USA",125
+1316,London,UK,urban,Michael Lynn,34,Female,1.8,Yes,Apartment,350,03/09/2025,03/19/2025,Train,"London, UK",886
+1317,London,UK,urban,Jorge Hayes,38,Male,1.7,Yes,Hotel,118,02/07/2025,02/16/2025,Car Rental,"London, UK",171
+1318,Venice,Italy,historical,Erica Perez,59,Male,3.6,Yes,Hotel,78,09/24/2024,10/08/2024,Train,"Venice, Italy",443
+1319,Marrakech,Morocco,cultural,Samantha Valdez,49,Male,3.3,Yes,Guesthouse,438,02/12/2025,02/21/2025,Bus,"Marrakech, Morocco",135
+1320,Rome,Italy,historical,Eric Ross,47,Female,3.3,Yes,Apartment,194,05/14/2024,05/22/2024,Train,"Rome, Italy",81
+1321,Barcelona,Spain,urban,Christine Molina,44,Male,1.7,Yes,Guesthouse,262,12/03/2024,12/13/2024,Flight,"Barcelona, Spain",818
+1322,Phuket,Thailand,beach,Sara Carpenter,29,Male,1.9,Yes,Apartment,260,09/22/2024,10/03/2024,Cruise,"Phuket, Thailand",470
+1323,Marrakech,Morocco,cultural,Jason Ramsey,54,Male,2.3,Yes,Apartment,452,06/05/2024,06/17/2024,Car Rental,"Marrakech, Morocco",178
+1324,Istanbul,Turkey,historical,Caleb Hernandez,64,Male,1.4,Yes,Apartment,382,10/20/2024,11/02/2024,Flight,"Istanbul, Turkey",65
+1325,Bangkok,Thailand,urban,Mr. Manuel Cox Jr.,65,Male,1.6,Yes,Hotel,259,10/20/2024,10/22/2024,Car Rental,"Bangkok, Thailand",198
+1326,Bora Bora,French Polynesia,beach,Lauren Schmidt,31,Male,4.6,Yes,Hostel,225,08/15/2024,08/20/2024,Car Rental,"Bora Bora, French Polynesia",53
+1327,Rome,Italy,historical,Michelle Nguyen,65,Female,4.9,Yes,Hotel,500,05/27/2024,05/30/2024,Bus,"Rome, Italy",714
+1328,Paris,France,cultural,Luis Hale,21,Male,2.1,Yes,Guesthouse,273,05/22/2024,06/01/2024,Bus,"Paris, France",566
+1329,Bangkok,Thailand,urban,Jaclyn Poole,58,Female,1.6,Yes,Guesthouse,154,10/29/2024,11/07/2024,Train,"Bangkok, Thailand",664
+1330,Tokyo,Japan,urban,William Cooper,26,Female,2.3,Yes,Apartment,65,12/04/2024,12/17/2024,Bus,"Tokyo, Japan",758
+1331,Sydney,Australia,beach,Mark Martin,35,Male,3.4,Yes,Hostel,260,09/10/2024,09/18/2024,Bus,"Sydney, Australia",946
+1332,Amsterdam,Netherlands,urban,Jodi Wright,24,Male,4.8,Yes,Guesthouse,221,07/18/2024,07/29/2024,Flight,"Amsterdam, Netherlands",997
+1333,Cancun,Mexico,beach,David Richardson,62,Male,4.4,Yes,Apartment,403,09/13/2024,09/23/2024,Cruise,"Cancun, Mexico",167
+1334,Tokyo,Japan,urban,Patricia Parker,49,Male,1.7,Yes,Apartment,219,02/10/2025,02/23/2025,Train,"Tokyo, Japan",222
+1335,Amsterdam,Netherlands,urban,Joseph Gray,61,Male,1.4,Yes,Hotel,221,12/16/2024,12/25/2024,Flight,"Amsterdam, Netherlands",836
+1336,Cape Town,South Africa,nature,Joseph Harmon,34,Female,3.1,Yes,Hotel,101,06/09/2024,06/14/2024,Bus,"Cape Town, South Africa",921
+1337,Bora Bora,French Polynesia,beach,Dr. Anthony Velez,26,Male,3.2,Yes,Hostel,171,08/03/2024,08/09/2024,Car Rental,"Bora Bora, French Polynesia",949
+1338,Singapore,Singapore,urban,Andrew Cuevas,44,Female,2.1,Yes,Resort,181,07/17/2024,07/20/2024,Train,"Singapore, Singapore",411
+1339,Amsterdam,Netherlands,urban,Tracey Wiley,24,Female,2.8,Yes,Hotel,262,12/04/2024,12/15/2024,Cruise,"Amsterdam, Netherlands",824
+1340,Cancun,Mexico,beach,George Smith PhD,54,Male,3.8,Yes,Hotel,399,06/30/2024,07/06/2024,Bus,"Cancun, Mexico",996
+1341,Rome,Italy,historical,Alexis Casey,51,Male,4.9,Yes,Hostel,447,08/17/2024,08/26/2024,Flight,"Rome, Italy",452
+1342,Dubai,UAE,urban,David Stewart,43,Female,4.8,Yes,Hostel,255,03/31/2025,04/14/2025,Car Rental,"Dubai, UAE",497
+1343,Tokyo,Japan,urban,Thomas Nguyen,50,Female,2.7,Yes,Guesthouse,312,08/16/2024,08/24/2024,Bus,"Tokyo, Japan",437
+1344,Cape Town,South Africa,nature,Bruce Ponce,58,Female,3.5,Yes,Guesthouse,54,06/09/2024,06/21/2024,Cruise,"Cape Town, South Africa",175
+1345,Venice,Italy,historical,Amy Dixon,39,Female,2.8,Yes,Apartment,465,05/29/2024,06/07/2024,Flight,"Venice, Italy",117
+1346,Amsterdam,Netherlands,urban,Kara Lane,46,Male,1,Yes,Guesthouse,131,12/08/2024,12/15/2024,Flight,"Amsterdam, Netherlands",337
+1347,Bali,Indonesia,beach,Keith Wright DDS,69,Female,4.5,Yes,Hostel,125,11/12/2024,11/22/2024,Cruise,"Bali, Indonesia",740
+1348,Marrakech,Morocco,cultural,Jamie White,51,Female,4.5,Yes,Resort,220,11/15/2024,11/20/2024,Cruise,"Marrakech, Morocco",844
+1349,New York,USA,urban,Kim Weber,23,Female,1.5,Yes,Hostel,280,06/01/2024,06/11/2024,Bus,"New York, USA",823
+1350,Tokyo,Japan,urban,Wayne Weeks,24,Female,2.7,Yes,Guesthouse,174,12/25/2024,01/02/2025,Car Rental,"Tokyo, Japan",808
+1351,Istanbul,Turkey,historical,James Pearson,24,Female,2.5,Yes,Hostel,133,08/12/2024,08/25/2024,Car Rental,"Istanbul, Turkey",257
+1352,Bali,Indonesia,beach,Matthew Robertson,37,Female,3.7,Yes,Hotel,376,01/15/2025,01/22/2025,Cruise,"Bali, Indonesia",182
+1353,Barcelona,Spain,urban,Diana Franklin,26,Female,1.7,Yes,Hotel,296,02/28/2025,03/09/2025,Bus,"Barcelona, Spain",133
+1354,Bora Bora,French Polynesia,beach,Cheryl Burns,70,Female,1.7,Yes,Guesthouse,315,05/05/2024,05/18/2024,Cruise,"Bora Bora, French Polynesia",726
+1355,Paris,France,cultural,James Dunn,68,Female,4.3,Yes,Resort,115,08/26/2024,08/27/2024,Car Rental,"Paris, France",817
+1356,Marrakech,Morocco,cultural,Pamela Velasquez,19,Male,1.8,Yes,Resort,106,11/20/2024,11/28/2024,Bus,"Marrakech, Morocco",161
+1357,Bali,Indonesia,beach,Samuel Pham,56,Female,1.5,Yes,Hotel,427,09/12/2024,09/13/2024,Train,"Bali, Indonesia",869
+1358,Amsterdam,Netherlands,urban,John Lucas,19,Female,1.5,Yes,Hostel,105,11/22/2024,11/25/2024,Bus,"Amsterdam, Netherlands",711
+1359,Cape Town,South Africa,nature,Victor Sanchez,20,Male,4.1,Yes,Apartment,262,04/09/2025,04/23/2025,Bus,"Cape Town, South Africa",455
+1360,Paris,France,cultural,Mr. Jared Williams II,47,Male,4.2,Yes,Hostel,294,03/23/2025,04/06/2025,Train,"Paris, France",711
+1361,Phuket,Thailand,beach,Victoria Anderson,62,Female,2.8,Yes,Hotel,461,10/18/2024,10/23/2024,Flight,"Phuket, Thailand",432
+1362,Barcelona,Spain,urban,Earl Carter,32,Male,4.9,Yes,Hostel,364,12/13/2024,12/26/2024,Flight,"Barcelona, Spain",177
+1363,Phuket,Thailand,beach,Anna Townsend,19,Male,4.6,Yes,Hostel,150,04/18/2025,04/22/2025,Car Rental,"Phuket, Thailand",409
+1364,Venice,Italy,historical,Jennifer Cline,66,Male,2,Yes,Hostel,478,04/11/2025,04/16/2025,Flight,"Venice, Italy",878
+1365,Istanbul,Turkey,historical,Matthew Price,48,Female,4.4,Yes,Guesthouse,423,04/27/2024,05/10/2024,Bus,"Istanbul, Turkey",669
+1366,Marrakech,Morocco,cultural,Cameron Martinez,26,Male,1.7,Yes,Apartment,477,10/31/2024,11/13/2024,Bus,"Marrakech, Morocco",202
+1367,Marrakech,Morocco,cultural,Kirsten Smith,60,Male,3.7,Yes,Guesthouse,483,09/22/2024,10/02/2024,Car Rental,"Marrakech, Morocco",846
+1368,Paris,France,cultural,Daniel Johnson,30,Female,1.6,Yes,Apartment,253,06/14/2024,06/22/2024,Car Rental,"Paris, France",876
+1369,Amsterdam,Netherlands,urban,Connor Nelson,18,Male,1.4,Yes,Hotel,490,03/22/2025,03/25/2025,Cruise,"Amsterdam, Netherlands",713
+1370,Dubai,UAE,urban,Susan Shaffer,52,Female,5,Yes,Apartment,410,07/03/2024,07/14/2024,Flight,"Dubai, UAE",650
+1371,Cape Town,South Africa,nature,Mrs. Amy Garner,33,Male,3.2,Yes,Resort,215,03/02/2025,03/12/2025,Flight,"Cape Town, South Africa",372
+1372,Bali,Indonesia,beach,Jennifer Kane,23,Female,1.6,Yes,Apartment,466,07/22/2024,07/24/2024,Cruise,"Bali, Indonesia",55
+1373,London,UK,urban,Amanda Oconnor,53,Male,4,Yes,Guesthouse,64,02/18/2025,02/26/2025,Train,"London, UK",748
+1374,Rome,Italy,historical,Michael Carson,47,Male,3.5,Yes,Hostel,224,01/06/2025,01/10/2025,Cruise,"Rome, Italy",292
+1375,Amsterdam,Netherlands,urban,Amy Sullivan,33,Female,2.2,Yes,Apartment,247,08/15/2024,08/20/2024,Flight,"Amsterdam, Netherlands",237
+1376,Tokyo,Japan,urban,Molly Parker,22,Male,3.4,Yes,Hostel,117,04/25/2025,04/27/2025,Cruise,"Tokyo, Japan",285
+1377,Amsterdam,Netherlands,urban,Michelle Webb,67,Male,2.3,Yes,Apartment,479,04/24/2025,04/28/2025,Flight,"Amsterdam, Netherlands",199
+1378,Venice,Italy,historical,Anita Sims,23,Female,1.2,Yes,Hostel,320,12/01/2024,12/07/2024,Train,"Venice, Italy",632
+1379,Rome,Italy,historical,Samuel Smith,60,Female,2.6,Yes,Hostel,73,06/23/2024,07/04/2024,Bus,"Rome, Italy",502
+1380,Bangkok,Thailand,urban,John Hansen,38,Female,2.8,Yes,Resort,480,06/17/2024,06/20/2024,Car Rental,"Bangkok, Thailand",799
+1381,London,UK,urban,Jacob Williams,63,Male,2.1,Yes,Apartment,59,08/08/2024,08/17/2024,Bus,"London, UK",761
+1382,Dubai,UAE,urban,Michael Smith,61,Male,3,Yes,Hostel,216,01/12/2025,01/21/2025,Train,"Dubai, UAE",579
+1383,Paris,France,cultural,Anne Kelley,25,Female,3.7,Yes,Guesthouse,278,02/17/2025,02/27/2025,Car Rental,"Paris, France",238
+1384,Venice,Italy,historical,Timothy Kaufman,42,Female,2.3,Yes,Guesthouse,375,12/17/2024,12/30/2024,Flight,"Venice, Italy",722
+1385,Rome,Italy,historical,Isabella Castillo,39,Female,1.5,Yes,Hotel,296,07/20/2024,07/28/2024,Bus,"Rome, Italy",238
+1386,Bora Bora,French Polynesia,beach,Andrew Ramos,64,Male,1.5,Yes,Apartment,283,11/18/2024,12/02/2024,Bus,"Bora Bora, French Polynesia",206
+1387,Bora Bora,French Polynesia,beach,Jamie Dean,30,Female,1.2,Yes,Hostel,205,08/28/2024,09/07/2024,Train,"Bora Bora, French Polynesia",66
+1388,New York,USA,urban,Kristy Baker,23,Male,4.3,Yes,Guesthouse,386,08/14/2024,08/20/2024,Cruise,"New York, USA",324
+1389,Barcelona,Spain,urban,Allen Adams,38,Male,2.6,Yes,Guesthouse,239,09/13/2024,09/14/2024,Bus,"Barcelona, Spain",499
+1390,Marrakech,Morocco,cultural,Jason Fisher,69,Female,4.7,Yes,Apartment,169,10/20/2024,11/02/2024,Cruise,"Marrakech, Morocco",552
+1391,Bora Bora,French Polynesia,beach,William Bryant,21,Female,1.3,Yes,Resort,144,06/21/2024,06/22/2024,Car Rental,"Bora Bora, French Polynesia",774
+1392,Rome,Italy,historical,Ashley Hudson,36,Male,3.6,Yes,Resort,222,06/07/2024,06/20/2024,Cruise,"Rome, Italy",159
+1393,Sydney,Australia,beach,Michael Shannon,40,Female,3.8,Yes,Apartment,273,05/02/2024,05/05/2024,Car Rental,"Sydney, Australia",772
+1394,Sydney,Australia,beach,Jill Donovan,30,Male,3.3,Yes,Guesthouse,398,07/16/2024,07/20/2024,Cruise,"Sydney, Australia",654
+1395,Sydney,Australia,beach,Kim Hess,23,Female,3.6,Yes,Hotel,199,07/14/2024,07/23/2024,Car Rental,"Sydney, Australia",712
+1396,Marrakech,Morocco,cultural,Amy Jimenez,36,Male,1.2,Yes,Hostel,244,05/15/2024,05/20/2024,Cruise,"Marrakech, Morocco",192
+1397,New York,USA,urban,Carol Schneider,58,Male,2.6,Yes,Hotel,231,06/04/2024,06/11/2024,Cruise,"New York, USA",486
+1398,Cape Town,South Africa,nature,Robert Waters,27,Male,4.8,Yes,Resort,465,05/15/2024,05/27/2024,Bus,"Cape Town, South Africa",390
+1399,New York,USA,urban,Amber Morris,56,Male,1.2,Yes,Apartment,102,12/27/2024,12/30/2024,Car Rental,"New York, USA",209
+1400,Bali,Indonesia,beach,Katherine Nunez,18,Male,1.4,Yes,Hotel,207,11/16/2024,11/29/2024,Car Rental,"Bali, Indonesia",991
+1401,Bali,Indonesia,beach,Tyler Riggs,23,Male,3.1,Yes,Hostel,284,04/21/2025,05/01/2025,Cruise,"Bali, Indonesia",464
+1402,Dubai,UAE,urban,Amy Jordan,24,Female,4.4,Yes,Resort,326,08/12/2024,08/13/2024,Train,"Dubai, UAE",941
+1403,Amsterdam,Netherlands,urban,Amy Sanders,63,Male,3.2,Yes,Hotel,168,12/20/2024,12/25/2024,Cruise,"Amsterdam, Netherlands",423
+1404,London,UK,urban,Patricia Cunningham,44,Female,2.4,Yes,Hotel,353,03/26/2025,03/29/2025,Cruise,"London, UK",238
+1405,Amsterdam,Netherlands,urban,Sheri Gonzales,59,Female,3.9,Yes,Guesthouse,302,02/17/2025,02/25/2025,Flight,"Amsterdam, Netherlands",844
+1406,Venice,Italy,historical,Daniel Roberts,60,Female,3.6,Yes,Guesthouse,451,10/17/2024,10/27/2024,Flight,"Venice, Italy",927
+1407,Bali,Indonesia,beach,Matthew Rogers,19,Male,4.8,Yes,Guesthouse,428,12/07/2024,12/13/2024,Train,"Bali, Indonesia",554
+1408,New York,USA,urban,Aaron Floyd,20,Male,1.2,Yes,Guesthouse,113,05/12/2024,05/19/2024,Flight,"New York, USA",810
+1409,Cape Town,South Africa,nature,Jonathan Alvarez,45,Male,1.3,Yes,Hostel,163,07/22/2024,08/04/2024,Car Rental,"Cape Town, South Africa",980
+1410,Barcelona,Spain,urban,Anthony Garcia III,24,Male,3.4,Yes,Guesthouse,89,07/08/2024,07/16/2024,Flight,"Barcelona, Spain",294
+1411,Bora Bora,French Polynesia,beach,Rhonda Neal,54,Male,4.3,Yes,Resort,140,12/02/2024,12/06/2024,Bus,"Bora Bora, French Polynesia",691
+1412,Rome,Italy,historical,Debra Hunter,41,Female,1.5,Yes,Apartment,353,12/24/2024,12/28/2024,Car Rental,"Rome, Italy",690
+1413,Edinburgh,UK,historical,Carl Baker,29,Male,2.7,Yes,Apartment,390,05/25/2024,06/07/2024,Cruise,"Edinburgh, UK",713
+1414,Istanbul,Turkey,historical,Brooke Craig,57,Female,4.3,Yes,Hotel,54,12/02/2024,12/07/2024,Car Rental,"Istanbul, Turkey",740
+1415,Bangkok,Thailand,urban,Walter Singleton,62,Male,3.6,Yes,Apartment,349,12/20/2024,01/02/2025,Bus,"Bangkok, Thailand",586
+1416,Cape Town,South Africa,nature,Michelle Larsen DDS,36,Male,2.5,Yes,Hostel,185,06/10/2024,06/19/2024,Bus,"Cape Town, South Africa",387
+1417,Singapore,Singapore,urban,Tiffany Holt,59,Male,4.4,Yes,Hostel,253,02/25/2025,03/10/2025,Train,"Singapore, Singapore",915
+1418,Tokyo,Japan,urban,Bruce Hall,69,Female,2.5,Yes,Hostel,98,01/26/2025,02/08/2025,Train,"Tokyo, Japan",727
+1419,Tokyo,Japan,urban,Alisha Wilson,37,Male,4.3,Yes,Hostel,339,08/17/2024,08/20/2024,Car Rental,"Tokyo, Japan",337
+1420,Dubai,UAE,urban,Jaime Lee,20,Female,2.1,Yes,Apartment,126,03/22/2025,03/30/2025,Car Rental,"Dubai, UAE",332
+1421,Bali,Indonesia,beach,Katherine Turner,53,Male,2.2,Yes,Resort,338,06/08/2024,06/21/2024,Cruise,"Bali, Indonesia",895
+1422,Bora Bora,French Polynesia,beach,Sharon Perez,59,Male,2.2,Yes,Apartment,191,12/24/2024,12/30/2024,Car Rental,"Bora Bora, French Polynesia",701
+1423,Sydney,Australia,beach,Julie Anderson,29,Female,3.8,Yes,Hotel,373,11/22/2024,12/06/2024,Cruise,"Sydney, Australia",279
+1424,Venice,Italy,historical,Kimberly Mitchell,25,Female,1.5,Yes,Apartment,379,04/19/2025,05/03/2025,Flight,"Venice, Italy",51
+1425,Rome,Italy,historical,Jessica Reid,57,Female,1.5,Yes,Guesthouse,117,04/14/2025,04/28/2025,Bus,"Rome, Italy",265
+1426,Phuket,Thailand,beach,Christine Graham,24,Male,3.2,Yes,Resort,66,01/26/2025,02/07/2025,Train,"Phuket, Thailand",790
+1427,Bangkok,Thailand,urban,Megan Lucas,22,Female,2.3,Yes,Hotel,419,07/05/2024,07/10/2024,Train,"Bangkok, Thailand",331
+1428,Venice,Italy,historical,Brian Davidson,60,Female,3.2,Yes,Hostel,282,06/30/2024,07/13/2024,Car Rental,"Venice, Italy",960
+1429,Cape Town,South Africa,nature,David Cabrera,31,Female,3.2,Yes,Apartment,133,10/08/2024,10/22/2024,Bus,"Cape Town, South Africa",426
+1430,Bali,Indonesia,beach,Christopher Nunez,66,Female,2.6,Yes,Guesthouse,173,09/12/2024,09/26/2024,Car Rental,"Bali, Indonesia",315
+1431,Marrakech,Morocco,cultural,Kyle Henry,55,Female,2.4,Yes,Hotel,274,10/05/2024,10/09/2024,Cruise,"Marrakech, Morocco",341
+1432,Istanbul,Turkey,historical,Natasha Butler,21,Female,1.2,Yes,Apartment,375,03/09/2025,03/15/2025,Car Rental,"Istanbul, Turkey",56
+1433,Cancun,Mexico,beach,Mark Lowe,40,Male,4,Yes,Guesthouse,366,10/02/2024,10/06/2024,Flight,"Cancun, Mexico",53
+1434,Bangkok,Thailand,urban,John Mason,27,Male,1.1,Yes,Apartment,65,11/20/2024,11/23/2024,Train,"Bangkok, Thailand",475
+1435,Bangkok,Thailand,urban,Kaitlin Welch,21,Male,1.2,Yes,Hostel,457,10/29/2024,11/06/2024,Bus,"Bangkok, Thailand",389
+1436,Bangkok,Thailand,urban,Sydney Harmon,24,Male,4.1,Yes,Hotel,320,05/28/2024,06/11/2024,Train,"Bangkok, Thailand",126
+1437,Marrakech,Morocco,cultural,Tiffany Morris,33,Female,2.5,Yes,Apartment,266,09/11/2024,09/16/2024,Car Rental,"Marrakech, Morocco",696
+1438,Edinburgh,UK,historical,Cassandra Hunter,70,Female,4.5,Yes,Hostel,151,05/15/2024,05/23/2024,Car Rental,"Edinburgh, UK",54
+1439,Bora Bora,French Polynesia,beach,Kimberly Anderson,63,Male,1.1,Yes,Hotel,297,06/07/2024,06/11/2024,Cruise,"Bora Bora, French Polynesia",417
+1440,Bora Bora,French Polynesia,beach,Tracy Hendrix,59,Female,2.7,Yes,Hostel,102,12/15/2024,12/20/2024,Car Rental,"Bora Bora, French Polynesia",238
+1441,Rome,Italy,historical,Lindsey Williams,49,Female,2.1,Yes,Hostel,486,02/21/2025,02/25/2025,Cruise,"Rome, Italy",536
+1442,Bora Bora,French Polynesia,beach,Joshua Santos,50,Female,3.6,Yes,Guesthouse,131,10/28/2024,11/10/2024,Cruise,"Bora Bora, French Polynesia",164
+1443,Singapore,Singapore,urban,Tyler Nelson,23,Male,3.9,Yes,Hostel,485,11/24/2024,12/08/2024,Flight,"Singapore, Singapore",735
+1444,Dubai,UAE,urban,Aaron Frazier,51,Female,4.8,Yes,Apartment,463,02/07/2025,02/10/2025,Train,"Dubai, UAE",450
+1445,Edinburgh,UK,historical,Mr. Ryan Roberts PhD,28,Male,3.8,Yes,Apartment,459,03/14/2025,03/19/2025,Flight,"Edinburgh, UK",67
+1446,Dubai,UAE,urban,Christina Holland,19,Male,2.3,Yes,Apartment,394,05/11/2024,05/21/2024,Flight,"Dubai, UAE",630
+1447,Singapore,Singapore,urban,James Little,66,Male,4.9,Yes,Hotel,138,04/13/2025,04/14/2025,Train,"Singapore, Singapore",556
+1448,Bali,Indonesia,beach,Rodney Beasley,48,Male,1.4,Yes,Guesthouse,380,02/19/2025,02/26/2025,Cruise,"Bali, Indonesia",157
+1449,Paris,France,cultural,Victor Tran,61,Male,1.3,Yes,Hotel,450,04/17/2025,05/01/2025,Bus,"Paris, France",261
+1450,Cancun,Mexico,beach,Tiffany Jones,45,Male,3.7,Yes,Apartment,264,04/25/2025,05/07/2025,Car Rental,"Cancun, Mexico",668
+1451,Amsterdam,Netherlands,urban,Natalie Wilson,20,Male,1.1,Yes,Guesthouse,417,12/22/2024,12/23/2024,Train,"Amsterdam, Netherlands",527
+1452,Barcelona,Spain,urban,Casey Young,20,Male,1.6,Yes,Hostel,376,02/07/2025,02/18/2025,Train,"Barcelona, Spain",252
+1453,Rome,Italy,historical,Emily Juarez,44,Male,2.4,Yes,Hostel,233,04/26/2025,05/07/2025,Car Rental,"Rome, Italy",147
+1454,Rome,Italy,historical,Jamie Best,46,Female,4.6,Yes,Hotel,429,06/25/2024,07/09/2024,Train,"Rome, Italy",771
+1455,New York,USA,urban,Cheryl Pollard,62,Male,1.1,Yes,Apartment,456,05/07/2024,05/13/2024,Flight,"New York, USA",257
+1456,Bora Bora,French Polynesia,beach,Kelly Johnson,36,Male,4.9,Yes,Guesthouse,261,03/26/2025,04/04/2025,Car Rental,"Bora Bora, French Polynesia",654
+1457,Sydney,Australia,beach,Sheri Robertson,26,Female,3.4,Yes,Resort,138,07/17/2024,07/21/2024,Bus,"Sydney, Australia",944
+1458,Istanbul,Turkey,historical,Mary Carlson,46,Male,4,Yes,Guesthouse,136,02/25/2025,02/26/2025,Train,"Istanbul, Turkey",56
+1459,Venice,Italy,historical,Steven Gonzalez MD,51,Male,3.7,Yes,Apartment,440,07/22/2024,08/02/2024,Train,"Venice, Italy",969
+1460,Bali,Indonesia,beach,Brittany Anderson,69,Female,1.5,Yes,Guesthouse,138,05/16/2024,05/25/2024,Train,"Bali, Indonesia",708
+1461,Cancun,Mexico,beach,Justin Dyer,68,Male,3.4,Yes,Resort,94,12/15/2024,12/16/2024,Car Rental,"Cancun, Mexico",212
+1462,Rome,Italy,historical,Joann Gardner,67,Female,1.7,Yes,Hotel,83,07/18/2024,07/23/2024,Train,"Rome, Italy",515
+1463,Paris,France,cultural,April Davis,48,Female,3.7,Yes,Hostel,430,03/25/2025,03/26/2025,Car Rental,"Paris, France",530
+1464,Bora Bora,French Polynesia,beach,Stephanie Gibson,40,Male,4.9,Yes,Hotel,151,12/20/2024,12/25/2024,Car Rental,"Bora Bora, French Polynesia",453
+1465,Sydney,Australia,beach,Julie Cortez,29,Female,5,Yes,Hostel,92,09/02/2024,09/16/2024,Flight,"Sydney, Australia",662
+1466,Bora Bora,French Polynesia,beach,Mary Martinez,65,Female,3.7,Yes,Hotel,460,10/22/2024,11/01/2024,Train,"Bora Bora, French Polynesia",975
+1467,Barcelona,Spain,urban,Scott Hill,22,Male,3.2,Yes,Resort,246,10/07/2024,10/12/2024,Train,"Barcelona, Spain",881
+1468,Marrakech,Morocco,cultural,James Hall,66,Male,1.1,Yes,Hostel,442,02/21/2025,02/28/2025,Bus,"Marrakech, Morocco",174
+1469,Bangkok,Thailand,urban,Tina Barber,55,Female,1.5,Yes,Resort,139,01/17/2025,01/18/2025,Cruise,"Bangkok, Thailand",92
+1470,Cape Town,South Africa,nature,Sonya Perry,51,Female,2,Yes,Resort,236,09/25/2024,09/28/2024,Cruise,"Cape Town, South Africa",348
+1471,Amsterdam,Netherlands,urban,Eugene Burke,40,Male,4,Yes,Guesthouse,163,08/03/2024,08/12/2024,Cruise,"Amsterdam, Netherlands",499
+1472,Cape Town,South Africa,nature,John Knight,68,Female,4.3,Yes,Guesthouse,370,05/07/2024,05/20/2024,Bus,"Cape Town, South Africa",356
+1473,Cape Town,South Africa,nature,Sarah Gilmore,43,Female,2.8,Yes,Hostel,453,10/09/2024,10/22/2024,Flight,"Cape Town, South Africa",713
+1474,Edinburgh,UK,historical,Veronica Hernandez,22,Female,4.3,Yes,Resort,141,08/09/2024,08/13/2024,Train,"Edinburgh, UK",505
+1475,New York,USA,urban,Amy Johnson,37,Female,3.6,Yes,Guesthouse,132,01/01/2025,01/13/2025,Train,"New York, USA",380
+1476,Cancun,Mexico,beach,Aaron Reynolds,19,Male,2.3,Yes,Apartment,380,02/09/2025,02/14/2025,Flight,"Cancun, Mexico",174
+1477,Edinburgh,UK,historical,Jamie Palmer,59,Male,1.2,Yes,Hostel,301,04/09/2025,04/13/2025,Bus,"Edinburgh, UK",409
+1478,Venice,Italy,historical,Karen Cain,66,Female,4.8,Yes,Apartment,258,10/05/2024,10/14/2024,Car Rental,"Venice, Italy",318
+1479,Marrakech,Morocco,cultural,Karen Wilson,69,Male,2.8,Yes,Hostel,58,04/04/2025,04/14/2025,Train,"Marrakech, Morocco",670
+1480,London,UK,urban,Catherine Hobbs,48,Female,4,Yes,Hotel,271,11/13/2024,11/18/2024,Car Rental,"London, UK",964
+1481,Singapore,Singapore,urban,Samantha Johnson,48,Male,2.7,Yes,Resort,201,11/22/2024,11/29/2024,Flight,"Singapore, Singapore",406
+1482,Rome,Italy,historical,John Rasmussen,35,Male,3.8,Yes,Apartment,76,01/20/2025,01/25/2025,Car Rental,"Rome, Italy",731
+1483,Rome,Italy,historical,Benjamin Rodriguez,68,Male,3.5,Yes,Guesthouse,391,02/13/2025,02/20/2025,Bus,"Rome, Italy",205
+1484,Amsterdam,Netherlands,urban,Joseph Coleman,70,Female,3.1,Yes,Hostel,56,01/16/2025,01/22/2025,Train,"Amsterdam, Netherlands",280
+1485,Rome,Italy,historical,Kristina Hall,47,Male,2.8,Yes,Guesthouse,371,06/10/2024,06/22/2024,Car Rental,"Rome, Italy",477
+1486,Edinburgh,UK,historical,Crystal Weiss,34,Male,3.5,Yes,Guesthouse,350,12/21/2024,01/01/2025,Flight,"Edinburgh, UK",127
+1487,Cancun,Mexico,beach,Jessica Carr,57,Female,3.4,Yes,Hotel,446,01/01/2025,01/13/2025,Train,"Cancun, Mexico",153
+1488,Bali,Indonesia,beach,Michael King,60,Male,1,Yes,Apartment,454,05/01/2024,05/10/2024,Flight,"Bali, Indonesia",997
+1489,Sydney,Australia,beach,Miguel Hood,25,Male,1.6,Yes,Hostel,74,02/13/2025,02/15/2025,Bus,"Sydney, Australia",656
+1490,Barcelona,Spain,urban,Rebecca Hickman,32,Female,4,Yes,Hotel,476,12/24/2024,01/06/2025,Bus,"Barcelona, Spain",250
+1491,Dubai,UAE,urban,Keith Clark,49,Male,2.6,Yes,Guesthouse,240,03/27/2025,04/06/2025,Train,"Dubai, UAE",998
+1492,Edinburgh,UK,historical,Timothy Walker,20,Female,4.5,Yes,Apartment,296,12/12/2024,12/15/2024,Cruise,"Edinburgh, UK",525
+1493,Bora Bora,French Polynesia,beach,Gina Chaney,39,Female,2.1,Yes,Hotel,356,03/07/2025,03/14/2025,Bus,"Bora Bora, French Polynesia",747
+1494,New York,USA,urban,Sarah Roach,37,Male,3.2,Yes,Hostel,367,03/14/2025,03/16/2025,Car Rental,"New York, USA",291
+1495,Dubai,UAE,urban,Noah Hatfield,60,Female,3.6,Yes,Hostel,474,12/18/2024,12/31/2024,Flight,"Dubai, UAE",641
+1496,Rome,Italy,historical,Jamie Carroll,50,Female,1.1,Yes,Guesthouse,249,01/23/2025,02/01/2025,Flight,"Rome, Italy",186
+1497,Rome,Italy,historical,Cynthia Mata,48,Male,1.8,Yes,Guesthouse,424,12/12/2024,12/17/2024,Flight,"Rome, Italy",812
+1498,Bangkok,Thailand,urban,Ryan Mendoza,61,Female,4.7,Yes,Resort,285,09/14/2024,09/26/2024,Cruise,"Bangkok, Thailand",541
+1499,Barcelona,Spain,urban,Michael Durham,58,Male,3.4,Yes,Resort,443,11/15/2024,11/25/2024,Car Rental,"Barcelona, Spain",556
+1500,Dubai,UAE,urban,Sherri Martinez,37,Male,2.6,Yes,Guesthouse,473,10/22/2024,10/24/2024,Car Rental,"Dubai, UAE",618
